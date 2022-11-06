@@ -1,0 +1,24 @@
+{
+  "server": "kamalatta.ddnss.de",
+  "ip": "88.75.62.89",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.47.50",
+    "5": "66.28.4.182",
+    "6": "154.54.9.22",
+    "7": "195.2.30.26",
+    "8": "195.2.22.46",
+    "9": "195.2.24.34",
+    "10": "195.2.9.41",
+    "11": "195.2.18.190",
+    "12": "145.254.2.182",
+    "13": "188.111.206.215",
+    "14": "88.75.62.89",
+    "15": "88.75.62.89",
+    "16": "88.75.62.89"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIICzTCCAbWgAwIBAgIBADANBgkqhkiG9w0BAQsFADAqMQswCQYDVQQGEwJERTEb\nMBkGA1UEAxMSa2FtYWxhdHRhLmRkbnNzLmRlMB4XDTIyMTAwODAzMzIyNFoXDTI1\nMTAxMDAzMzIyNFowKjELMAkGA1UEBhMCREUxGzAZBgNVBAMTEmthbWFsYXR0YS5k\nZG5zcy5kZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMcyZ5dWRlOd\nyk5iAbZPQj/TIPN4dEUjGN2luYE1M/liaMWj5DqLrdDgN4sh8tDG6UAGv3WIh1hK\n/n/CfPDbEAAggkee2oUciPgQryzBkmUHzySHvZWZT4xtNABqcFqcAQZSYQwCa/qR\nA+vbRCevg4mkydSAqawCw+CiDHiD8hS3CH9HDuarVgn9Fyvmke8b/WB/9xu4iRze\ngc9N5AIoy6b/8QoPEcDQwEe6SRB/sPb1RiY8GIiqPzGRWOTVHvTMGq2n8Y2SODrn\nXoJpaGcXyjx1SsUkoUeg/q7mBD9qeneOQ0kUMn+vL5biUMvUCnTnwTwsbB19NlqP\nvPVTGy1YOi8CAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAM5dLiaBP5TJIaKI9o3bP\nPhRFizqtY+JbqWLiu0HN7dqFF9OVOFBxFYV/z+n6jzwM2+M75osUJaMTHXFFSUT3\nv4AeCWhI6xsYxpxqICToe4hcBmQjABGe3dsOqCaVpSVSRQV3l14Y4HGkZwgC5Xj7\nM60PN5ORrVnzmr7wAC3zx2ydEsaloMOl+xdhMtEvjToNshu5w7r8mQX9LzIzdo8j\np+3H1GGznfpA39dtKtyvrvzorFSee0VoSiU9zqPTCyfYsPnNUWV7pxsru7NivaTE\nJEKkCYVAYuw7HSfTEvGsVAOwI9WOjK+MXHzfxdKXc7qYRleYKb7UbJ3gTvVucVJD\nDQ==\n-----END CERTIFICATE-----\n"
+}

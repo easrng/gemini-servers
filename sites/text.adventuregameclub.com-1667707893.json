@@ -1,0 +1,16 @@
+{
+  "server": "text.adventuregameclub.com",
+  "ip": "162.228.116.147",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.46.178",
+    "6": "154.54.12.86",
+    "13": "12.242.120.89",
+    "14": "71.148.71.19"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBZDCCAQqgAwIBAgIBKjAKBggqhkjOPQQDAjAlMSMwIQYDVQQDDBp0ZXh0LmFk\ndmVudHVyZWdhbWVjbHViLmNvbTAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAw\nMDAwMFowJTEjMCEGA1UEAwwadGV4dC5hZHZlbnR1cmVnYW1lY2x1Yi5jb20wWTAT\nBgcqhkjOPQIBBggqhkjOPQMBBwNCAATyKo5YPTxGtGzdkm2p8iCGtGTBPQ8cOtQT\ni0rgQJPf2d+jJRMuQ/tC0WcVDPig+79PyaWAnXkjYhrLhsmaddPOoykwJzAlBgNV\nHREEHjAcghp0ZXh0LmFkdmVudHVyZWdhbWVjbHViLmNvbTAKBggqhkjOPQQDAgNI\nADBFAiEA7da+ulxGbH6j7/XEJecy9NQUxRjU2Zmp3A9+uKkXgQgCIGoGeKRu37TG\n/bA0c/ZLj/a/Wend1jPG0a4DnN/D+ZzI\n-----END CERTIFICATE-----\n"
+}

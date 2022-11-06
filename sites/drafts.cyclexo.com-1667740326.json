@@ -1,0 +1,22 @@
+{
+  "server": "drafts.cyclexo.com",
+  "ip": "173.230.145.243",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.44.169",
+    "6": "154.54.31.89",
+    "7": "154.54.42.97",
+    "8": "154.54.44.141",
+    "9": "154.54.43.150",
+    "10": "154.54.3.138",
+    "11": "38.142.11.154",
+    "12": "173.230.159.67",
+    "13": "173.230.145.243",
+    "14": "173.230.145.243"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBjzCCATWgAwIBAgIRAOpovXsHhFdQ1js82XfKSrAwCgYIKoZIzj0EAwIwHTEb\nMBkGA1UEAxMSZHJhZnRzLmN5Y2xleG8uY29tMCAXDTIxMDkyNjIxMzY1M1oYDzIx\nMjEwOTAyMjEzNjUzWjAdMRswGQYDVQQDExJkcmFmdHMuY3ljbGV4by5jb20wWTAT\nBgcqhkjOPQIBBggqhkjOPQMBBwNCAASbPVRZ9QUzz/immFj6pei4Np9yfNiR056M\n/QZpBi1xqZST06090Q92Iof0FvjTa1J5WyKbcgQT4/uNnUdFRA80o1QwUjAOBgNV\nHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAd\nBgNVHREEFjAUghJkcmFmdHMuY3ljbGV4by5jb20wCgYIKoZIzj0EAwIDSAAwRQIg\nINE4/gaxE2neZ0kjSV8eUVGmFoGoS3XAHaznkGLco+YCIQDguy44uuyfCJjMdU/v\nrFAP4ggbvXzmScMknwflmXjmeA==\n-----END CERTIFICATE-----\n"
+}

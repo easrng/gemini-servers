@@ -1,0 +1,21 @@
+{
+  "server": "maimingdao.xyz",
+  "ip": "104.245.33.223",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.44.169",
+    "6": "154.54.31.89",
+    "7": "154.54.42.97",
+    "8": "154.54.44.141",
+    "9": "154.54.43.150",
+    "10": "154.54.47.26",
+    "11": "38.104.134.122",
+    "13": "104.245.33.223",
+    "14": "104.245.33.223"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBRzCB7qADAgECAgkAyQ4Ysrj2IRUwCgYIKoZIzj0EAwIwGTEXMBUGA1UEAwwO\nbWFpbWluZ2Rhby54eXowIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBa\nMBkxFzAVBgNVBAMMDm1haW1pbmdkYW8ueHl6MFkwEwYHKoZIzj0CAQYIKoZIzj0D\nAQcDQgAE5qFyFtQvNtiErlxpzwL3rTkiFmAWl1qlUOrG7sTKddzhRE7pbbI1tdrc\nXQ6oaV/bXDZFEuWK76NYIBxmjutq16MdMBswGQYDVR0RBBIwEIIObWFpbWluZ2Rh\nby54eXowCgYIKoZIzj0EAwIDSAAwRQIhAKT1YVsOrFlLdtbhOJJCOsuq2reMo2KP\nHLLDEv9qIldaAiBpGRUA+IvL28FXBpG8nEPqWH+xPBJ4bQJrULrP0VPujg==\n-----END CERTIFICATE-----\n"
+}

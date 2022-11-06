@@ -1,0 +1,25 @@
+{
+  "server": "vision.spb.ru",
+  "ip": "93.100.193.5",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.161",
+    "5": "154.54.77.245",
+    "7": "154.54.56.190",
+    "6": "130.117.0.122",
+    "8": "149.11.84.74",
+    "9": "185.140.148.155",
+    "10": "5.143.250.114",
+    "12": "80.64.103.131",
+    "13": "185.37.128.163",
+    "14": "185.37.128.107",
+    "15": "93.100.0.133",
+    "16": "93.100.193.5",
+    "17": "93.100.193.5",
+    "18": "93.100.193.5"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBqDCCAS6gAwIBAgIBATAKBggqhkjOPQQDAjAvMRUwEwYDVQQKDAxnbW5pc3J2\nIHVzZXIxFjAUBgNVBAMMDXZpc2lvbi5zcGIucnUwIBcNMjIwNDE3MTA1NjMxWhgP\nMjA5MDA1MDUxNDEwMzhaMC8xFTATBgNVBAoMDGdtbmlzcnYgdXNlcjEWMBQGA1UE\nAwwNdmlzaW9uLnNwYi5ydTB2MBAGByqGSM49AgEGBSuBBAAiA2IABBjAW8kLsTJo\nIGHOaZl07AaBCgd2SYTV1Ww24aOsc84wFMChT/BDngV8Z+zqsVo96CbG/fB4BZQd\nuX/E5AE+tFaiHXX5OQz4TcQWQxhFNXm+FxJDBy4a/UIOjH9Q9LC2GKMcMBowGAYD\nVR0RBBEwD4INdmlzaW9uLnNwYi5ydTAKBggqhkjOPQQDAgNoADBlAjEAmoTu2Jta\nhkoQc2M6JnjbU/O5roBbb5oUnvqvt5RC3ZLIz+u/r5IEQ817KIs31MPkAjAfAK7V\nhq9dBipsbo7WUpp6Oz3+j8O5yChn58YfE/E3aNbtcVdieUwJ+D9vBvQWhUU=\n-----END CERTIFICATE-----\n"
+}

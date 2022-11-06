@@ -1,0 +1,14 @@
+{
+  "server": "futagoza.gamiri.com",
+  "ip": "157.245.141.170",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "5": "4.14.218.22",
+    "9": "157.245.141.170",
+    "10": "157.245.141.170"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBTjCB9aADAgECAgEqMAoGCCqGSM49BAMCMB4xHDAaBgNVBAMME2Z1dGFnb3ph\nLmdhbWlyaS5jb20wIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMB4x\nHDAaBgNVBAMME2Z1dGFnb3phLmdhbWlyaS5jb20wWTATBgcqhkjOPQIBBggqhkjO\nPQMBBwNCAAQ/cwjADmu0+vLXM3uEM/xK1egBCl10IYPUCKeIEDeLdoEbfLVr/II2\nCJI587BptOP6t55vmGvlolD1ex/Ct0ZsoyIwIDAeBgNVHREEFzAVghNmdXRhZ296\nYS5nYW1pcmkuY29tMAoGCCqGSM49BAMCA0gAMEUCICN2iOcr/AlPJeNTSNkrprbo\n9SkUN6Wwv8FYDHtVkKRDAiEAgPouBqQBzKc59CAdskB8XV+9IP6PGbPSieKnrL0N\nz10=\n-----END CERTIFICATE-----\n"
+}

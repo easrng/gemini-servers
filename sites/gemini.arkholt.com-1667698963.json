@@ -1,0 +1,15 @@
+{
+  "server": "gemini.arkholt.com",
+  "ip": "23.95.189.118",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.40.102",
+    "4": "154.54.0.90",
+    "5": "38.122.37.122",
+    "9": "23.95.189.118",
+    "10": "23.95.189.118"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBUzCB+qADAgECAgkAye+6FkX/NhwwCgYIKoZIzj0EAwIwHTEbMBkGA1UEAwwS\nZ2VtaW5pLmFya2hvbHQuY29tMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAw\nMDAwWjAdMRswGQYDVQQDDBJnZW1pbmkuYXJraG9sdC5jb20wWTATBgcqhkjOPQIB\nBggqhkjOPQMBBwNCAATwRFUW15bW+gAhxLJO2WlNet5jAz/z7WLgpgjjusHV2wqG\njKh93n/mj7EyaWw8nIZnHCdYNA0dLFbzbNalhIj8oyEwHzAdBgNVHREEFjAUghJn\nZW1pbmkuYXJraG9sdC5jb20wCgYIKoZIzj0EAwIDSAAwRQIgGCpOF3TUJbqw9UaJ\nPc/PBk8cdZ5DDQTpQ+bd1tmCae8CIQDhyIZXDft/FVIKkYSW+nx/fUB+x4jeCQLm\nQi2BNkExnQ==\n-----END CERTIFICATE-----\n"
+}

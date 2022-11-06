@@ -1,0 +1,17 @@
+{
+  "server": "blog.kdx.re",
+  "ip": "213.219.38.200",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.39.118",
+    "6": "154.54.60.254",
+    "7": "204.68.252.59",
+    "11": "213.219.38.200",
+    "12": "213.219.38.200"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBejCCASCgAwIBAgIRAOM5SKvgdoDs8aDgLlLulHswCgYIKoZIzj0EAwIwFjEU\nMBIGA1UEAxMLYmxvZy5rZHgucmUwIBcNMjIxMDEyMDQyOTQ1WhgPMjEyMjA5MTgw\nNDI5NDVaMBYxFDASBgNVBAMTC2Jsb2cua2R4LnJlMFkwEwYHKoZIzj0CAQYIKoZI\nzj0DAQcDQgAEyORyuuakNcP7uagI2yHF4fJpXQNn30Z9iGTmt8bySTUn/6J5XIPu\nhZqjd8YxqQ5PfclyGqFacGvbx8WhKS1ae6NNMEswDgYDVR0PAQH/BAQDAgeAMBMG\nA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwFgYDVR0RBA8wDYILYmxv\nZy5rZHgucmUwCgYIKoZIzj0EAwIDSAAwRQIhAOumUAbYiV19mlUmi/syMyEcKgPJ\nA+lsdhvo+V69rQjtAiAZHO9lgGCdNCERVgljTP/emTHTQZchgG8KuEq223IaCg==\n-----END CERTIFICATE-----\n"
+}

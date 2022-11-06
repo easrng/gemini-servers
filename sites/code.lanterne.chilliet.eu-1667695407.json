@@ -1,0 +1,26 @@
+{
+  "server": "code.lanterne.chilliet.eu",
+  "ip": "89.234.140.141",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.39.118",
+    "6": "154.54.60.173",
+    "7": "130.117.50.133",
+    "8": "154.25.8.222",
+    "9": "149.6.161.130",
+    "10": "185.96.186.19",
+    "11": "185.96.186.119",
+    "12": "185.18.173.176",
+    "13": "91.216.110.10",
+    "14": "89.234.140.6",
+    "15": "89.234.140.5",
+    "16": "89.234.140.141",
+    "17": "89.234.140.141",
+    "18": "89.234.140.141"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIDTTCCAjUCFDXemPDkd0T1Vx5dhLyPKZSf1yuYMA0GCSqGSIb3DQEBCwUAMGMx\nCzAJBgNVBAYTAmZyMQ8wDQYDVQQIDAZGcmFuY2UxIjAgBgNVBAMMGWNvZGUubGFu\ndGVybmUuY2hpbGxpZXQuZXUxHzAdBgkqhkiG9w0BCQEWEGNvbWVAY2hpbGxpZXQu\nZXUwHhcNMjIwMjEwMjIyMzM1WhcNMjMwMjEwMjIyMzM1WjBjMQswCQYDVQQGEwJm\ncjEPMA0GA1UECAwGRnJhbmNlMSIwIAYDVQQDDBljb2RlLmxhbnRlcm5lLmNoaWxs\naWV0LmV1MR8wHQYJKoZIhvcNAQkBFhBjb21lQGNoaWxsaWV0LmV1MIIBIjANBgkq\nhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtEExRHT5d4goM8d7fIIfTgXRppK5YFpZ\n9svP76tEAkRp9+h6JosLrw27zW3u2wMrlPNpsADnRNG7vBbGgCVG0YOaHonYJIti\njmMss9SnhYNbReeyIhEWXQTKFH8+JOgRMpKnYsyyEillVPKmvGtBM6VirzBUH8U+\n3hC+H+6q/XT0bl7LjvAUxI7nBfH2L8A8X6Isuhumm/cjcU6njZmvqngm2c/k8PkS\nXglewqFVk+4yiyf4ItgHsXmN/RJmBK+Et290TxHewT+Tt3dUaq/gyPb9qozKc5xv\n+tjZOLcQW4LPgcDD7jjZCJw3q26u6rVs++da+y+lkuhgAXMW6RiSzwIDAQABMA0G\nCSqGSIb3DQEBCwUAA4IBAQBDDjboeY5N816eqQExROj6YsOlUYJC6UoZ2pUUbwgd\nbPHAbf+2kduy5FvpJZC5dQbZXPY2WoY6bjtKIS6bhrJMNDumwR7UEis5dyYair9w\njAAiGDwSSYTMvP+sXO2ucx39+LMwDt02HaRwIprSwPwDXwjm9XxMGnloC9UC7j2D\nOZxoAPA7OVRd3qt1aCoLjj09GNJmQ+5HOjwTtjbLpezQtqiae2t6M4r/Zl9I9v8u\nVziuBapIYfVQTOmngBCm4EgDfU/0qMkrCqpHwJTclTHPwXcnu9mZNGG1jDWDDOwe\nr0rPj2FrK0d36NDpq+n8kYYgmKhukWqLgb7LQfMxrbXE\n-----END CERTIFICATE-----\n"
+}

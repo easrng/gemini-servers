@@ -1,0 +1,22 @@
+{
+  "server": "gmi.wikdict.com",
+  "ip": "188.68.55.202",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "62.115.187.238",
+    "4": "62.115.117.229",
+    "5": "62.115.123.108",
+    "6": "62.115.113.21",
+    "10": "62.115.112.215",
+    "11": "62.115.46.183",
+    "12": "94.16.25.77",
+    "13": "46.38.252.42",
+    "14": "188.68.55.202",
+    "15": "188.68.55.202",
+    "16": "188.68.55.202",
+    "9": "62.115.133.239"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBhzCCAQ0CAQEwCgYIKoZIzj0EAwIwMTEVMBMGA1UECgwMZ21uaXNydiB1c2Vy\nMRgwFgYDVQQDDA9nbWkud2lrZGljdC5jb20wHhcNMjEwMTMwMTg1MTQ5WhcNMjIw\nMTMwMTg1MTQ5WjAxMRUwEwYDVQQKDAxnbW5pc3J2IHVzZXIxGDAWBgNVBAMMD2dt\naS53aWtkaWN0LmNvbTB2MBAGByqGSM49AgEGBSuBBAAiA2IABHp76JCjUz1Cvror\n57goX6L+cFlTvVEZfonB3y6WjelE9AVl1YRW+TbClNaRRngpjM412WibuoRhiqZD\nHGEVcNBh1pcof5myINbcjV3olHFzQlpOBRHKYY84FvmkE89ZuzAKBggqhkjOPQQD\nAgNoADBlAjEA53H7JPWV6mKRE+CyYssPvkTMyWd2zJ6rB32Zz/KPb2yx6APlnlsV\nDilxAOE2Ygd7AjAFES6gWNzaSK4FHVLBLaFrsvGp2lvG+AhhAkzKdYJ6AIQWxxhb\nqLTticUGROrp88s=\n-----END CERTIFICATE-----\n"
+}

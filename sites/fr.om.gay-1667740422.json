@@ -1,0 +1,18 @@
+{
+  "server": "fr.om.gay",
+  "ip": "173.195.146.139",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.47.50",
+    "5": "154.54.3.142",
+    "6": "154.24.50.86",
+    "7": "38.104.111.122",
+    "8": "208.88.48.1",
+    "9": "173.195.146.139",
+    "10": "173.195.146.139"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBcjCCARegAwIBAgIRAMyUxKctXmW+wqmtXQDGSBswCgYIKoZIzj0EAwIwEzER\nMA8GA1UEAwwIKi5vbS5nYXkwIBcNMjIwNzIzMjIxMzE0WhgPMjEyMjA2MjkyMjEz\nMTRaMBMxETAPBgNVBAMMCCoub20uZ2F5MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcD\nQgAE7asFsLzCh7qYriRXd1ZLVI4DeK897CM3EVe83xrKXbkJy6bg5iI1AwpTPzES\n88pOLgDetV2iD7TbEBHwmVXNiqNKMEgwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQM\nMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwEwYDVR0RBAwwCoIIKi5vbS5nYXkw\nCgYIKoZIzj0EAwIDSQAwRgIhAJjUKx0+L+HnobM5RGWG95F+w+/fxf2Ff1mDH7Wj\nvCzZAiEAo2sm80hzfdR8Hm+P21hi5PugPucuYsQ6q4zRVrG0jCs=\n-----END CERTIFICATE-----\n"
+}

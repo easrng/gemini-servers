@@ -1,0 +1,18 @@
+{
+  "server": "garvalf.ortie.org",
+  "ip": "90.109.238.167",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.6.221",
+    "5": "154.54.45.18",
+    "6": "154.54.11.182",
+    "7": "193.251.128.15",
+    "12": "90.109.238.167",
+    "13": "90.109.238.167",
+    "14": "90.109.238.167"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBTzCB9qADAgECAggVWNTCSYEpQjAKBggqhkjOPQQDAjAcMRowGAYDVQQDDBFn\nYXJ2YWxmLm9ydGllLm9yZzAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAw\nMFowHDEaMBgGA1UEAwwRZ2FydmFsZi5vcnRpZS5vcmcwWTATBgcqhkjOPQIBBggq\nhkjOPQMBBwNCAASbunfCl0kZ6LAHelGTnmA0loz1vXd2xsHSxyEI6kaJIffTh1bM\nFK0Zha16j9NCk5Le6CcT57w1MU6Alw3X9ecuoyAwHjAcBgNVHREEFTATghFnYXJ2\nYWxmLm9ydGllLm9yZzAKBggqhkjOPQQDAgNIADBFAiBzZDVYGU3pQOlkY6MUoxNw\n2x8xRWpFLBeTMxw0qcO7xgIhAJBEUvi6DS7C7nSjvD7BQkPj5vbr4i2G1S7ejOHI\nAvPD\n-----END CERTIFICATE-----\n"
+}

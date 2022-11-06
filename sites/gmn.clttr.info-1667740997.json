@@ -1,0 +1,18 @@
+{
+  "server": "gmn.clttr.info",
+  "ip": "173.195.146.139",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.47.50",
+    "5": "154.54.3.142",
+    "6": "154.24.50.86",
+    "7": "38.104.111.122",
+    "8": "208.88.48.1",
+    "9": "173.195.146.139",
+    "10": "173.195.146.139"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBfTCCASKgAwIBAgIQZM0TW3iblfR4kwHXe/wkUTAKBggqhkjOPQQDAjAXMRUw\nEwYDVQQDDAwqLmNsdHRyLmluZm8wIBcNMjIwNzI1MTg1MjU3WhgPMjEyMjA3MDEx\nODUyNTdaMBcxFTATBgNVBAMMDCouY2x0dHIuaW5mbzBZMBMGByqGSM49AgEGCCqG\nSM49AwEHA0IABEIg64E0cxkpNwtwQXlrx4/xeFZ2iNhCBKB9T1/5j236q+YM0l0I\nnOHNIosmXQgoYs1mp/2b+HRTXoiNYLw4xhOjTjBMMA4GA1UdDwEB/wQEAwIHgDAT\nBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMBcGA1UdEQQQMA6CDCou\nY2x0dHIuaW5mbzAKBggqhkjOPQQDAgNJADBGAiEA3p6Qe36ye3djN8eMuSezY0Am\nuqbmSG9AsfhmbvzI+oACIQD1LvtQecE3Y1wCsuxfP1RQ9zDY/vJekR4WlqjqEww5\nYQ==\n-----END CERTIFICATE-----\n"
+}

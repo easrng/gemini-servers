@@ -1,0 +1,21 @@
+{
+  "server": "w1ke.cz",
+  "ip": "194.182.69.242",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.161",
+    "5": "154.54.77.245",
+    "6": "154.54.38.206",
+    "7": "130.117.1.206",
+    "8": "149.6.24.98",
+    "9": "81.2.192.17",
+    "10": "81.2.192.94",
+    "11": "194.182.69.242",
+    "12": "194.182.69.242",
+    "13": "194.182.69.242"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBjDCCARKgAwIBAgIBATAKBggqhkjOPQQDAjAkMRAwDgYDVQQKDAd3MWtlLmN6\nMRAwDgYDVQQDDAd3MWtlLmN6MCAXDTIyMDcwMTA2NDE0N1oYDzIwOTAwNzE5MDk1\nNTU0WjAkMRAwDgYDVQQKDAd3MWtlLmN6MRAwDgYDVQQDDAd3MWtlLmN6MHYwEAYH\nKoZIzj0CAQYFK4EEACIDYgAEDEdkYzyZCUJFGJNRfW6kRzFK+hZeay97hWvjzGQG\nm/QC/reHPClPqKs2V8I6ub18dCx2luwNvWoxRCyqfg7bnfyqK3qaMcCibSSAUcNQ\n+BtmY2bBrrL46ivuDE21IgsnoxYwFDASBgNVHREECzAJggd3MWtlLmN6MAoGCCqG\nSM49BAMCA2gAMGUCMQDphkvE7LfxeLr01XrbLppYHboLv3a0qpxkXj032oDhY0Jm\nxqwWzh5GG+UUD46QZhcCMFKRNb/agOkKaMFyZw/GKEb7S5xKYHsyihfZbm4JD37k\nZzwcb2lVZjNDDCrhsyHHXA==\n-----END CERTIFICATE-----\n"
+}

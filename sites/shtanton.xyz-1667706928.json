@@ -1,0 +1,21 @@
+{
+  "server": "shtanton.xyz",
+  "ip": "82.34.43.165",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.6.221",
+    "5": "154.54.45.18",
+    "6": "213.46.190.157",
+    "7": "84.116.146.146",
+    "8": "84.116.130.121",
+    "9": "84.116.130.97",
+    "11": "81.96.228.54",
+    "13": "82.34.43.165",
+    "14": "82.34.43.165",
+    "15": "82.34.43.165"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBpjCCASugAwIBAgIBATAKBggqhkjOPQQDAjAuMRUwEwYDVQQKDAxnbW5pc3J2\nIHVzZXIxFTATBgNVBAMMDHNodGFudG9uLnh5ejAgFw0yMjEwMTAxMjIyMzJaGA8y\nMDkwMTAyODE1MzYzOVowLjEVMBMGA1UECgwMZ21uaXNydiB1c2VyMRUwEwYDVQQD\nDAxzaHRhbnRvbi54eXowdjAQBgcqhkjOPQIBBgUrgQQAIgNiAATtZgAqFYub2nwp\nVLVl6gW0Av2dQ0xT+rgcTJmgZJrERapLMeA4h7IVd5M40B9Dy7RD2XelZq431v8B\nY0JQJYY8AW19aCizmjwKVJPC7iTmWUq+E7HPSOOBjJjA4AvmafCjGzAZMBcGA1Ud\nEQQQMA6CDHNodGFudG9uLnh5ejAKBggqhkjOPQQDAgNpADBmAjEA5A3fZEsLaiIa\nxb4Si/fK5mVh+a/+CMURq7DiLwlL8ix3BnFVRtZRhfG8EHjven/FAjEAmG5ONrh2\n6nZdjAaUyjUGO11ji6aPhF0/LLo/ewjQvtIOoXmlWK8zJSVlxFlCJyYK\n-----END CERTIFICATE-----\n"
+}

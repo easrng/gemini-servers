@@ -1,0 +1,20 @@
+{
+  "server": "gemini.thorp.dev",
+  "ip": "107.13.69.245",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.9.18",
+    "4": "213.200.120.54",
+    "5": "208.116.217.62",
+    "6": "209.18.43.58",
+    "7": "66.109.6.81",
+    "8": "24.93.64.185",
+    "9": "24.25.62.105",
+    "10": "174.111.105.161",
+    "11": "107.13.69.245",
+    "12": "107.13.69.245"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBRTCB7KADAgECAgEqMAoGCCqGSM49BAMCMBsxGTAXBgNVBAMMEGdlbWluaS50\naG9ycC5kZXYwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBsxGTAX\nBgNVBAMMEGdlbWluaS50aG9ycC5kZXYwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNC\nAAQDHrJODMCIvYf7QPs+ApUKt7ogAE1+F7cS8I6EfgxKHqmrMLdKM++05Ds/gjR7\nEAPzjT/cPMg31+/dt/9yLkcfox8wHTAbBgNVHREEFDASghBnZW1pbmkudGhvcnAu\nZGV2MAoGCCqGSM49BAMCA0gAMEUCIQDbj1cnDBE2Zhi+Whl8FAy3NkWO435Ie6vt\nL0Fird/4kwIgJpX8wqxwKCtL6RwuPfPj4ak7IODucT8JEbZ1HS/84zA=\n-----END CERTIFICATE-----\n"
+}

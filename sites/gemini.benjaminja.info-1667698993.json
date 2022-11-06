@@ -1,0 +1,15 @@
+{
+  "server": "gemini.benjaminja.info",
+  "ip": "136.36.194.224",
+  "route": {
+    "0": "170.39.230.241",
+    "5": "72.52.92.42",
+    "6": "216.218.245.242",
+    "8": "192.119.17.167",
+    "9": "136.36.194.224",
+    "10": "136.36.194.224",
+    "4": "184.104.199.41",
+    "2": "184.105.80.5"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBkDCCATagAwIBAgIJAIsKHNgv9DF7MAoGCCqGSM49BAMCMDoxHzAdBgNVBAMM\nFmdlbWluaS5iZW5qYW1pbmphLmluZm8xFzAVBgNVBAoMDmJlbmphbWluamEgb3Jn\nMB4XDTIyMDgwNTA1NDU0OVoXDTI3MDgwNDA1NDU0OVowOjEfMB0GA1UEAwwWZ2Vt\naW5pLmJlbmphbWluamEuaW5mbzEXMBUGA1UECgwOYmVuamFtaW5qYSBvcmcwWTAT\nBgcqhkjOPQIBBggqhkjOPQMBBwNCAARxGOMEoPw/U9eRCKArS10jwqORd7cVpqzs\nDyi/+ySTApRfL9qwcuIm7IRENux14pFsF+O6zIOKGc5wmUVfuGOboyUwIzAhBgNV\nHREEGjAYghZnZW1pbmkuYmVuamFtaW5qYS5pbmZvMAoGCCqGSM49BAMCA0gAMEUC\nIBQ6KD0GO0JMFQuiJRpDKqHPLT8oQ6/vihhCEX7C+qy0AiEAjf2RAqupNUMTTWTv\nctAFpcli7RjxCXxv0eHSx/syS6k=\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,20 @@
+{
+  "server": "gemini.techrights.org",
+  "ip": "81.154.171.168",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.47.50",
+    "5": "154.54.3.10",
+    "6": "154.54.10.170",
+    "7": "166.49.195.67",
+    "8": "166.49.214.195",
+    "9": "62.6.204.64",
+    "12": "81.154.171.168",
+    "13": "81.154.171.168",
+    "14": "81.154.171.168"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBVTCB+6ADAgECAgEqMAoGCCqGSM49BAMCMCAxHjAcBgNVBAMMFWdlbWluaS50\nZWNocmlnaHRzLm9yZzAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFow\nIDEeMBwGA1UEAwwVZ2VtaW5pLnRlY2hyaWdodHMub3JnMFkwEwYHKoZIzj0CAQYI\nKoZIzj0DAQcDQgAEI0o5Lnz2dDrRtj/G7fbTQQlIij6iJxkw6B6pFd19Bk+PoPxy\nsVjC81ORc8h14HbDD8NBDWIL0SdPtzcYNT/A+aMkMCIwIAYDVR0RBBkwF4IVZ2Vt\naW5pLnRlY2hyaWdodHMub3JnMAoGCCqGSM49BAMCA0kAMEYCIQDCs7jcvilZocLT\nlsvT9algZT2z6s1UHJ2VPffKIh2B2wIhAOuiE2nhxYijTimG+YM4xMH4bNIKA6Be\nwJ8hAedbybAt\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,19 @@
+{
+  "server": "heavysquare.com",
+  "ip": "135.181.107.227",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.161.98",
+    "5": "212.133.6.2",
+    "6": "213.239.224.26",
+    "7": "88.198.245.254",
+    "9": "95.216.131.182",
+    "10": "135.181.107.227",
+    "11": "135.181.107.227",
+    "12": "135.181.107.227"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBdTCCARugAwIBAgIBKjAKBggqhkjOPQQDAjA0MRgwFgYDVQQDDA9oZWF2eXNx\ndWFyZS5jb20xGDAWBgNVBAoMD2hlYXZ5c3F1YXJlIGNvbTAeFw0yMTEyMDEyMDMy\nNTBaFw0yNjExMzAyMDMyNTBaMDQxGDAWBgNVBAMMD2hlYXZ5c3F1YXJlLmNvbTEY\nMBYGA1UECgwPaGVhdnlzcXVhcmUgY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcD\nQgAEGFsxMFdgPTClvWjCnz9/Q2aGzevvZUd+PP8x7HAWJ+EfbdiP+DMVxJz+Rwo4\nZX5WH8leuDS17og54fM7QdGexqMeMBwwGgYDVR0RBBMwEYIPaGVhdnlzcXVhcmUu\nY29tMAoGCCqGSM49BAMCA0gAMEUCIQC7v3lFNI5Psbumc5YeIlk/wZy1DoW6m3LC\nCjPRSf3IFQIgD4cHgRp23zVBYzZA7yfx4aZBPi7ZYEB6qlOxrPLfv+Y=\n-----END CERTIFICATE-----\n"
+}

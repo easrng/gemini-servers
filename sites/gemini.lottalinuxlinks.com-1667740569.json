@@ -1,0 +1,18 @@
+{
+  "server": "gemini.lottalinuxlinks.com",
+  "ip": "164.153.33.110",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "62.115.187.238",
+    "4": "62.115.136.246",
+    "5": "62.115.134.10",
+    "6": "213.155.137.123",
+    "7": "80.239.195.147",
+    "8": "164.153.33.1",
+    "9": "164.153.33.110",
+    "10": "164.153.33.110"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBZDCCAQqgAwIBAgIBKjAKBggqhkjOPQQDAjAlMSMwIQYDVQQDDBpnZW1pbmku\nbG90dGFsaW51eGxpbmtzLmNvbTAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAw\nMDAwMFowJTEjMCEGA1UEAwwaZ2VtaW5pLmxvdHRhbGludXhsaW5rcy5jb20wWTAT\nBgcqhkjOPQIBBggqhkjOPQMBBwNCAARdXBkoP8SA2RCv+YwR+FAFTIPhC9w+cgcm\n0itjhJuodklKpIvmcSk7MfaZ3yyBXBbs9AEUWtCMiJEysLYALukMoykwJzAlBgNV\nHREEHjAcghpnZW1pbmkubG90dGFsaW51eGxpbmtzLmNvbTAKBggqhkjOPQQDAgNI\nADBFAiA8x3+eQmq9BDZRAijbTuHZo1148gtxUTy8qEM1GaBEjwIhAPNHF1SHR6S+\naoucL3MUxedGiR7EOkgWIeyM3FoNfIay\n-----END CERTIFICATE-----\n"
+}

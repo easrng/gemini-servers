@@ -1,0 +1,23 @@
+{
+  "server": "tracciabi.li",
+  "ip": "78.46.118.216",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.58.70",
+    "6": "130.117.0.142",
+    "7": "154.54.36.254",
+    "8": "154.54.59.194",
+    "9": "154.25.14.46",
+    "10": "149.6.158.186",
+    "11": "213.239.245.54",
+    "12": "213.239.229.254",
+    "13": "78.46.118.216",
+    "14": "78.46.118.216",
+    "15": "78.46.118.216"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBpTCCASugAwIBAgIBATAKBggqhkjOPQQDAjAuMRUwEwYDVQQKDAxUcmFjY2lh\nYmkubGkxFTATBgNVBAMMDHRyYWNjaWFiaS5saTAgFw0yMjA0MjQwODE3NDRaGA8y\nMDkwMDUxMjExMzE1MVowLjEVMBMGA1UECgwMVHJhY2NpYWJpLmxpMRUwEwYDVQQD\nDAx0cmFjY2lhYmkubGkwdjAQBgcqhkjOPQIBBgUrgQQAIgNiAAQ7LnQfyxHn+5B7\nJCWeQ+vCYKrp0l3AvidUTk9YppZCovZPNhw+88ehmFpzhMG/m4kb0O5+6ojNsx0W\ndLHPt3A+XGTG2IPpbteKmW+YzvBy8ZUPWqRQBD6TpD/FVji5ycKjGzAZMBcGA1Ud\nEQQQMA6CDHRyYWNjaWFiaS5saTAKBggqhkjOPQQDAgNoADBlAjEA4JE9KNvAcDtJ\nE1wRjHkbeNh6tiDMbClQIrHJH9yCYcDVLo2Nib73y9E2x4rO/A0sAjBcsJayO0Io\nx9R5ME6dhdPPyMuQnNwmEJwtv1FbiE33NbLDyfyKvf787q0dJXnHh68=\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,21 @@
+{
+  "server": "urgelle.fr",
+  "ip": "31.34.23.128",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.165",
+    "5": "154.54.39.118",
+    "6": "154.54.60.173",
+    "7": "154.54.72.226",
+    "9": "212.194.170.252",
+    "10": "62.34.2.77",
+    "11": "62.34.3.50",
+    "12": "31.34.23.128",
+    "13": "31.34.23.128",
+    "14": "31.34.23.128"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBOjCB4aADAgECAgh6vYiPI0OnIDAKBggqhkjOPQQDAjAVMRMwEQYDVQQDDAp1\ncmdlbGxlLmZyMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAVMRMw\nEQYDVQQDDAp1cmdlbGxlLmZyMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEbAj+\n2kUkMT3JTwD2VeAoLAfbF8FlEjjYAVgbhFYDw3ZeT0hrnkF7Pj6H6H0sQevwTiWE\nY9bDcJAsIuRWdGoE4qMZMBcwFQYDVR0RBA4wDIIKdXJnZWxsZS5mcjAKBggqhkjO\nPQQDAgNIADBFAiEA16xNizRGyc/qy5LGhmVDv7kDMvj2r5EAqBq0WUvRdlsCIC7O\n0fI26QnimQpSLjmxDRgzDvjTphx7pxocQRH8x88h\n-----END CERTIFICATE-----\n"
+}

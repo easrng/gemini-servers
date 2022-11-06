@@ -1,0 +1,14 @@
+{
+  "server": "nomadpengu.in",
+  "ip": "45.55.42.27",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "5": "4.14.218.30",
+    "11": "45.55.42.27",
+    "12": "45.55.42.27"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBQzCB6qADAgECAgh+5nG1foHbsTAKBggqhkjOPQQDAjAYMRYwFAYDVQQDDA1u\nb21hZHBlbmd1LmluMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAY\nMRYwFAYDVQQDDA1ub21hZHBlbmd1LmluMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcD\nQgAECdIok+4A7kmVe2Kopl6trPvVakPAvJq495rbUDO++9bgwh7X+OqCuoHaw7te\n6qiSQpGYq5rFQ9e1xGKqJ+qoH6McMBowGAYDVR0RBBEwD4INbm9tYWRwZW5ndS5p\nbjAKBggqhkjOPQQDAgNIADBFAiEA8C8ub3o1DfEshE8DL/cGJnaCfvrtEpl5NqnB\n2nM71vICIAvPG0NFjB+ojjyE8XNqed7slqhwwsZJ2RtmpBr+RGWH\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,22 @@
+{
+  "server": "dio9sys.fun",
+  "ip": "45.79.71.193",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.44.169",
+    "6": "154.54.31.89",
+    "7": "154.54.42.97",
+    "8": "154.54.44.141",
+    "9": "154.54.43.150",
+    "10": "154.54.3.138",
+    "11": "38.142.11.154",
+    "12": "173.230.159.83",
+    "13": "45.79.71.193",
+    "14": "45.79.71.193"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBPTCB5aADAgECAgkA6b4l3aR6Ma4wCgYIKoZIzj0EAwIwFjEUMBIGA1UEAwwL\nZGlvOXN5cy5mdW4wIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBYx\nFDASBgNVBAMMC2RpbzlzeXMuZnVuMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE\nNvgUvGlHYQ3YLY2Lyj3u2pDHg+HZ8TMftEpc0yjUVu5opfoDvRVVei7F4GcYXJgC\nCm0sMJaBfMdqCmf9IreksKMaMBgwFgYDVR0RBA8wDYILZGlvOXN5cy5mdW4wCgYI\nKoZIzj0EAwIDRwAwRAIgTnID6QeJSKlt+7zUE+oao8fVgd9ZCg+z7bngHNh7n4cC\nICWHDATVU95ia5YzqUrOlELRuIU+HeEsqZw2dRxoH47b\n-----END CERTIFICATE-----\n"
+}

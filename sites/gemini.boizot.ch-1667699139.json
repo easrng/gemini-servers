@@ -1,0 +1,29 @@
+{
+  "server": "gemini.boizot.ch",
+  "ip": "62.220.153.35",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.39.118",
+    "6": "154.54.60.173",
+    "7": "130.117.50.133",
+    "8": "154.25.8.222",
+    "9": "149.6.161.130",
+    "10": "185.96.186.19",
+    "11": "185.96.186.119",
+    "12": "185.18.173.176",
+    "13": "185.18.173.99",
+    "14": "185.96.186.79",
+    "15": "185.96.186.80",
+    "16": "212.85.148.59",
+    "17": "185.125.199.31",
+    "18": "185.125.199.49",
+    "19": "62.220.153.35",
+    "20": "62.220.153.35",
+    "21": "62.220.153.35"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBRDCB7KADAgECAgEqMAoGCCqGSM49BAMCMBsxGTAXBgNVBAMMEGdlbWluaS5i\nb2l6b3QuY2gwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBsxGTAX\nBgNVBAMMEGdlbWluaS5ib2l6b3QuY2gwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNC\nAATsfbqvAO5aCS+NueTohV5/k9tZi/eqtIXn7D4gV/uVaiP2dXWUL8Deqy8bXpeV\ncrRfdNssu1cHlhzeCIy5DJZRox8wHTAbBgNVHREEFDASghBnZW1pbmkuYm9pem90\nLmNoMAoGCCqGSM49BAMCA0cAMEQCIEk9GTBGqf3HBUuRVbYG7GFFXewJFCB/l5wh\nr6tRAd8BAiBBVJdgt5hoMfYceCjd5LBzjlRvPCZNTA76jC5+Om87GQ==\n-----END CERTIFICATE-----\n"
+}

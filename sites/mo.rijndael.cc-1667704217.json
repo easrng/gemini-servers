@@ -1,0 +1,19 @@
+{
+  "server": "mo.rijndael.cc",
+  "ip": "135.181.144.44",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.161.98",
+    "5": "212.133.6.2",
+    "6": "213.239.224.26",
+    "7": "88.198.249.94",
+    "9": "95.216.129.7",
+    "10": "135.181.144.44",
+    "11": "135.181.144.44",
+    "12": "135.181.144.44"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBaTCCARCgAwIBAgIBKjAKBggqhkjOPQQDAjAvMRcwFQYDVQQDDA5tby5yaWpu\nZGFlbC5jYzEUMBIGA1UECgwLVGhlIEN1bSBsdGQwHhcNMjEwOTIzMTQwODQ5WhcN\nMjYwOTIyMTQwODQ5WjAvMRcwFQYDVQQDDA5tby5yaWpuZGFlbC5jYzEUMBIGA1UE\nCgwLVGhlIEN1bSBsdGQwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARAg1pEaf5f\nqPvoxBQsVcgMnRdz7zErTy0VFRUpCPbU5RUbo/M38UjLtZLLo1jA8p49DxcEDn9q\nKfVj8B8NQ1E4ox0wGzAZBgNVHREEEjAQgg5tby5yaWpuZGFlbC5jYzAKBggqhkjO\nPQQDAgNHADBEAiA6X3fkJRaXdyuGP4V3bSgwdjrLvIIXsqqtxADmh6x3MwIgelP1\ngv+zZPkGNdAIxBx2jpkkEYBjpuD/8YLhsZV6/2A=\n-----END CERTIFICATE-----\n"
+}

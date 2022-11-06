@@ -1,0 +1,19 @@
+{
+  "server": "gmisub.geminet.org",
+  "ip": "135.181.153.189",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.161.98",
+    "5": "212.133.6.2",
+    "6": "213.239.224.38",
+    "7": "88.198.249.90",
+    "9": "95.216.128.225",
+    "10": "135.181.153.189",
+    "11": "135.181.153.189",
+    "12": "135.181.153.189"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBjDCCARMCAQEwCgYIKoZIzj0EAwIwNDEVMBMGA1UECgwMZ21uaXNydiB1c2Vy\nMRswGQYDVQQDDBJnbWlzdWIuZ2VtaW5ldC5vcmcwHhcNMjIwNzMwMDc0OTQ1WhcN\nMjMwNzMwMDc0OTQ1WjA0MRUwEwYDVQQKDAxnbW5pc3J2IHVzZXIxGzAZBgNVBAMM\nEmdtaXN1Yi5nZW1pbmV0Lm9yZzB2MBAGByqGSM49AgEGBSuBBAAiA2IABMdcbKdm\nMJ8IUpKQGFL43UyWRb3a1W5sq1yhapgq8EZAJFvN6u5P2prjpbhwNEEgtxm0ed0p\n6wh0ffmVen2GjWk5wc1yCT4uoTK0Rf06hpW7qQJRJOT6FR4PQF+jqo++hjAKBggq\nhkjOPQQDAgNnADBkAjANUMqTLUq1zjNfUdLgb3SCimUsNqIT94D17ZpINAvL8r5S\nUsc6k0UxWbjH4G3sy3ACMAkRCF1g7XfiFcUmq4h5htqMELxwnZtQo/K2bDVkYksd\njSlCLHEkrx7a0wO9IjTn4g==\n-----END CERTIFICATE-----\n"
+}

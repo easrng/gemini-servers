@@ -1,0 +1,16 @@
+{
+  "server": "danielc.dev",
+  "ip": "72.11.63.202",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.82.250",
+    "5": "66.28.4.74",
+    "7": "204.116.36.175",
+    "11": "72.11.63.202",
+    "12": "72.11.63.202"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBoTCCASigAwIBAgIBATAKBggqhkjOPQQDAjAtMRUwEwYDVQQKDAxnbW5pc3J2\nIHVzZXIxFDASBgNVBAMMC2RhbmllbGMuZGV2MCAXDTIyMDYyNDAyMDUxMloYDzIw\nOTAwNzEyMDUxOTE5WjAtMRUwEwYDVQQKDAxnbW5pc3J2IHVzZXIxFDASBgNVBAMM\nC2RhbmllbGMuZGV2MHYwEAYHKoZIzj0CAQYFK4EEACIDYgAEl6C44LzAGkLn2wqe\nTEls6gohD7R3sLbC6bpx2f3Ddpcr/Wj/H7qpv0p4Rvj1+0hknAskjfS7phz+lg3T\nEOcOcU3iZg2O8eNmR3SIVUkHtOONXJUh3U8UXOwGFhxzra6SoxowGDAWBgNVHREE\nDzANggtkYW5pZWxjLmRldjAKBggqhkjOPQQDAgNnADBkAjEAxibfbC04Q1W7vx+T\nIt5PE7zhMbRzpmFy0se5+fsVjBg7c6lqqLi5nvscH8hD1uyvAi99/zg6eEJo29Ko\nTF+GGPjD/Sb8oBTjvGWVitcCHAy7c5ph6cTDoK3JbRC+TwxFnQ==\n-----END CERTIFICATE-----\n"
+}

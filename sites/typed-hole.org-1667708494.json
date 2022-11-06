@@ -1,0 +1,20 @@
+{
+  "server": "typed-hole.org",
+  "ip": "95.179.238.241",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.39.118",
+    "6": "154.54.60.13",
+    "7": "130.117.3.102",
+    "8": "149.6.3.166",
+    "10": "10.69.1.242",
+    "12": "95.179.238.241",
+    "13": "95.179.238.241",
+    "9": "10.69.5.22"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBXzCCAQWgAwIBAgIQW6nqhKco8kVloI9jKZTDzDAKBggqhkjOPQQDAjAZMRcw\nFQYDVQQDEw50eXBlZC1ob2xlLm9yZzAeFw0yMTA5MjgxMDAxMTlaFw0yNjA5Mjgx\nMDAxMTlaMBkxFzAVBgNVBAMTDnR5cGVkLWhvbGUub3JnMFkwEwYHKoZIzj0CAQYI\nKoZIzj0DAQcDQgAEqo5C8RklruvdTi3MTVtKHqG59A0e1ukfBsVwR+P9zni69SA4\nqbttxedUE4tIN3NHKmDaS26DS6mFQYvevpSonqMvMC0wKwYDVR0RBCQwIoIOdHlw\nZWQtaG9sZS5vcmeCECoudHlwZWQtaG9sZS5vcmcwCgYIKoZIzj0EAwIDSAAwRQIh\nAIndCbYvxbwwf3fWxh2WH7aMP7pbLpL+aXWo9PnP6e9DAiBo+UvtEUDULgJOfRo6\nib/XT7KZVGvBzbC0X9b8vrxgig==\n-----END CERTIFICATE-----\n"
+}

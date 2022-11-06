@@ -1,0 +1,19 @@
+{
+  "server": "hyperborea.org",
+  "ip": "208.97.180.152",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.82.250",
+    "5": "154.54.30.54",
+    "6": "154.54.25.226",
+    "7": "38.122.62.254",
+    "8": "208.113.156.58",
+    "9": "208.113.156.207",
+    "10": "208.97.180.152",
+    "11": "208.97.180.152"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBPzCB5qADAgECAgEqMAoGCCqGSM49BAMCMBkxFzAVBgNVBAMMDmh5cGVyYm9y\nZWEub3JnMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAZMRcwFQYD\nVQQDDA5oeXBlcmJvcmVhLm9yZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABHhR\nYPQPUSs7/XvEHvuXHnlD7s813M9R0sT5zEMpw1sVyDm1IeiC+7RxfUAaM/iWvl3a\n9tvOoTgKti2UDtgT89WjHTAbMBkGA1UdEQQSMBCCDmh5cGVyYm9yZWEub3JnMAoG\nCCqGSM49BAMCA0gAMEUCIQCKalNOr5Gw1zkmU+87A+unBm3ypKNCzwd/QK5IWKxc\n/AIgZlr6/bwKK40hDgatCiTtA56DDfmaT3mO+zCmcOv4oKE=\n-----END CERTIFICATE-----\n"
+}

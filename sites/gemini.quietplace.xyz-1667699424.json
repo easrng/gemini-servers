@@ -1,0 +1,22 @@
+{
+  "server": "gemini.quietplace.xyz",
+  "ip": "92.63.98.130",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.161",
+    "5": "154.54.77.245",
+    "6": "154.54.38.206",
+    "7": "154.54.61.222",
+    "8": "154.54.61.238",
+    "9": "130.117.50.226",
+    "10": "149.6.169.218",
+    "12": "80.64.102.193",
+    "15": "92.63.98.130",
+    "16": "92.63.98.130",
+    "17": "92.63.98.130"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBlTCCATugAwIBAgIUeKZnfFt3dQLBAbB+Yvxht+5LLvIwCgYIKoZIzj0EAwIw\nIDEeMBwGA1UEAwwVZ2VtaW5pLnF1aWV0cGxhY2UueHl6MB4XDTIyMDEyMjE2NDcw\nMloXDTMyMDEyMDE2NDcwMlowIDEeMBwGA1UEAwwVZ2VtaW5pLnF1aWV0cGxhY2Uu\neHl6MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEFkeOJ3L3BiFamDfqrZuUEPGm\n5I+ICJ+bU60mFe9eIVdO1jSdcLAq8bSkOdBYWUqcMY2aEeTQK92Y+WDkgQq+d6NT\nMFEwHQYDVR0OBBYEFAY00i6cwm5aDBJxwZrkjjxZqoMvMB8GA1UdIwQYMBaAFAY0\n0i6cwm5aDBJxwZrkjjxZqoMvMA8GA1UdEwEB/wQFMAMBAf8wCgYIKoZIzj0EAwID\nSAAwRQIhAI27wmST5HdkVgOaEuO4UGnzADnNnrtir5E0rOSl6T7BAiB9t+sXq+K7\nT/6qQ5ED5KmXPqMYkgWoXO7eGerHVyaXeA==\n-----END CERTIFICATE-----\n"
+}

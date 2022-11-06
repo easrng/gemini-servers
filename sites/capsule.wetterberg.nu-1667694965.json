@@ -1,0 +1,20 @@
+{
+  "server": "capsule.wetterberg.nu",
+  "ip": "51.158.105.65",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.161",
+    "5": "154.54.39.149",
+    "6": "154.54.60.169",
+    "7": "154.54.38.66",
+    "8": "154.54.60.186",
+    "9": "149.6.164.42",
+    "10": "51.158.8.180",
+    "15": "51.158.105.65",
+    "16": "51.158.105.65"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBWDCB/qADAgECAhBvidV6ZG5KsUa2PtRwtrUaMAoGCCqGSM49BAMCMAAwHhcN\nMjIwMTA2MjMwMjQzWhcNMjMwMTA2MjMwMjQzWjAAMFkwEwYHKoZIzj0CAQYIKoZI\nzj0DAQcDQgAEpZ9HL0FjAGxiGpCFwUoYUe5pwWqNwixeoYolBb77EIy+aDR48TLY\npiLLOiENOVdArZ0azsmZhz5ydf/BpOJUpaNaMFgwDgYDVR0PAQH/BAQDAgeAMBMG\nA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwIwYDVR0RAQH/BBkwF4IV\nY2Fwc3VsZS53ZXR0ZXJiZXJnLm51MAoGCCqGSM49BAMCA0kAMEYCIQD2WIjIiqZo\nuRLnr6VcpNIa8btWqbCXjQHU2baSMVzTAwIhAM8UOlnOX4j50RgWS8QaFFQBkH5j\nVq8UEcU+jzSmhJeu\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,15 @@
+{
+  "server": "eapl.mx",
+  "ip": "138.197.212.214",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.219.65",
+    "5": "4.7.18.10",
+    "11": "138.197.212.214",
+    "12": "138.197.212.214"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBeTCCAR+gAwIBAgIUDZaefRwWEBE0o8J8AQeh1phRwt8wCgYIKoZIzj0EAwIw\nEjEQMA4GA1UEAwwHZWFwbC5teDAeFw0yMjEwMTIxOTM0MzVaFw0zMjEwMDkxOTM0\nMzVaMBIxEDAOBgNVBAMMB2VhcGwubXgwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNC\nAATx++vPkzWiJpI66LwfWkY19E+0j9xOq5covzo+zMiTPkhGuoIcpVWM3/f/nf4h\nix+4Roajxh3ZqJ2HdkAxjn2Po1MwUTAdBgNVHQ4EFgQU+Ok8j6eqXFKzDzr/Q/wC\ni77xo3cwHwYDVR0jBBgwFoAU+Ok8j6eqXFKzDzr/Q/wCi77xo3cwDwYDVR0TAQH/\nBAUwAwEB/zAKBggqhkjOPQQDAgNIADBFAiEAhgXoVSq1gC6rP2s+2Ka49VzyMS86\nRTyP45jvzUNESe0CIFi+8elV8ZMDOYNK9fXc8vnDhYbF/vQZYqGGQUbjKZYL\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,21 @@
+{
+  "server": "johan.egneblad.se",
+  "ip": "155.4.246.176",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.163.114",
+    "5": "212.73.252.46",
+    "6": "46.59.113.204",
+    "7": "46.59.112.132",
+    "8": "46.59.113.209",
+    "9": "46.59.112.175",
+    "10": "212.37.8.93",
+    "11": "155.4.246.176",
+    "12": "155.4.246.176",
+    "13": "155.4.246.176"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBUDCB96ADAgECAgkAwrmVrtJHaJ8wCgYIKoZIzj0EAwIwHDEaMBgGA1UEAwwR\nam9oYW4uZWduZWJsYWQuc2UwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAw\nMDBaMBwxGjAYBgNVBAMMEWpvaGFuLmVnbmVibGFkLnNlMFkwEwYHKoZIzj0CAQYI\nKoZIzj0DAQcDQgAERF1wkth6bKLPXwRI6c/9+l8PG3+FB9LaBdCy9NqYy2xFIdKm\ni/396HtOL9mdfxO1hjtW4dXpPuBfDxAWPKnXK6MgMB4wHAYDVR0RBBUwE4IRam9o\nYW4uZWduZWJsYWQuc2UwCgYIKoZIzj0EAwIDSAAwRQIhANcwecR4YDVNfVnBfbnA\nlA0Xjihj7sTH/cw4qufCW84iAiBuTOx9n1dPJgLjnIY6oHSjoRyCna6U4MUFq6b5\nNvBdNg==\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,24 @@
+{
+  "server": "uhc.megaburken.net",
+  "ip": "90.231.14.152",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "62.115.187.238",
+    "4": "62.115.117.229",
+    "5": "62.115.123.108",
+    "6": "80.91.254.90",
+    "7": "62.115.139.172",
+    "8": "62.115.125.249",
+    "9": "62.115.143.7",
+    "10": "81.228.88.149",
+    "11": "81.228.94.243",
+    "12": "81.228.77.103",
+    "13": "81.228.78.234",
+    "16": "81.228.77.103",
+    "17": "90.231.14.152",
+    "18": "90.231.14.152"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBSjCB8qADAgECAgEqMAoGCCqGSM49BAMCMB0xGzAZBgNVBAMMEnVoYy5tZWdh\nYnVya2VuLm5ldDAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFowHTEb\nMBkGA1UEAwwSdWhjLm1lZ2FidXJrZW4ubmV0MFkwEwYHKoZIzj0CAQYIKoZIzj0D\nAQcDQgAEu19lWfENm8Ipao9lhkss4OE6nw5TB6nFZo01kDo09yUL6nBZgUrtD/Xz\n1YaOklbX36zbvxp5QW5X9kM8Z1kjKKMhMB8wHQYDVR0RBBYwFIISdWhjLm1lZ2Fi\ndXJrZW4ubmV0MAoGCCqGSM49BAMCA0cAMEQCIGF7wE2qNIH/i+zHtdtQ8X8Y1ro5\nOdzNsaFLIKsZ3T7VAiB0DyzxDTbQN1sbC9NDiRkgctsO2fgVx1g/cBcwo4IzeQ==\n-----END CERTIFICATE-----\n"
+}

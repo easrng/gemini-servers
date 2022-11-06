@@ -1,0 +1,14 @@
+{
+  "server": "milddermatographia.com",
+  "ip": "45.63.8.191",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "5": "65.59.14.18",
+    "9": "45.63.8.191",
+    "10": "45.63.8.191"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBVjCB/qADAgECAgEqMAoGCCqGSM49BAMCMCExHzAdBgNVBAMMFm1pbGRkZXJt\nYXRvZ3JhcGhpYS5jb20wIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBa\nMCExHzAdBgNVBAMMFm1pbGRkZXJtYXRvZ3JhcGhpYS5jb20wWTATBgcqhkjOPQIB\nBggqhkjOPQMBBwNCAATKbU/LDak5zbqPWKKNU3m+XerSw20mlpumKzwSzSjHWfbN\nghJrEDWiMNepo0Rnpetso3/AfrLugV1IinYTlDJ+oyUwIzAhBgNVHREEGjAYghZt\naWxkZGVybWF0b2dyYXBoaWEuY29tMAoGCCqGSM49BAMCA0cAMEQCIF8UPtqLCrFe\nyX9GCkVutewChnzHfHwlQ2Oqvub0q5RnAiA5CdfLxBWe7d4mlovNCRVRc9uDLR7N\nyECrPclAPWSAUw==\n-----END CERTIFICATE-----\n"
+}

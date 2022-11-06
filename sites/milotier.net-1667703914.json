@@ -1,0 +1,19 @@
+{
+  "server": "milotier.net",
+  "ip": "82.176.196.179",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.161",
+    "5": "154.54.77.245",
+    "6": "130.117.1.10",
+    "8": "62.45.254.210",
+    "9": "62.238.254.177",
+    "10": "82.176.196.179",
+    "11": "82.176.196.179",
+    "12": "82.176.196.179"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBOjCB4KADAgECAgEqMAoGCCqGSM49BAMCMBcxFTATBgNVBAMMDG1pbG90aWVy\nLm5ldDAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFowFzEVMBMGA1UE\nAwwMbWlsb3RpZXIubmV0MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEUOuhn7nj\nspy7MuqkLc8V2mO1QTI7IsmzH80ZCIdovcNw/CddINSW0vUFyN7LfUCNemuJrL6x\n3quvVt6RupydlqMbMBkwFwYDVR0RBBAwDoIMbWlsb3RpZXIubmV0MAoGCCqGSM49\nBAMCA0kAMEYCIQCk2T18hruYxGx/TmGeyHbVaLQXHDYcDlnoxZ2+chv/cwIhAJY8\nsItv7Uuo72Kz7/lJij63I22rXUJWoUN5WLKaYjhk\n-----END CERTIFICATE-----\n"
+}

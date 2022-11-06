@@ -1,0 +1,20 @@
+{
+  "server": "gemini.hitchhiker-linux.org",
+  "ip": "65.185.175.181",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.9.18",
+    "4": "213.254.230.165",
+    "5": "208.116.217.26",
+    "6": "66.109.0.108",
+    "7": "66.109.5.137",
+    "8": "107.14.17.253",
+    "9": "65.29.1.29",
+    "11": "24.164.119.190",
+    "12": "65.185.175.181",
+    "13": "65.185.175.181"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBbTCCARSgAwIBAgIIUwjUm6RQzRMwCgYIKoZIzj0EAwIwJjEkMCIGA1UEAwwb\nZ2VtaW5pLmhpdGNoaGlrZXItbGludXgub3JnMCAXDTc1MDEwMTAwMDAwMFoYDzQw\nOTYwMTAxMDAwMDAwWjAmMSQwIgYDVQQDDBtnZW1pbmkuaGl0Y2hoaWtlci1saW51\neC5vcmcwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARvpJuNN/wTm1P8T/hkFNF4\ncw+IjI4Vl30TZOiXd4XC9QJTNCunwheEYP3BCZx+bGKTqImIMNW6pPzff9Ufjz6D\noyowKDAmBgNVHREEHzAdghtnZW1pbmkuaGl0Y2hoaWtlci1saW51eC5vcmcwCgYI\nKoZIzj0EAwIDRwAwRAIgPOvB+h2AcXEPJUQr3czhFenBspgsfeuYMIIw74s57yEC\nIGF4JtCpPM82b9e0x4P3gVCggoBbKgXchOB4VRI9mj2q\n-----END CERTIFICATE-----\n"
+}

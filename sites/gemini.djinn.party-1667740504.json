@@ -1,0 +1,14 @@
+{
+  "server": "gemini.djinn.party",
+  "ip": "134.209.79.121",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "5": "4.14.218.30",
+    "9": "134.209.79.121",
+    "10": "134.209.79.121"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBSzCB8qADAgECAgEqMAoGCCqGSM49BAMCMB0xGzAZBgNVBAMMEmdlbWluaS5k\namlubi5wYXJ0eTAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFowHTEb\nMBkGA1UEAwwSZ2VtaW5pLmRqaW5uLnBhcnR5MFkwEwYHKoZIzj0CAQYIKoZIzj0D\nAQcDQgAE7tK83fgICmsF2tbrKpZ2k8TyVXEa435Xen7tEUgoPsEj0au73iWT73hj\n5Gy9me4EqyIJIv6tvwmgIfjxZODYyqMhMB8wHQYDVR0RBBYwFIISZ2VtaW5pLmRq\naW5uLnBhcnR5MAoGCCqGSM49BAMCA0gAMEUCIQCuOr6lbmSu1cDkpU/3sL/UHd2o\nr4idIt5ecVXgDdO1yQIgJh1FtXMAKaOGnlTraDdV4S3HomsxSdlmXDJFP+TbE1s=\n-----END CERTIFICATE-----\n"
+}

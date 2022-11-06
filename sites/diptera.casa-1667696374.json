@@ -1,0 +1,18 @@
+{
+  "server": "diptera.casa",
+  "ip": "136.244.67.87",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.39.118",
+    "6": "154.54.60.13",
+    "7": "130.117.3.102",
+    "8": "149.6.146.66",
+    "9": "10.69.3.70",
+    "10": "10.69.1.238"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBOTCB4KADAgECAgEqMAoGCCqGSM49BAMCMBcxFTATBgNVBAMMDGRpcHRlcmEu\nY2FzYTAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFowFzEVMBMGA1UE\nAwwMZGlwdGVyYS5jYXNhMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEknSKpX3N\n+gtMAUaDXCOBNaM6gcVlcxb27gY3eqyxInDxYyif5UT8Eoo+0vbNXse5pSJfW04L\nQt6nUCr5BPvuxaMbMBkwFwYDVR0RBBAwDoIMZGlwdGVyYS5jYXNhMAoGCCqGSM49\nBAMCA0gAMEUCIQCXWejTxMje/UqW1CqdUEjbs+9RCmHhgLkriH0Z91Wg4gIgIXpu\npkLMsVZfMzXj0TOeOD3djAT0CeP8r+e0Q1/swUE=\n-----END CERTIFICATE-----\n"
+}

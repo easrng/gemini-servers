@@ -1,0 +1,16 @@
+{
+  "server": "tykozic.net",
+  "ip": "45.79.179.225",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.209.82",
+    "5": "4.30.176.210",
+    "6": "23.203.156.17",
+    "10": "45.79.179.225",
+    "11": "45.79.179.225"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBPTCB5aADAgECAgkA4zRQf4DC93IwCgYIKoZIzj0EAwIwFjEUMBIGA1UEAwwL\ndHlrb3ppYy5uZXQwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBYx\nFDASBgNVBAMMC3R5a296aWMubmV0MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE\nOPUjJ6PmAOyFsu8rEq9UIuhiCmnkGc8fgKmsHs9vBiXAzLYjE6B2Y76Ux3blphpa\nojQWbZx8RtbTOtfl6hKZw6MaMBgwFgYDVR0RBA8wDYILdHlrb3ppYy5uZXQwCgYI\nKoZIzj0EAwIDRwAwRAIgD1xRMxQ0BgTzy5Kp2TXCTOtmGE2HH9ay4FhBuJo7sDkC\nIAR7FFEwNWTyFLGO1uAcm7fhbRPHF6IEhK0X1NQN4tpM\n-----END CERTIFICATE-----\n"
+}

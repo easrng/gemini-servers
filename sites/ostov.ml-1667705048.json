@@ -1,0 +1,14 @@
+{
+  "server": "ostov.ml",
+  "ip": "195.133.196.181",
+  "route": {
+    "0": "170.39.230.241",
+    "6": "184.104.227.234",
+    "7": "194.187.204.44",
+    "9": "93.95.100.6",
+    "10": "195.133.196.181",
+    "11": "195.133.196.181",
+    "12": "195.133.196.181"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBNDCB26ADAgECAggwAXVvMpySgzAKBggqhkjOPQQDAjATMREwDwYDVQQDDAhv\nc3Rvdi5tbDAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFowEzERMA8G\nA1UEAwwIb3N0b3YubWwwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQX+S19jUNb\nZ+IWlHFkw5FggUstyVyFl0kB6IpImGw5oG8j3pPY+9ijY4JZHnAr/vSmOIRfwyEb\nHo22iVR/1o4FoxcwFTATBgNVHREEDDAKgghvc3Rvdi5tbDAKBggqhkjOPQQDAgNI\nADBFAiEAoNCGo3K0j3SKSoZE2EEe2EJKMSizeQuuch6bAWhA6hgCIGPCPn9D7tf6\nKrwPSkr0xlgSsM4DoiOq8acvLwYaS86J\n-----END CERTIFICATE-----\n"
+}

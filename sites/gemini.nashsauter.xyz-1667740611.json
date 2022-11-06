@@ -1,0 +1,18 @@
+{
+  "server": "gemini.nashsauter.xyz",
+  "ip": "173.195.146.139",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.47.50",
+    "5": "154.54.3.142",
+    "6": "154.24.50.86",
+    "7": "38.104.111.122",
+    "8": "208.88.48.1",
+    "9": "173.195.146.139",
+    "10": "173.195.146.139"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBijCCAS+gAwIBAgIRAMMiQPD11zX8QYLugUjUhXQwCgYIKoZIzj0EAwIwGzEZ\nMBcGA1UEAwwQKi5uYXNoc2F1dGVyLnh5ejAgFw0yMjAzMjkwODExMjdaGA8yMTIy\nMDMwNTA4MTEyN1owGzEZMBcGA1UEAwwQKi5uYXNoc2F1dGVyLnh5ejBZMBMGByqG\nSM49AgEGCCqGSM49AwEHA0IABLaOc7P5plnPeri4R264zj8qf/XRxYof+j8PVtF0\n9x0MrewAm20h6nhW/87I/ZBeVINj17A8C2qwqgm17YDeiEmjUjBQMA4GA1UdDwEB\n/wQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMBsGA1Ud\nEQQUMBKCECoubmFzaHNhdXRlci54eXowCgYIKoZIzj0EAwIDSQAwRgIhAM4/A43w\nGY6YdnjFG9vM8pPuFIxesekEaSkn7T9+y4/kAiEA5MexxVhVeOrMzldL2qbJPhBx\n4i1A+Vg/ao/9hZAIvic=\n-----END CERTIFICATE-----\n"
+}

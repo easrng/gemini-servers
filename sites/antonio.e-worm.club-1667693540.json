@@ -1,0 +1,22 @@
+{
+  "server": "antonio.e-worm.club",
+  "ip": "45.56.93.217",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.6.221",
+    "5": "154.54.42.165",
+    "6": "154.54.5.89",
+    "7": "154.54.41.145",
+    "8": "154.54.44.137",
+    "9": "154.54.43.70",
+    "10": "154.54.1.162",
+    "11": "38.142.11.154",
+    "12": "173.230.159.81",
+    "13": "45.56.93.217",
+    "14": "45.56.93.217"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBrDCCAVKgAwIBAgIUI2146fayJ8hz7bt+8c3D1UHthBswCgYIKoZIzj0EAwIw\nGDEWMBQGA1UEAwwNKi5lLXdvcm0uY2x1YjAeFw0yMDExMDkwMjI5MzZaFw0yNTEx\nMDgwMjI5MzZaMBgxFjAUBgNVBAMMDSouZS13b3JtLmNsdWIwWTATBgcqhkjOPQIB\nBggqhkjOPQMBBwNCAATzFP6eGcLyZKKXOQ3zUkQhATRhWlELX8C3g5efDy9pkb1R\nlewd1zkv5A1h15Txma1DASG8EJRvFirIorgeO6LNo3oweDAdBgNVHQ4EFgQU+oGa\nnzs1ld53f9vh1+SITeqvbcUwHwYDVR0jBBgwFoAU+oGanzs1ld53f9vh1+SITeqv\nbcUwDwYDVR0TAQH/BAUwAwEB/zAlBgNVHREEHjAcggtlLXdvcm0uY2x1YoINKi5l\nLXdvcm0uY2x1YjAKBggqhkjOPQQDAgNIADBFAiAiLqwliVs7qR2sEEk5uGOW+mEE\n3A9j2A5BkLjH+yeQMgIhALqTV99GURq0tBTIz3tsWQQmX5XRG2Orbxi05mLAzegF\n-----END CERTIFICATE-----\n"
+}

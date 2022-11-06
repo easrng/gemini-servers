@@ -1,0 +1,30 @@
+{
+  "server": "beyondneolithic.life",
+  "ip": "76.149.192.186",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "170.39.230.240",
+    "2": "128.177.116.81",
+    "3": "64.125.23.119",
+    "6": "50.242.151.213",
+    "7": "96.110.34.17",
+    "8": "96.110.35.114",
+    "9": "96.110.38.65",
+    "10": "96.110.35.17",
+    "11": "96.110.35.6",
+    "13": "68.86.82.254",
+    "14": "96.110.37.158",
+    "15": "96.110.39.69",
+    "16": "96.110.39.118",
+    "18": "96.110.37.233",
+    "19": "96.110.43.234",
+    "20": "24.124.175.213",
+    "21": "24.124.175.30",
+    "12": "68.86.86.125",
+    "22": "24.124.175.142",
+    "23": "24.153.95.214",
+    "24": "76.149.192.186",
+    "25": "76.149.192.186"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBUTCB+KADAgECAgEqMAoGCCqGSM49BAMCMB8xHTAbBgNVBAMMFGJleW9uZG5l\nb2xpdGhpYy5saWZlMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAf\nMR0wGwYDVQQDDBRiZXlvbmRuZW9saXRoaWMubGlmZTBZMBMGByqGSM49AgEGCCqG\nSM49AwEHA0IABJv2ZLUL6qb6PuUc2fvz/X9A8w3AeC+OPTARCGkh9w375DkAR0O8\nONsqwi7+N+OIA7yFlmcMQKVMz2aY5MGvwpajIzAhMB8GA1UdEQQYMBaCFGJleW9u\nZG5lb2xpdGhpYy5saWZlMAoGCCqGSM49BAMCA0gAMEUCIQDMHqfJB2vNHHyB9+X8\n7j9PR2dLIibx0VveQSiwSpqCgAIgRPzZ0DilrYWZbuC4MB8YLwTrwVHNWpy2erp9\n3/nYssM=\n-----END CERTIFICATE-----\n"
+}

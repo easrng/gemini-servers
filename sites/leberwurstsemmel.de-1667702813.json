@@ -1,0 +1,15 @@
+{
+  "server": "leberwurstsemmel.de",
+  "ip": "82.165.238.226",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "5": "62.67.23.38",
+    "6": "212.227.120.147",
+    "7": "212.227.122.29",
+    "8": "212.227.218.209"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBVTCB/KADAgECAggkpl+BRtoxJTAKBggqhkjOPQQDAjAeMRwwGgYDVQQDDBNs\nZWJlcnd1cnN0c2VtbWVsLmRlMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAw\nMDAwWjAeMRwwGgYDVQQDDBNsZWJlcnd1cnN0c2VtbWVsLmRlMFkwEwYHKoZIzj0C\nAQYIKoZIzj0DAQcDQgAEaDofpx/XE0DGg4Qxx5pjqrnBJjEUX85yD8UAfDGInIOa\n52D1kD+YRshymzB6aFCB5llqZGTpkk22Kw4oONtH9qMiMCAwHgYDVR0RBBcwFYIT\nbGViZXJ3dXJzdHNlbW1lbC5kZTAKBggqhkjOPQQDAgNIADBFAiEAjZIOQDMEpYca\n1xXNjXHfimeBtUGQEg3XdfpYgBty3OICIAISkQFjS8Hx9YyeBN5JNzDqsvpfz7x1\nCEkIj3YrCKwR\n-----END CERTIFICATE-----\n"
+}

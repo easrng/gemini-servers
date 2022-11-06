@@ -1,0 +1,15 @@
+{
+  "server": "gemini.mingmengtou.org",
+  "ip": "88.81.135.8",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.166.2",
+    "5": "217.163.103.250",
+    "6": "212.30.1.55",
+    "7": "212.30.7.21"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBVzCB/qADAgECAgEqMAoGCCqGSM49BAMCMCExHzAdBgNVBAMMFmdlbWluaS5t\naW5nbWVuZ3RvdS5vcmcwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBa\nMCExHzAdBgNVBAMMFmdlbWluaS5taW5nbWVuZ3RvdS5vcmcwWTATBgcqhkjOPQIB\nBggqhkjOPQMBBwNCAAT8avIOyuTK4H37YCX3UAy2SV5tEuE4g+Md62aqR7LT18GN\n4/S5Eel6DEVL0BwPBoyywbq95x4W9f2EyMw7NsjxoyUwIzAhBgNVHREEGjAYghZn\nZW1pbmkubWluZ21lbmd0b3Uub3JnMAoGCCqGSM49BAMCA0gAMEUCIQCzVnjps6vC\nOD8UifaDN9QUbYMalK1z3nXT43i8qPvyyAIgahsQbNo7kMlHrkPkpI8ZY2th+c9y\nMoeFPND5LKfQS6s=\n-----END CERTIFICATE-----\n"
+}

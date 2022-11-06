@@ -1,0 +1,22 @@
+{
+  "server": "sl1200.dystopic.world",
+  "ip": "45.157.179.215",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "62.115.187.238",
+    "4": "62.115.117.229",
+    "5": "62.115.123.108",
+    "6": "62.115.113.21",
+    "10": "62.115.112.215",
+    "11": "62.115.46.183",
+    "12": "144.208.211.31",
+    "13": "46.38.252.33",
+    "14": "45.157.179.215",
+    "15": "45.157.179.215",
+    "16": "45.157.179.215",
+    "9": "62.115.133.239"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBWzCCAQKgAwIBAgIIdX5fCB+O2aMwCgYIKoZIzj0EAwIwIDEeMBwGA1UEAwwV\nc2wxMjAwLmR5c3RvcGljLndvcmxkMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAx\nMDAwMDAwWjAgMR4wHAYDVQQDDBVzbDEyMDAuZHlzdG9waWMud29ybGQwWTATBgcq\nhkjOPQIBBggqhkjOPQMBBwNCAARliUuVqROjeAaTtXkY58F3lHrbtuwu/1rrvK4P\nPLSMYF1CJgLsjGyYMCbhP8mgwQmOvbIUHO21Mi9pAPvXwjquoyQwIjAgBgNVHREE\nGTAXghVzbDEyMDAuZHlzdG9waWMud29ybGQwCgYIKoZIzj0EAwIDRwAwRAIgRB0V\nheYy5CqiuhRkHZeGnmrt/uz+RsrwVn6513ZxFawCIH+MSIpYH8HswLhtbpf/x5yV\nr8eO1f1hjOGoyUX48nNN\n-----END CERTIFICATE-----\n"
+}

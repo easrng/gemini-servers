@@ -1,0 +1,18 @@
+{
+  "server": "roccodrom.ddns.net",
+  "ip": "84.161.57.144",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.82.246",
+    "5": "154.54.30.66",
+    "6": "62.157.249.201",
+    "7": "87.137.221.217",
+    "8": "84.161.57.144",
+    "9": "84.161.57.144",
+    "10": "84.161.57.144"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBUzCB+aADAgECAghVj6i8HIsLozAKBggqhkjOPQQDAjAdMRswGQYDVQQDDBJy\nb2Njb2Ryb20uZGRucy5uZXQwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAw\nMDBaMB0xGzAZBgNVBAMMEnJvY2NvZHJvbS5kZG5zLm5ldDBZMBMGByqGSM49AgEG\nCCqGSM49AwEHA0IABI+o6ItBh6gh7ARvyktVQ3bNQqQ3bey19HoRx6PVNAiQ5YYS\nFSp0VLSYYMiZf5lGz7pOB86E81j/Yws4uzUResOjITAfMB0GA1UdEQQWMBSCEnJv\nY2NvZHJvbS5kZG5zLm5ldDAKBggqhkjOPQQDAgNJADBGAiEAyOHJMUNkPshnVtv/\nhW3GrFIkFEbl2mv/oVfK1LA1iPECIQCJ/qdqK/UMRNRHdfsuP62QxUKQdxG3v7ZS\n1buk/lVgQg==\n-----END CERTIFICATE-----\n"
+}

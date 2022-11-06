@@ -1,0 +1,17 @@
+{
+  "server": "pnda.online",
+  "ip": "213.219.38.200",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.39.118",
+    "6": "154.54.60.254",
+    "7": "204.68.252.59",
+    "11": "213.219.38.200",
+    "12": "213.219.38.200"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBejCCAR+gAwIBAgIQH1WN1nlsbX6HsUR/7T2g3TAKBggqhkjOPQQDAjAWMRQw\nEgYDVQQDEwtwbmRhLm9ubGluZTAgFw0yMjAyMjUxODE0MzlaGA8yMTIyMDIwMTE4\nMTQzOVowFjEUMBIGA1UEAxMLcG5kYS5vbmxpbmUwWTATBgcqhkjOPQIBBggqhkjO\nPQMBBwNCAAT4Mv2rTT9aWdqDL/Llc7rky39FFq3kN8GgnXOJ4y3RmrlYsc+3QjA4\n0qiMrl3q5bKL+gkKkFhQm7kj8Av1ESiRo00wSzAOBgNVHQ8BAf8EBAMCB4AwEwYD\nVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAWBgNVHREEDzANggtwbmRh\nLm9ubGluZTAKBggqhkjOPQQDAgNJADBGAiEArcuO/knL0CWTnm639U4bXnAbKgQa\n4pgYxFcqSxd0e8wCIQCeQRPn9JtOZpEXcDnl+VOtbK3ghHZNpJVVcjWSYW67aA==\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,15 @@
+{
+  "server": "gemini.solobsd.org",
+  "ip": "129.158.58.242",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.82.254",
+    "5": "154.54.47.166",
+    "7": "129.158.58.242",
+    "8": "129.158.58.242"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBUjCB+aADAgECAghmuOuYb6Q9KjAKBggqhkjOPQQDAjAdMRswGQYDVQQDDBJn\nZW1pbmkuc29sb2JzZC5vcmcwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAw\nMDBaMB0xGzAZBgNVBAMMEmdlbWluaS5zb2xvYnNkLm9yZzBZMBMGByqGSM49AgEG\nCCqGSM49AwEHA0IABOfSnwmnOXg/E3PEbCxvbm6Vi0HE9ebFTZJ9MCFtkJqvRIta\nHs5L2zn6LAN1R/5JSx80fT37hsGmdpKnEB6Vv4ajITAfMB0GA1UdEQQWMBSCEmdl\nbWluaS5zb2xvYnNkLm9yZzAKBggqhkjOPQQDAgNIADBFAiEA5TnyeHQDzNvwU3sn\n/IUjdw3DE7f7Wfd72r4RsD9fijACIG7fpAOCz2ySmNZNTwYd4KhHJgIx9zeaiB4P\nnhUq+SNU\n-----END CERTIFICATE-----\n"
+}

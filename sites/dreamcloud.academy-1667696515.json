@@ -1,0 +1,13 @@
+{
+  "server": "dreamcloud.academy",
+  "ip": "64.25.204.10",
+  "route": {
+    "0": "170.39.230.241",
+    "2": "184.105.80.5",
+    "4": "207.241.132.51",
+    "7": "207.241.133.170",
+    "9": "64.25.204.10",
+    "10": "64.25.204.10"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBUjCB+aADAgECAggfhmUmPxqA+zAKBggqhkjOPQQDAjAdMRswGQYDVQQDDBJk\ncmVhbWNsb3VkLmFjYWRlbXkwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAw\nMDBaMB0xGzAZBgNVBAMMEmRyZWFtY2xvdWQuYWNhZGVteTBZMBMGByqGSM49AgEG\nCCqGSM49AwEHA0IABIZ5v4JkhcgolMn8cyStJaWnycjgf2/ysAhB8f08ZxyH4RXG\npfXUHYz59Uwq/Wls7EA/7SXwErkI6cgXrzSS04qjITAfMB0GA1UdEQQWMBSCEmRy\nZWFtY2xvdWQuYWNhZGVteTAKBggqhkjOPQQDAgNIADBFAiEAv1DGN+LG8cc4VzXZ\nq4EfSo0u8GVxMQLVObqU6E0HKWsCIG+3dy5tpwq2IY3NAxaiSjp3vX0Wdq3IWs5q\nLo6ppjOZ\n-----END CERTIFICATE-----\n"
+}

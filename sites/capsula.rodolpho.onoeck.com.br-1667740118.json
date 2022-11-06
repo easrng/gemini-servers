@@ -1,0 +1,18 @@
+{
+  "server": "capsula.rodolpho.onoeck.com.br",
+  "ip": "173.195.146.139",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.47.50",
+    "5": "154.54.3.142",
+    "6": "154.24.50.86",
+    "7": "38.104.111.122",
+    "8": "208.88.48.1",
+    "9": "173.195.146.139",
+    "10": "173.195.146.139"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBojCCAUegAwIBAgIRAPMTMUMNvhtlpK4FeB0D4ZQwCgYIKoZIzj0EAwIwIzEh\nMB8GA1UEAwwYKi5yb2RvbHBoby5vbm9lY2suY29tLmJyMCAXDTIxMDUyMTEyMDY0\nMFoYDzIxMjEwNDI3MTIwNjQwWjAjMSEwHwYDVQQDDBgqLnJvZG9scGhvLm9ub2Vj\nay5jb20uYnIwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQYwg9CEIAbOMylb4pK\nQcfoT749hTn6AqedK2HpCQ4xQfFURiP7JlIlR51lXoTY8z7WJhGWujBcz9O9jkps\nlZKGo1owWDAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYD\nVR0TAQH/BAIwADAjBgNVHREEHDAaghgqLnJvZG9scGhvLm9ub2Vjay5jb20uYnIw\nCgYIKoZIzj0EAwIDSQAwRgIhAMhZ3QyToaffHnLl1J0BDY8V/RGW0/jVWFoP5eYy\nD1RsAiEA+DtNM8ursyOLmMbOSbJG/SlhQ7uYttZ6YWOE+i9Sqcs=\n-----END CERTIFICATE-----\n"
+}

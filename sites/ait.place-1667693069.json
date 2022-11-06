@@ -1,0 +1,13 @@
+{
+  "server": "ait.place",
+  "ip": "140.238.69.131",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "6": "140.238.69.131",
+    "7": "140.238.69.131"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBNzCB36ADAgECAgkA3v8LzxB7CX8wCgYIKoZIzj0EAwIwFDESMBAGA1UEAwwJ\nYWl0LnBsYWNlMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAUMRIw\nEAYDVQQDDAlhaXQucGxhY2UwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASQEy85\n+xKSBWAzqpjXr/yscSmdAPtnwn6FeLXlWbD/dsfJKUu9q20f5+L5iu7say7WbmP0\nfIXtT4SrNM4blCY3oxgwFjAUBgNVHREEDTALgglhaXQucGxhY2UwCgYIKoZIzj0E\nAwIDRwAwRAIgeJ9XmQIB9Dg+gqtcAk+9+HIZqLBTyrNvjQNEvmO1bYACIFSFRUen\nNF1TcrL5Z/gw1PQs68YYYY+Xd0Xb2niYjEB8\n-----END CERTIFICATE-----\n"
+}

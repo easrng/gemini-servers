@@ -1,0 +1,18 @@
+{
+  "server": "slashbinbash.de",
+  "ip": "81.169.188.116",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.202.46",
+    "5": "212.162.10.214",
+    "6": "85.214.2.79",
+    "7": "85.214.0.197",
+    "9": "81.169.188.116",
+    "10": "81.169.188.116",
+    "11": "81.169.188.116"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBSjCB8aADAgECAgkAylrV4DqEdpYwCgYIKoZIzj0EAwIwGjEYMBYGA1UEAwwP\nc2xhc2hiaW5iYXNoLmRlMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAw\nWjAaMRgwFgYDVQQDDA9zbGFzaGJpbmJhc2guZGUwWTATBgcqhkjOPQIBBggqhkjO\nPQMBBwNCAAQmL6quRi/pDPtIpJfQxEwf/PPswKkShD5BwIw5n9jiEoWA/W54aXiK\nTMuD2xeTDP1kyznICSFp67zLohd64pdZox4wHDAaBgNVHREEEzARgg9zbGFzaGJp\nbmJhc2guZGUwCgYIKoZIzj0EAwIDSAAwRQIhAOALNvA9bWl9Z/dyN3jWhmEWfcMr\nw9O/JFe4ocv+m5dWAiBwfAEOEbLqw0wVXD++/xt/lRRmYIbZhhBHxyL5kLivYQ==\n-----END CERTIFICATE-----\n"
+}

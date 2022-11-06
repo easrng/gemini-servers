@@ -1,0 +1,24 @@
+{
+  "server": "notes.hugh.run",
+  "ip": "178.128.94.14",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.47.50",
+    "5": "154.54.47.218",
+    "6": "154.54.12.18",
+    "10": "209.58.86.201",
+    "11": "63.243.250.57",
+    "13": "180.87.108.4",
+    "15": "180.87.107.0",
+    "16": "120.29.214.142",
+    "22": "178.128.94.14",
+    "23": "178.128.94.14",
+    "24": "178.128.94.14",
+    "14": "180.87.107.0",
+    "25": "178.128.94.14"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBPzCB5qADAgECAgEqMAoGCCqGSM49BAMCMBkxFzAVBgNVBAMMDm5vdGVzLmh1\nZ2gucnVuMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAZMRcwFQYD\nVQQDDA5ub3Rlcy5odWdoLnJ1bjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABOY5\n8dKF6QVsKH9/bGjk2Y00g6H+Co693luIvYrSkTrdxvLPRLl6SDsvkztAnOmo4mQK\njsnYjIFEOyvwEdHHBWOjHTAbMBkGA1UdEQQSMBCCDm5vdGVzLmh1Z2gucnVuMAoG\nCCqGSM49BAMCA0gAMEUCIDu60g2x2sIt6dZEeNmLzWnp5a/qzT6PUG1ize3HcZ5T\nAiEA8Cy6EkQs6JCXjCHfc3k5BRPU6PuaSh072nIBBu6kT7c=\n-----END CERTIFICATE-----\n"
+}

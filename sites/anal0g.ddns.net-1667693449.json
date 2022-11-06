@@ -1,0 +1,18 @@
+{
+  "server": "anal0g.ddns.net",
+  "ip": "83.23.1.152",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.46.178",
+    "6": "154.54.11.182",
+    "7": "193.251.128.15",
+    "8": "193.251.151.34",
+    "11": "80.49.0.78",
+    "12": "80.50.159.186"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBizCCATGgAwIBAgIUVovkrQb86CAyfaOd7OmElcq531AwCgYIKoZIzj0EAwIw\nGjEYMBYGA1UEAwwPYW5hbDBnLmRkbnMubmV0MCAXDTIyMDYwMzA4MTYzMVoYDzIy\nOTYwMzE3MDgxNjMxWjAaMRgwFgYDVQQDDA9hbmFsMGcuZGRucy5uZXQwWTATBgcq\nhkjOPQIBBggqhkjOPQMBBwNCAASNsITG17t94Hs7l05oQIER3JGf8aS85gtpYtC7\n/8/R3LgEMG/V3jL0gi0j39UyiBD68efTmXtzJe93rAHhyNZvo1MwUTAdBgNVHQ4E\nFgQUSWvaUhtDJXb18RRB/XYRuMl/peowHwYDVR0jBBgwFoAUSWvaUhtDJXb18RRB\n/XYRuMl/peowDwYDVR0TAQH/BAUwAwEB/zAKBggqhkjOPQQDAgNIADBFAiEAjFmm\nnw5D0vMnxZEjN5HVFidLNZ/K/MF0NUDfsH2M5+wCIAndh1+M5faLpNIhRhstI2OA\nrgHPiYYY9Gg8Eo+UssRw\n-----END CERTIFICATE-----\n"
+}

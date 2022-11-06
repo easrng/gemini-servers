@@ -1,0 +1,15 @@
+{
+  "server": "fossphones.com",
+  "ip": "149.28.255.171",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.9.18",
+    "4": "89.149.184.97",
+    "5": "173.205.43.82",
+    "9": "149.28.255.171",
+    "10": "149.28.255.171"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBPzCB5qADAgECAgEqMAoGCCqGSM49BAMCMBkxFzAVBgNVBAMMDmZvc3NwaG9u\nZXMuY29tMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAZMRcwFQYD\nVQQDDA5mb3NzcGhvbmVzLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABDGD\nnjAqoyj91cBuZzRpREolIceaWsbOgtiSjN+Y8rCRodo5+eOJ5cKVpYUc1yMxBoBO\nlYT3nBkWI01RINrob/SjHTAbMBkGA1UdEQQSMBCCDmZvc3NwaG9uZXMuY29tMAoG\nCCqGSM49BAMCA0gAMEUCIQD6vvUMe8MLxh9fnDyF0No7oyOJHny3MZRcm1IuIp91\n2AIgblmwbDCsEbO+DBtFFA+iVAQs0fUjVw7QLbkuaptUwrc=\n-----END CERTIFICATE-----\n"
+}

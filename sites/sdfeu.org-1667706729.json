@@ -1,0 +1,24 @@
+{
+  "server": "sdfeu.org",
+  "ip": "178.63.35.195",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.58.70",
+    "6": "130.117.0.142",
+    "7": "154.54.36.254",
+    "8": "154.54.59.194",
+    "9": "154.25.14.46",
+    "10": "149.6.158.186",
+    "11": "213.239.245.10",
+    "12": "213.239.229.70",
+    "13": "85.10.253.186",
+    "14": "178.63.35.195",
+    "15": "178.63.35.195",
+    "16": "178.63.35.195"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBkjCCARigAwIBAgIBATAKBggqhkjOPQQDAjAmMRAwDgYDVQQKDAdnbW5pc3J2\nMRIwEAYDVQQDDAlzZGZldS5vcmcwIBcNMjIwMjI0MTkyMzIyWhgPMjA5MDAzMTQy\nMjM3MjlaMCYxEDAOBgNVBAoMB2dtbmlzcnYxEjAQBgNVBAMMCXNkZmV1Lm9yZzB2\nMBAGByqGSM49AgEGBSuBBAAiA2IABLuCy2X/Z2DRl+a6RJhgy85ouAcGLu2QrKOb\ncWrotuKudtTtNqJlSEQ4JnKtPx/IJbWIFtC50oVvBFzIVifno7CBYWvQCILBioy6\nF2fHuwNjw5d3NLNbtlso4Lf0Y49ZRaMYMBYwFAYDVR0RBA0wC4IJc2RmZXUub3Jn\nMAoGCCqGSM49BAMCA2gAMGUCMAqKpLglkFyR2zGCwhcvXvYK7w+P2mOhpcqjwBsT\np1qkSoKdVXs79Y0o8viWqdlAXgIxAI+puqPIA1WxgOof31QYpBx3m2DHFmF6ySsS\nOWkKO52bkZ19DM+geKoySBo0YSFhug==\n-----END CERTIFICATE-----\n"
+}

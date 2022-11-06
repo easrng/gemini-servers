@@ -1,0 +1,14 @@
+{
+  "server": "ajdiaz.me",
+  "ip": "37.187.20.240",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "170.39.230.240",
+    "3": "192.99.146.48",
+    "6": "213.251.128.64",
+    "10": "37.187.20.240",
+    "11": "37.187.20.240",
+    "4": "192.99.146.139"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBNzCB36ADAgECAgkA5hx2O0t/C8kwCgYIKoZIzj0EAwIwFDESMBAGA1UEAwwJ\nYWpkaWF6Lm1lMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAUMRIw\nEAYDVQQDDAlhamRpYXoubWUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAR0tJL1\nSYb8fqlYaeZJsBicpuZN2wWEcE9Md+7wQ6x/if4ODoQCJRS30hKvqgB8xuKV9x9T\n2w71qEIIJx5VCok6oxgwFjAUBgNVHREEDTALgglhamRpYXoubWUwCgYIKoZIzj0E\nAwIDRwAwRAIgQtl5fNgninFpjJB/UHRiYbWMmhw7N3FG2Grf84IENJ0CIGZ+/t4Z\nCqB/2kHy/F8TI73dWpaK+0/LzrOznjJWDbAT\n-----END CERTIFICATE-----\n"
+}

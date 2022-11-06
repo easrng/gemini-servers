@@ -1,0 +1,16 @@
+{
+  "server": "g.dublu.net",
+  "ip": "23.92.19.203",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.209.82",
+    "5": "4.30.176.210",
+    "6": "23.203.156.17",
+    "10": "23.92.19.203",
+    "11": "23.92.19.203"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBPjCB5aADAgECAgkA66EOLXYDRPYwCgYIKoZIzj0EAwIwFjEUMBIGA1UEAwwL\nZy5kdWJsdS5uZXQwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBYx\nFDASBgNVBAMMC2cuZHVibHUubmV0MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE\nlWBG5C3lcvY5iaFEngGaMThw8PEOuw6n57ecokC+qYsDrA7UeOulQfU8ztMoB5UI\nSGoHsycylUUoJQ5+GgyPi6MaMBgwFgYDVR0RBA8wDYILZy5kdWJsdS5uZXQwCgYI\nKoZIzj0EAwIDSAAwRQIgIiQrCInQzl4GAD+YYFGD93EK3OgAZqq9GYssnE9BfUkC\nIQCnmEkAoWWBt3eqs106k5wvfrprvQqn9FqSabMrwgdKOQ==\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,19 @@
+{
+  "server": "my-adventures.at",
+  "ip": "65.21.18.245",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.161.98",
+    "5": "212.133.6.2",
+    "6": "213.239.224.38",
+    "7": "213.239.224.142",
+    "8": "95.217.35.228",
+    "9": "65.21.18.245",
+    "10": "65.21.18.245",
+    "11": "65.21.18.245"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBizCCATGgAwIBAgIUTdw/OaMxYgT71ZDLkKLLxPAp1DgwCgYIKoZIzj0EAwIw\nGzEZMBcGA1UEAwwQbXktYWR2ZW50dXJlcy5hdDAeFw0yMTAyMTIxMzQ0MzhaFw0z\nMTAyMTAxMzQ0MzhaMBsxGTAXBgNVBAMMEG15LWFkdmVudHVyZXMuYXQwWTATBgcq\nhkjOPQIBBggqhkjOPQMBBwNCAARskyey1R+4XVkOqBSeN0bBuLw2G2prFXx7EAIX\n0VmBj1KljPQ+5PhG2XLtY6wSvBA5209sRKqDFPVgVxQ8rbTfo1MwUTAdBgNVHQ4E\nFgQUNo5cqU3YY0QbhpXvDpPQ1u+4LHcwHwYDVR0jBBgwFoAUNo5cqU3YY0QbhpXv\nDpPQ1u+4LHcwDwYDVR0TAQH/BAUwAwEB/zAKBggqhkjOPQQDAgNIADBFAiA/gnJw\nC0gzMDYKz7aD+GN58DzcwCCnu8bbv8LdA2xmugIhAN/K02dob1OZXgE2xACCE+yk\nwex9nw0wdJ0nCbcdvnNe\n-----END CERTIFICATE-----\n"
+}

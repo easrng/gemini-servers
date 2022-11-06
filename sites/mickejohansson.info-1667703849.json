@@ -1,0 +1,16 @@
+{
+  "server": "mickejohansson.info",
+  "ip": "70.34.210.252",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.9.18",
+    "4": "89.149.129.126",
+    "5": "212.115.174.162",
+    "9": "70.34.210.252",
+    "10": "70.34.210.252",
+    "11": "70.34.210.252"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBTjCB9aADAgECAgEqMAoGCCqGSM49BAMCMB4xHDAaBgNVBAMME21pY2tlam9o\nYW5zc29uLmluZm8wIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMB4x\nHDAaBgNVBAMME21pY2tlam9oYW5zc29uLmluZm8wWTATBgcqhkjOPQIBBggqhkjO\nPQMBBwNCAAS7aBcZdmHQ/sj7uC90IzkhcXh6iEFSJmhRc9v8IQ9EkiE6+QbGjGdJ\ndt+ouThiJBZZDNr7+B6H3kXYTgjYSGdSoyIwIDAeBgNVHREEFzAVghNtaWNrZWpv\naGFuc3Nvbi5pbmZvMAoGCCqGSM49BAMCA0gAMEUCIQDnkMLuDqpe7cPKMMff3MTU\no+Oj7sLzRrq/X6MpF5vJqgIgQIsZGxPBRTP836dTHasRYojIj+HUqhVyocopb0WN\nQUc=\n-----END CERTIFICATE-----\n"
+}

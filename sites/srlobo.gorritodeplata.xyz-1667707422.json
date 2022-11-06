@@ -1,0 +1,15 @@
+{
+  "server": "srlobo.gorritodeplata.xyz",
+  "ip": "82.223.14.164",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "4": "4.69.140.2",
+    "5": "213.249.120.30",
+    "6": "212.227.121.103",
+    "7": "82.223.41.187",
+    "3": "4.68.38.245"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIFKTCCAxGgAwIBAgIUA8ikDJW/dQe5dfoiqk7Dg7XJm1swDQYJKoZIhvcNAQEL\nBQAwJDEiMCAGA1UEAwwZc3Jsb2JvLmdvcnJpdG9kZXBsYXRhLnh5ejAeFw0yMTAy\nMjgyMzAxMzRaFw0zMTAyMjYyMzAxMzRaMCQxIjAgBgNVBAMMGXNybG9iby5nb3Jy\naXRvZGVwbGF0YS54eXowggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQCw\nvq2n0UHI99X9bBL2WthRD2yHfp6Ox+7JlDCMeYo30rBrPgSMv5w5KEtD10fPMiYC\nuBg58s06//k3L29tyUBD9qv4yMIyRs7zxzUC6bD0sbzc5VnzqHlKX8QVLUzR1fcc\nAAIuQoggL5msVv7Z3xvcRLOXXN8/GSaj6P7CV0sU4DiWq23DDmg3Y4H+ZHjd/ANJ\nWaXPClUI2kfNfQWViJnpsYTMIDJ1iLDqlagmovJw1amNC7bpEv6nrDAWaMvywdlc\nuc56Pay/9tix8BjJVmlNjqd6pj7m8uTlHNTq/IaaPB5UwkVYsNRhw0mdOENpF5i4\n7DYnZptYbRJzCAxtraX1imqiA/CiP/BDVIK5LIlI7zZACKrJSop5HXY9dzRTYIgF\nPGqg6AzkGUDPoKUdXjZtiicox9gkZUeOuaTuh8IqIW635+xjv3nunfatXyBdQlrN\nFWboxfxgNvXwQfV/9PgskoxgPv7sWKG0ntmQaxx/id4vpsNazT1f7bvPgdN/MiQp\n1fNwd7jjNac7rFby1p+uiWhe51Gng8hgZPSi9yaXz3meNwDgl2hoPkxl/SKhUodd\nGPP21VBQh9WonU8ldep3tKp9wvLg9l8ncKiUxmbkQngCSOEr9CJxxdJfg5ip3Frl\nvy4q/VJhG9LjqqlTnostFU6dVmidt2Oz61AzU03TwwIDAQABo1MwUTAdBgNVHQ4E\nFgQUo+EP8UCkDvoNnPylHhTB7uCjiuAwHwYDVR0jBBgwFoAUo+EP8UCkDvoNnPyl\nHhTB7uCjiuAwDwYDVR0TAQH/BAUwAwEB/zANBgkqhkiG9w0BAQsFAAOCAgEAGvzf\nDN6acHjmCAtxhQ0BRKdf6yjW4JnXyWrRdeE8TJ8zWFBTPER2O41Riobqa4rGfMLW\nzAu2Z6hDreaSCoevUhxjlUciKuQ1j2t0ogD/CXbX/VQdKO+fHZzdb14uhAYqTxuF\n5xyhxNZRBd4wW6Pv/jl14ziqBWkm5Afgc4KjmY/6AkGtJJlPzZjt0PdGV+maVNlR\nys6UyNzCz4hxnbcvV0Fcx+szawEJTIJRB94EdiWT8NLmMReJs4KZUV4vtoTUsOqe\nEMSV/ZzzO25M0PYiJyf4X9gLNwO6RQNd5gpKedREpf9WMZSzSssrra2c4rHKhFq/\n6mFA59stkCxUxL63lwJQoKJGQycXqY0mnfucIWdaG4eg2F6v+GTbSvNvX+7+l9+j\n3UO4FD/QSagC8CEBbRWYh8csWHR4Da5f/7uuxje5wx8hoG4yKPjqpgaDsj6uCp3C\nC9UKNQsqyHdfF+rtDdv5spU6xVcxxsbHRjgVQeNd33VPXO0catpLDLVDO5nWqh6k\nbzQrJfgpnFETXzkyX1jJ0tDKWlje6Fbt5vgDEi0yqAO7r3gDYkrz+t+nPFyz4c1z\niBKXGh2SCjttnbFPmqpfWHC1YSmPi2/k0K7p5K5SHapUjA7/KiIgrXmx8sTNkeQM\nEXW3YsC3OfjIcWClVk39e4I1vBeo93wQ1vXEv+k=\n-----END CERTIFICATE-----\n"
+}

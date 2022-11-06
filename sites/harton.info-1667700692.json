@@ -1,0 +1,13 @@
+{
+  "server": "harton.info",
+  "ip": "51.75.207.127",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "170.39.230.240",
+    "3": "192.99.146.48",
+    "6": "213.251.128.64",
+    "14": "51.75.207.127",
+    "15": "51.75.207.127"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBPDCB5KADAgECAggIcGHcKyz4tDAKBggqhkjOPQQDAjAWMRQwEgYDVQQDDAto\nYXJ0b24uaW5mbzAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFowFjEU\nMBIGA1UEAwwLaGFydG9uLmluZm8wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATy\nkTSiCunhYhGkJbH2/kt195SyxWicWWmctUFUFI30lqg3Zgfj6tUxATz8oucO5+4B\nQ80dnRbaX1SQb4km2WS6oxowGDAWBgNVHREEDzANggtoYXJ0b24uaW5mbzAKBggq\nhkjOPQQDAgNHADBEAiBW9qKfOI2hGiQCkEBlGYzZbBWSkVIiBEPjfqoF/srgvgIg\nMuOoRagr1Cm93h9AhgBOmDVbQ4rzPkRL0cwCO4Bxvr4=\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,20 @@
+{
+  "server": "li1142-40.members.linode.com",
+  "ip": "45.79.43.40",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.44.169",
+    "6": "154.54.3.213",
+    "7": "154.54.46.218",
+    "8": "154.24.31.222",
+    "9": "204.68.252.171",
+    "10": "45.79.12.1",
+    "11": "45.79.43.40",
+    "12": "45.79.43.40"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBaTCCARCgAwIBAgIBKjAKBggqhkjOPQQDAjAnMSUwIwYDVQQDDBxsaTExNDIt\nNDAubWVtYmVycy5saW5vZGUuY29tMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAx\nMDAwMDAwWjAnMSUwIwYDVQQDDBxsaTExNDItNDAubWVtYmVycy5saW5vZGUuY29t\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEBejuTNxoZvCF5OLKKRb2zY9Qrs6\nRw61kU7L3XoVx9eAKu90cpLA8vWFd9GMy1nqZCEDIoWwdvV7xQwBKmJ3taMrMCkw\nJwYDVR0RBCAwHoIcbGkxMTQyLTQwLm1lbWJlcnMubGlub2RlLmNvbTAKBggqhkjO\nPQQDAgNHADBEAiBp3B9vp/wdU8VNCrTf3oQRnSwTLBxk89NzSBfdkFEoagIgV/Jc\nlSfgZNBRl+yzzgRms8cbH5zthlJkT85UhrVbUPk=\n-----END CERTIFICATE-----\n"
+}

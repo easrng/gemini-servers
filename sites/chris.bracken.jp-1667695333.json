@@ -1,0 +1,11 @@
+{
+  "server": "chris.bracken.jp",
+  "ip": "35.212.199.134",
+  "route": {
+    "0": "170.39.230.241",
+    "2": "184.105.64.102",
+    "5": "35.212.199.134",
+    "6": "35.212.199.134"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBRTCB7KADAgECAgEqMAoGCCqGSM49BAMCMBsxGTAXBgNVBAMMEGNocmlzLmJy\nYWNrZW4uanAwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBsxGTAX\nBgNVBAMMEGNocmlzLmJyYWNrZW4uanAwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNC\nAARCw/8ecjmMWq/qX1lUVWFiY7TXCAPoxpTT88ibq7k7B9dZ+PwBLHfNLpsn6Fou\nTKt3enjBojTRaumEmtevXoJCox8wHTAbBgNVHREEFDASghBjaHJpcy5icmFja2Vu\nLmpwMAoGCCqGSM49BAMCA0gAMEUCIBIToI2zG8SdzKbd15JLitu2WLiZ5xDhd0vK\n2KixbO/lAiEA8dCR9TwOkoVhe+fqdmETH3caplje/8yzx1ek9bProUc=\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,20 @@
+{
+  "server": "repos.wetterberg.nu",
+  "ip": "51.158.105.65",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.161",
+    "5": "154.54.39.149",
+    "6": "154.54.60.169",
+    "7": "154.54.38.66",
+    "8": "154.54.60.186",
+    "9": "149.6.164.42",
+    "10": "51.158.8.180",
+    "15": "51.158.105.65",
+    "16": "51.158.105.65"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBVjCB/KADAgECAhAKnNkxYMcwvvdVOnPmJQh+MAoGCCqGSM49BAMCMAAwHhcN\nMjIwMTE5MjAwMTU1WhcNMjMwMTE5MjAwMTU1WjAAMFkwEwYHKoZIzj0CAQYIKoZI\nzj0DAQcDQgAE0PBHG1LSz/bo6fGJxrbDqQ7DJ6Squ2xhUo8U5zXINy9fLKAGY958\nWkiMY36nsfa9Y651Efu1KybARuOg9GU7vqNYMFYwDgYDVR0PAQH/BAQDAgeAMBMG\nA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwIQYDVR0RAQH/BBcwFYIT\ncmVwb3Mud2V0dGVyYmVyZy5udTAKBggqhkjOPQQDAgNJADBGAiEAgeOKGmCiFKWS\nEyUJj1hms2IUBLQvU6VfqaLtmsjuFZcCIQCZGmJfQhm0VWiWXzPkcZ7jnkLbxnSD\nD7i5ZoxMRNpa/w==\n-----END CERTIFICATE-----\n"
+}

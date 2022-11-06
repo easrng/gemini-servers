@@ -1,0 +1,12 @@
+{
+  "server": "cyborgfoxsyndicate.online",
+  "ip": "208.87.133.2",
+  "route": {
+    "0": "170.39.230.241",
+    "3": "184.104.194.250",
+    "4": "216.66.1.134",
+    "7": "208.87.133.2",
+    "8": "208.87.133.2"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBaDCCAQ6gAwIBAgIIOAW5nxs4ygQwCgYIKoZIzj0EAwIwJDEiMCAGA1UEAwwZ\nY3lib3JnZm94c3luZGljYXRlLm9ubGluZTAgFw03NTAxMDEwMDAwMDBaGA80MDk2\nMDEwMTAwMDAwMFowJDEiMCAGA1UEAwwZY3lib3JnZm94c3luZGljYXRlLm9ubGlu\nZTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJwrHnb2F2cErSq2hdfvvZTSoS97\nsMsSbwR38yE1hnU2w/elbrhKOKG5t4NXds8ACsJ+y/R4h81OhqAp/JfL/qSjKDAm\nMCQGA1UdEQQdMBuCGWN5Ym9yZ2ZveHN5bmRpY2F0ZS5vbmxpbmUwCgYIKoZIzj0E\nAwIDSAAwRQIhAMlo0X2Usp7TH8VfBoUrdq6oiHKCfJ4ovDOxELFXnJTEAiA0Rosq\nGctYlvVwIasLTHpwFclM1aT+dXnd+d0GdTKh9g==\n-----END CERTIFICATE-----\n"
+}

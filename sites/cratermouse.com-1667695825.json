@@ -1,0 +1,27 @@
+{
+  "server": "cratermouse.com",
+  "ip": "95.111.196.161",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.44.169",
+    "6": "154.54.31.89",
+    "7": "154.54.87.29",
+    "8": "154.54.87.66",
+    "9": "154.54.42.77",
+    "10": "154.54.45.162",
+    "11": "154.54.42.102",
+    "12": "154.54.27.53",
+    "13": "154.18.17.58",
+    "14": "203.118.6.198",
+    "15": "203.116.244.42",
+    "19": "95.111.196.161",
+    "20": "95.111.196.161",
+    "21": "95.111.196.161",
+    "22": "95.111.196.161"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBijCCAS+gAwIBAgIUfuUz+U2pgqsXvfSOkkEptmWEnuMwCgYIKoZIzj0EAwIw\nGjEYMBYGA1UEAwwPY3JhdGVybW91c2UuY29tMB4XDTIxMDMwNDA4MDEyN1oXDTMx\nMDMwMjA4MDEyN1owGjEYMBYGA1UEAwwPY3JhdGVybW91c2UuY29tMFkwEwYHKoZI\nzj0CAQYIKoZIzj0DAQcDQgAEQJkCiitCzgSCBzqc36Jgfjcz1S0nWNkPDvv1oEG4\nfeou25xlq+rrWnpI873fXpjrNtjSeNqL/hYE/Kiq2SAlS6NTMFEwHQYDVR0OBBYE\nFIakG5UyCuFOuPNQj04c6pZocCtMMB8GA1UdIwQYMBaAFIakG5UyCuFOuPNQj04c\n6pZocCtMMA8GA1UdEwEB/wQFMAMBAf8wCgYIKoZIzj0EAwIDSQAwRgIhANQkDUxp\nG/iOqr96egJ0i2Qd4d0VN+kqZZQqrWey5+kZAiEA7bV/zP+N2eSAeZCogqEulK3U\nX7UVFebsy3dyOBumZF8=\n-----END CERTIFICATE-----\n"
+}

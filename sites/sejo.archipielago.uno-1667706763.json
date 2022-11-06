@@ -1,0 +1,26 @@
+{
+  "server": "sejo.archipielago.uno",
+  "ip": "216.238.66.109",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.44.169",
+    "6": "154.54.3.213",
+    "7": "154.54.44.229",
+    "8": "154.54.47.46",
+    "9": "154.54.85.186",
+    "10": "38.104.249.138",
+    "11": "148.243.141.178",
+    "12": "189.206.11.142",
+    "13": "201.151.24.86",
+    "14": "189.206.187.149",
+    "15": "189.206.3.194",
+    "16": "201.149.97.50",
+    "20": "216.238.66.109",
+    "21": "216.238.66.109"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBlzCCAT2gAwIBAgIQFR2UqVihOuDFFVEU4bL99zAKBggqhkjOPQQDAjAgMR4w\nHAYDVQQDExVzZWpvLmFyY2hpcGllbGFnby51bm8wIBcNMjIwNDIwMDEzNjE5WhgP\nMjEyMjAzMjcwMTM2MTlaMCAxHjAcBgNVBAMTFXNlam8uYXJjaGlwaWVsYWdvLnVu\nbzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABCPhh7uk4Xcv8xR9NaS+9GZzZSwZ\n7ngjZAZ4i3YokGV9k9DSRcMlBvMm7twJAau9rYq23q9xVVd6idfSaiPZeA6jVzBV\nMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8E\nAjAAMCAGA1UdEQQZMBeCFXNlam8uYXJjaGlwaWVsYWdvLnVubzAKBggqhkjOPQQD\nAgNIADBFAiEAtcMYy/cgSvjJK4XMwkTPhypL5W+O2uvGz1aKQXrdx4sCIBPwIVOI\nSEpXoSA4Xd9sfGpKaVZ2MxhSdhdF4FhZ8tJF\n-----END CERTIFICATE-----\n"
+}

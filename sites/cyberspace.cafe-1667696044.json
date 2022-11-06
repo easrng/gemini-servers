@@ -1,0 +1,28 @@
+{
+  "server": "cyberspace.cafe",
+  "ip": "98.211.52.166",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "170.39.230.240",
+    "2": "128.177.116.81",
+    "3": "64.125.23.119",
+    "6": "50.242.151.213",
+    "7": "96.110.34.17",
+    "8": "96.110.35.130",
+    "9": "96.110.36.149",
+    "10": "96.110.35.77",
+    "11": "96.110.35.94",
+    "12": "96.110.36.117",
+    "13": "68.86.85.77",
+    "14": "68.86.84.30",
+    "15": "96.110.32.1",
+    "16": "96.110.34.193",
+    "17": "96.110.43.82",
+    "18": "162.151.147.218",
+    "19": "162.151.116.186",
+    "20": "68.86.151.182",
+    "21": "98.211.52.166",
+    "22": "98.211.52.166"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBSTCB8KADAgECAghmUhH7VSr4azAKBggqhkjOPQQDAjAaMRgwFgYDVQQDDA9j\neWJlcnNwYWNlLmNhZmUwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBa\nMBoxGDAWBgNVBAMMD2N5YmVyc3BhY2UuY2FmZTBZMBMGByqGSM49AgEGCCqGSM49\nAwEHA0IABGVyMrZYPZm0P4oFE2g0+kdq217jT3Gxx+zuGBVdHWfVkfZrF5nQIhWN\nl8UTfKbDYT4sFPz13msdkhlQQGR9SuOjHjAcMBoGA1UdEQQTMBGCD2N5YmVyc3Bh\nY2UuY2FmZTAKBggqhkjOPQQDAgNIADBFAiEAhmQmsQtbxSO1GcWMztZCkDWBcbEE\nTRmmuqZDfuD3ghkCIC5wxOcKVii1+KFDhlGasRpW0BwCZjSSxKSml6e7cvUK\n-----END CERTIFICATE-----\n"
+}

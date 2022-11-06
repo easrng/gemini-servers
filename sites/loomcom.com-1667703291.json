@@ -1,0 +1,22 @@
+{
+  "server": "loomcom.com",
+  "ip": "45.33.111.32",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.44.169",
+    "6": "154.54.31.89",
+    "7": "154.54.42.97",
+    "8": "154.54.44.141",
+    "9": "154.54.43.150",
+    "10": "154.54.3.138",
+    "11": "38.142.11.154",
+    "12": "173.230.159.81",
+    "13": "45.33.111.32",
+    "14": "45.33.111.32"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBPjCB5aADAgECAgkAiMNd0RvIA18wCgYIKoZIzj0EAwIwFjEUMBIGA1UEAwwL\nbG9vbWNvbS5jb20wIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBYx\nFDASBgNVBAMMC2xvb21jb20uY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE\nagUyNfi7ghRV+5GEy1T2z41K0HyOaq5Vi9dvaWGqPwopBRlqEWVnK+bgiTHFRpyS\nG3jUby1IXEYdMV4h5Yl51aMaMBgwFgYDVR0RBA8wDYILbG9vbWNvbS5jb20wCgYI\nKoZIzj0EAwIDSAAwRQIgIhNv57Cn9KGPuVcFxbdiBTEdROLsTKO4ybOEmrzXjSsC\nIQD7IEGVpm5rFUiyEUCPVgqOgaCJ99SPzSQJcLntYwdMBA==\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,18 @@
+{
+  "server": "gem.ortie.org",
+  "ip": "90.109.238.167",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.6.221",
+    "5": "154.54.45.18",
+    "6": "154.54.11.182",
+    "7": "193.251.128.15",
+    "12": "90.109.238.167",
+    "13": "90.109.238.167",
+    "14": "90.109.238.167"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBQzCB66ADAgECAgkAy/xx8Wy0bgUwCgYIKoZIzj0EAwIwGDEWMBQGA1UEAwwN\nZ2VtLm9ydGllLm9yZzAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFow\nGDEWMBQGA1UEAwwNZ2VtLm9ydGllLm9yZzBZMBMGByqGSM49AgEGCCqGSM49AwEH\nA0IABOXX60DcdaKADTO+brCDQp2Dwvfz+1TF5zMubxaHVMJ5yi6NIttqWdkboNoK\nL1xjvzIo3YujpsbEfPJa0j8QC0KjHDAaMBgGA1UdEQQRMA+CDWdlbS5vcnRpZS5v\ncmcwCgYIKoZIzj0EAwIDRwAwRAIgNxjGb6OEVGjmUYkScUAXNW0n/h3w1EedkfyL\nnnKeYfwCIGWKGg0EV+npp1hkWTM2M/yKGsoHgCD2DZka92gntifI\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,14 @@
+{
+  "server": "gemini.hackers.town",
+  "ip": "165.227.109.140",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "5": "4.14.218.30",
+    "11": "165.227.109.140",
+    "12": "165.227.109.140"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBVjCB/KADAgECAgh+5aWjXYNP/jAKBggqhkjOPQQDAjAeMRwwGgYDVQQDDBNn\nZW1pbmkuaGFja2Vycy50b3duMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAw\nMDAwWjAeMRwwGgYDVQQDDBNnZW1pbmkuaGFja2Vycy50b3duMFkwEwYHKoZIzj0C\nAQYIKoZIzj0DAQcDQgAE25NwBo3ybfZFkTxEHCblMWe4FjYoog+Dh1B92m29DWQB\n3w8A+lxPVd3Kfs62C2ZeLroykJ20wl67DV1aZIkVDqMiMCAwHgYDVR0RBBcwFYIT\nZ2VtaW5pLmhhY2tlcnMudG93bjAKBggqhkjOPQQDAgNJADBGAiEA05JGrGm7TBOv\n5YCwiCC2yNXm8/R9vGL8GcfJp/T0KcUCIQD3TvjrR+ZkyxS9c/NGXAFT14wSG0K/\nHsfIAXOD9b/HUQ==\n-----END CERTIFICATE-----\n"
+}

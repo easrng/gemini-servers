@@ -1,0 +1,21 @@
+{
+  "server": "markdain.net",
+  "ip": "18.170.50.47",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.165",
+    "5": "154.54.39.118",
+    "6": "149.11.167.138",
+    "9": "52.95.61.50",
+    "10": "52.94.35.119",
+    "11": "52.94.35.102",
+    "12": "15.230.158.183",
+    "13": "15.230.158.148",
+    "20": "18.170.50.47",
+    "21": "18.170.50.47"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBnDCCASGgAwIBAgIBATAKBggqhkjOPQQDAjApMRAwDgYDVQQKDAdnbW5pc3J2\nMRUwEwYDVQQDDAxtYXJrZGFpbi5uZXQwIBcNMjEwNzIyMTUxODI1WhgPMjA4OTA4\nMDkxODMyMzJaMCkxEDAOBgNVBAoMB2dtbmlzcnYxFTATBgNVBAMMDG1hcmtkYWlu\nLm5ldDB2MBAGByqGSM49AgEGBSuBBAAiA2IABErjDjR2sovmqs+zUeWWyOBEnvUE\nao1So6Td4L6wgacx+x5ZTC/hKTiQRu7gz+CTwniMy4rqZlso5SMpgs52GO2hQqoy\nwexUHOF2alrHVH0EA7nI5ZVKUx08LuvZca4y76MbMBkwFwYDVR0RBBAwDoIMbWFy\na2RhaW4ubmV0MAoGCCqGSM49BAMCA2kAMGYCMQCxOTm5PNpt6GmMTBWogVDxMzCo\nX2OMPPY+9BwnzYy/JFrrIHg01InB8g+piGsI3eoCMQC9ruX6hLsVc1+nqCnET351\nT+wP3d6bRBl0UgNHDR90NVkBwWr88biimjtlklxDgJc=\n-----END CERTIFICATE-----\n"
+}

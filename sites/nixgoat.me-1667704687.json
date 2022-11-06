@@ -1,0 +1,23 @@
+{
+  "server": "nixgoat.me",
+  "ip": "186.105.46.151",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.82.254",
+    "5": "154.54.30.66",
+    "6": "94.142.107.92",
+    "7": "94.142.99.236",
+    "8": "94.142.118.173",
+    "9": "176.52.253.115",
+    "10": "176.52.253.115",
+    "11": "186.105.0.1",
+    "12": "186.105.0.1",
+    "14": "186.105.46.151",
+    "15": "186.105.46.151",
+    "16": "186.105.46.151"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBOzCB4qADAgECAgkAhdMhPFgwMW0wCgYIKoZIzj0EAwIwFTETMBEGA1UEAwwK\nbml4Z29hdC5tZTAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFowFTET\nMBEGA1UEAwwKbml4Z29hdC5tZTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABM+a\nyMOfuvpdhk29RZ98smm9yOcxvY6ceraOv60Ctxwx9jTym3/zVkAgHAJ0yrMazitt\ny9FO5WbiWCwXVGaogbajGTAXMBUGA1UdEQQOMAyCCm5peGdvYXQubWUwCgYIKoZI\nzj0EAwIDSAAwRQIgMG8GEniTzc8X0e1G2pz9UrSHxegEyjtVJYA4UN00/QcCIQDc\nYzk4PnfFOtu4YI8utsV+IM9Z/gSDz13NsWp4Vod/Iw==\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,19 @@
+{
+  "server": "rwv.io",
+  "ip": "84.22.97.116",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.161",
+    "5": "154.54.77.245",
+    "6": "154.54.58.202",
+    "7": "149.6.1.122",
+    "8": "164.138.24.33",
+    "9": "164.138.24.55",
+    "10": "84.22.97.116",
+    "11": "84.22.97.116"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBdjCCAR2gAwIBAgIUCP+Hn0o4HCWeRlbwMw3x4tGjEnIwCgYIKoZIzj0EAwIw\nETEPMA0GA1UEAwwGcnd2LmlvMB4XDTIwMTAyMzIwNTAwOVoXDTI1MTAyMjIwNTAw\nOVowETEPMA0GA1UEAwwGcnd2LmlvMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE\nnNfDzu8aYWyuTLixGsSJdBIGKcY+9+zVTwFjRMTkEgzSUlMYTYxDmm/Hyc1StXtq\nzKhOQwnZ9iM6S7b+CqSV3KNTMFEwHQYDVR0OBBYEFExOdLVZeQQkI8bNgXWVXcQl\nmjByMB8GA1UdIwQYMBaAFExOdLVZeQQkI8bNgXWVXcQlmjByMA8GA1UdEwEB/wQF\nMAMBAf8wCgYIKoZIzj0EAwIDRwAwRAIgMiwdHb5h4Eitc6ZM+3JH7c6aB1JvWt4D\n51fldHUU0YcCIGgQqovdbucGiLb3K9lH5aaX+TuorDnjxU3vNgTh3aQP\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,18 @@
+{
+  "server": "amigadu.de",
+  "ip": "109.205.180.92",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.58.70",
+    "6": "130.117.50.6",
+    "7": "130.117.48.62",
+    "8": "149.6.139.226",
+    "9": "109.205.180.92",
+    "10": "109.205.180.92"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBOzCB4aADAgECAgg7ZN1GIcTgAjAKBggqhkjOPQQDAjAVMRMwEQYDVQQDDAph\nbWlnYWR1LmRlMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAVMRMw\nEQYDVQQDDAphbWlnYWR1LmRlMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAENelF\nImieA6pjjKP0GOXJoqhaz4T6DvJn+ZgMXc0aBGWFZBkiZScrp4BDiSYVC5ZSfan/\nNKxAmSLzstxajVTFzaMZMBcwFQYDVR0RBA4wDIIKYW1pZ2FkdS5kZTAKBggqhkjO\nPQQDAgNJADBGAiEA0wh3tvsqqdhUepWQ1gsOyMk3bLWHBB4UpHjlRPSS4ZUCIQCL\nkgJcG2sjXi9JSJdgpE/yzcysHykoLw+6UmSybr7/WQ==\n-----END CERTIFICATE-----\n"
+}

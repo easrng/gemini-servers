@@ -1,0 +1,14 @@
+{
+  "server": "warp.geminispace.club",
+  "ip": "104.238.135.87",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "5": "65.59.14.18",
+    "9": "104.238.135.87",
+    "10": "104.238.135.87"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBljCCATugAwIBAgIUbb39bjZn8wjeuESI2VUu0u5qGk0wCgYIKoZIzj0EAwIw\nIDEeMBwGA1UEAwwVd2FycC5nZW1pbmlzcGFjZS5jbHViMB4XDTIyMDcxNDE4MzE0\nM1oXDTIzMDcxNDE4MzE0M1owIDEeMBwGA1UEAwwVd2FycC5nZW1pbmlzcGFjZS5j\nbHViMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAELJEf5UDuS+HlHZeaNueh/Wdj\n6aUf4yA5NX5lKg0Qu65J1aE01OCKZ+8h5ntg0GXQiio1o98K5WD/SJNBtcgLgKNT\nMFEwHQYDVR0OBBYEFFeFMIkppbSlablpHX47nuEB/F6cMB8GA1UdIwQYMBaAFFeF\nMIkppbSlablpHX47nuEB/F6cMA8GA1UdEwEB/wQFMAMBAf8wCgYIKoZIzj0EAwID\nSQAwRgIhAIuG2BHqze6FszkOi96/FHOqQeCTyKwEu61zCCpzNw5KAiEAs+khCd8C\nvjjCjUHrinUEXcAQJH9gh1XQ7p9DflzRQd4=\n-----END CERTIFICATE-----\n"
+}

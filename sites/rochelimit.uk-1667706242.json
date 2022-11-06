@@ -1,0 +1,20 @@
+{
+  "server": "rochelimit.uk",
+  "ip": "217.155.7.114",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "62.115.187.238",
+    "4": "62.115.117.229",
+    "5": "62.115.123.108",
+    "6": "62.115.113.21",
+    "7": "62.115.120.75",
+    "8": "213.248.84.101",
+    "9": "51.148.73.166",
+    "10": "51.148.73.139",
+    "12": "217.155.7.114",
+    "13": "217.155.7.114"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBPTCB46ADAgECAgEqMAoGCCqGSM49BAMCMBgxFjAUBgNVBAMMDXJvY2hlbGlt\naXQudWswIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBgxFjAUBgNV\nBAMMDXJvY2hlbGltaXQudWswWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAR75OQM\nFnlVKtw5krC+h565AUTk9PljmALWxsaJwjbB6T5R+4nY2VVnPmZOWtTM1KXs1/9f\nN9tRyn7FhT4GejMyoxwwGjAYBgNVHREEETAPgg1yb2NoZWxpbWl0LnVrMAoGCCqG\nSM49BAMCA0kAMEYCIQC6JKZmS7cFLRsJzYnhKSJZeVAXILDBl4jHza4m2U8dJwIh\nAIRcpSY6bwFmtcqtL8No5UyVNz+cBU/IkMNVA4qHikru\n-----END CERTIFICATE-----\n"
+}

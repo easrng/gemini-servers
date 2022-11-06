@@ -1,0 +1,21 @@
+{
+  "server": "calcuode.com",
+  "ip": "95.111.237.17",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "62.115.187.238",
+    "4": "62.115.117.229",
+    "5": "62.115.123.108",
+    "6": "62.115.113.21",
+    "8": "62.115.141.246",
+    "9": "62.115.122.160",
+    "10": "62.115.113.175",
+    "11": "62.115.33.119",
+    "12": "95.111.237.17",
+    "13": "95.111.237.17",
+    "14": "95.111.237.17"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBmjCCASGgAwIBAgIBATAKBggqhkjOPQQDAjApMRAwDgYDVQQKDAdnbW5pc3J2\nMRUwEwYDVQQDDAxjYWxjdW9kZS5jb20wIBcNMjExMDA4MDcxNjUwWhgPMjA4OTEw\nMjYxMDMwNTdaMCkxEDAOBgNVBAoMB2dtbmlzcnYxFTATBgNVBAMMDGNhbGN1b2Rl\nLmNvbTB2MBAGByqGSM49AgEGBSuBBAAiA2IABGWsupbeXd0/o7bUZaz/VBI9ZI1K\nXcSQEsLn2/85yKEzoeCjzOMApZlD8G6EdEyf9Th8IOzEnAKSLLf4wzlmLebS7g9y\nj4q8vPmVem6IZgOGvrLtaofUzhCJI0nymlbYGaMbMBkwFwYDVR0RBBAwDoIMY2Fs\nY3VvZGUuY29tMAoGCCqGSM49BAMCA2cAMGQCMEwv49Qs/EZnU8VGTVXGb4xMNY/n\nqJTxZ+S61q+dFBOCJdRZ9IgKoChiry5PI5E4LAIwSBsig4nVEfkykPJSZcAzFCYz\n8a5paeGp+oy9l81d2A17Tro60CY6xD4uXQs2tepK\n-----END CERTIFICATE-----\n"
+}

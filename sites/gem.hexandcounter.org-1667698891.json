@@ -1,0 +1,16 @@
+{
+  "server": "gem.hexandcounter.org",
+  "ip": "95.217.12.155",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.161.98",
+    "5": "212.133.6.2",
+    "6": "213.239.224.26",
+    "7": "88.198.245.254",
+    "9": "95.216.131.113"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBUzCB+6ADAgECAgEqMAoGCCqGSM49BAMCMCAxHjAcBgNVBAMMFWdlbS5oZXhh\nbmRjb3VudGVyLm9yZzAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFow\nIDEeMBwGA1UEAwwVZ2VtLmhleGFuZGNvdW50ZXIub3JnMFkwEwYHKoZIzj0CAQYI\nKoZIzj0DAQcDQgAE2DYoCqmV4LchRQF7/tn3TtigOpybLybh6IuilOgK2GSPGWL9\ny/Kje5aSlj45SmV5kIOdRmBgT1OvC8SZJnyaEKMkMCIwIAYDVR0RBBkwF4IVZ2Vt\nLmhleGFuZGNvdW50ZXIub3JnMAoGCCqGSM49BAMCA0cAMEQCIBMWAwIF0R9+Pc3v\nc8Xus6eXBdFfw1Fp1k11GbA8e2mnAiAYSJE82phYZNf5vHrwLoRHAbzmhVTtX+Ld\ne2jhV19Ujg==\n-----END CERTIFICATE-----\n"
+}

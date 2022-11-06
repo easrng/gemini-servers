@@ -1,0 +1,20 @@
+{
+  "server": "dj-chase.com",
+  "ip": "76.119.7.224",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "170.39.230.240",
+    "2": "128.177.116.81",
+    "3": "64.125.23.119",
+    "6": "50.242.151.213",
+    "7": "96.110.34.17",
+    "8": "96.110.42.2",
+    "9": "162.151.52.33",
+    "10": "96.110.116.90",
+    "11": "96.108.46.114",
+    "12": "68.87.159.134",
+    "13": "76.119.7.224",
+    "14": "76.119.7.224"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBQTCB6KADAgECAgkAg2DSnGBK/EAwCgYIKoZIzj0EAwIwFzEVMBMGA1UEAwwM\nZGotY2hhc2UuY29tMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAX\nMRUwEwYDVQQDDAxkai1jaGFzZS5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNC\nAATgVFMKvLXi6hTXxHXAprIuizETYNPzYIL5dPHN+1IHXTMVXVqH0kzYoBHi8USz\ntJ0HY1PGs6ijEOHzRZlcGW77oxswGTAXBgNVHREEEDAOggxkai1jaGFzZS5jb20w\nCgYIKoZIzj0EAwIDSAAwRQIgHfJZe1KdhXIx7yYTO6yuN2kLYKT/+pQJGOpS2c8b\n+B8CIQDEqPad0OCniBLq3114C7K9x/JBckwvcuUlqebk0O7Fgg==\n-----END CERTIFICATE-----\n"
+}

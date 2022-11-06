@@ -1,0 +1,24 @@
+{
+  "server": "gemini.susa.net",
+  "ip": "78.46.186.193",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.58.70",
+    "6": "130.117.0.142",
+    "7": "154.54.36.254",
+    "8": "154.54.59.194",
+    "9": "154.25.14.46",
+    "10": "149.6.158.186",
+    "11": "213.239.245.54",
+    "12": "213.239.239.130",
+    "14": "159.69.98.73",
+    "15": "78.46.186.193",
+    "16": "78.46.186.193",
+    "17": "78.46.186.193"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBsTCCAVigAwIBAgIUPVa2sk2xGM61dRxkwrelHrMiqOcwCgYIKoZIzj0EAwIw\nGjEYMBYGA1UEAwwPZ2VtaW5pLnN1c2EubmV0MCAXDTIyMDIwNzIzMDkwMFoYDzIx\nMjIwMTE0MjMwOTAwWjAaMRgwFgYDVQQDDA9nZW1pbmkuc3VzYS5uZXQwWTATBgcq\nhkjOPQIBBggqhkjOPQMBBwNCAATowoScSWt+EeemyIs27aEKE89sSpo0IbZ1hrLD\njAi7jvzCKEbWlLDu72uLor/4d0gl8e2caiRBb0ixei7ozOLTo3oweDAdBgNVHQ4E\nFgQUxnMcaqAomgVJfMybrkOr6DfgCCEwHwYDVR0jBBgwFoAUxnMcaqAomgVJfMyb\nrkOr6DfgCCEwDwYDVR0TAQH/BAUwAwEB/zAlBgNVHREEHjAcgg9nZW1pbmkuc3Vz\nYS5uZXSCCWxvY2FsaG9zdDAKBggqhkjOPQQDAgNHADBEAiBAGv/JeuUWg3Cb3iAi\nhNJrz41vaJTFUMOQkMPcfHVUcwIgD0tB5UAZVB6AoTJt1BdFmGMwUQeXB8KMIhr3\nV6BnjD8=\n-----END CERTIFICATE-----\n"
+}

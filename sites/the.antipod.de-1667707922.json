@@ -1,0 +1,19 @@
+{
+  "server": "the.antipod.de",
+  "ip": "199.180.249.57",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "170.39.230.240",
+    "2": "206.108.34.221",
+    "5": "198.232.115.142",
+    "6": "216.52.191.44",
+    "7": "107.150.140.178",
+    "8": "63.251.44.10",
+    "9": "199.231.225.42",
+    "10": "199.180.249.57",
+    "11": "199.180.249.57",
+    "3": "50.115.91.147",
+    "4": "50.115.91.73"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBXzCCAQWgAwIBAgIQAJgGfMPcm7gzbTE4usaLwTAKBggqhkjOPQQDAjAZMRcw\nFQYDVQQDEw50aGUuYW50aXBvZC5kZTAeFw0yMjA5MTkyMTQ1MjNaFw0yNzA5MTky\nMTQ1MjNaMBkxFzAVBgNVBAMTDnRoZS5hbnRpcG9kLmRlMFkwEwYHKoZIzj0CAQYI\nKoZIzj0DAQcDQgAEhWJO2K7J91EKVQ3KdRS9tN+PSvmCQ3MsupJVyWNam/SoDMDf\nb6CA2W8YQrr0gOAg/0ud7OaQIMYjl3WA0eYCjaMvMC0wKwYDVR0RBCQwIoIOdGhl\nLmFudGlwb2QuZGWCECoudGhlLmFudGlwb2QuZGUwCgYIKoZIzj0EAwIDSAAwRQIh\nAOfvXIE6W3QQROPCSgncgJOr+26TGt5oC1/soqIPU4YIAiB83XzelO9bFUZtPjMo\na/FBFPqUsT9UIrAwGk3gg2uNuQ==\n-----END CERTIFICATE-----\n"
+}

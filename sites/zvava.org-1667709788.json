@@ -1,0 +1,15 @@
+{
+  "server": "zvava.org",
+  "ip": "192.3.153.66",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.40.78",
+    "4": "154.54.0.90",
+    "5": "38.122.36.234",
+    "9": "192.3.153.66",
+    "10": "192.3.153.66"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBODCB36ADAgECAgkAmQRtaHbaEgUwCgYIKoZIzj0EAwIwFDESMBAGA1UEAwwJ\nenZhdmEub3JnMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAUMRIw\nEAYDVQQDDAl6dmF2YS5vcmcwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQ/AZPC\n1jnfZf9s6XWcjU9tsuQl62HeXVNa0JuHcUa0BIy57omf65wKJv2jltp8HE1sFLS8\nF5GNNNhHSmeaGIHcoxgwFjAUBgNVHREEDTALggl6dmF2YS5vcmcwCgYIKoZIzj0E\nAwIDSAAwRQIhAK8okaaVpuWOT3ilIhd6hqTDmdF1uflxHkuqIZtT4WyOAiBC1FJ2\nyTU3hOFtqcsekbGmH/AuYgn46gcU8ZFlTdYeIA==\n-----END CERTIFICATE-----\n"
+}

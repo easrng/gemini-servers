@@ -1,0 +1,25 @@
+{
+  "server": "gnubox.org",
+  "ip": "77.15.62.158",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.82.254",
+    "5": "154.54.30.66",
+    "7": "213.140.35.239",
+    "8": "176.52.248.90",
+    "9": "81.173.106.17",
+    "10": "62.53.8.210",
+    "11": "62.53.0.12",
+    "12": "62.53.0.5",
+    "13": "62.53.28.149",
+    "14": "62.53.12.39",
+    "15": "77.15.62.158",
+    "6": "94.142.107.92",
+    "16": "77.15.62.158",
+    "17": "77.15.62.158"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBNDCB2qADAgECAgEqMAoGCCqGSM49BAMCMBUxEzARBgNVBAMMCmdudWJveC5v\ncmcwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBUxEzARBgNVBAMM\nCmdudWJveC5vcmcwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQO1K0U8yGY3DKY\n5NFfwcNJjzL1GQuQUdZMzpDubPXYB8w/59nUZeTRNVS9piIZP6mD3ncmKCCj7to0\nW9kiji/joxkwFzAVBgNVHREEDjAMggpnbnVib3gub3JnMAoGCCqGSM49BAMCA0kA\nMEYCIQCrZJ5O57FBRxJVO/X/V+ZFTA3PcSZ8pKc94NHwtZRCzgIhAK/DuM8OBV6h\nHhI4z14ZoXCpb+T23iEqT2cvtbFUPM4O\n-----END CERTIFICATE-----\n"
+}

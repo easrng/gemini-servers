@@ -1,0 +1,17 @@
+{
+  "server": "tecnologiaensimple.cl",
+  "ip": "45.56.117.67",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.82.254",
+    "5": "154.54.24.222",
+    "6": "154.54.6.118",
+    "7": "38.142.129.98",
+    "11": "45.56.117.67",
+    "12": "45.56.117.67"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBUzCB+6ADAgECAgEqMAoGCCqGSM49BAMCMCAxHjAcBgNVBAMMFXRlY25vbG9n\naWFlbnNpbXBsZS5jbDAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFow\nIDEeMBwGA1UEAwwVdGVjbm9sb2dpYWVuc2ltcGxlLmNsMFkwEwYHKoZIzj0CAQYI\nKoZIzj0DAQcDQgAEuVe/ch1sgH7TQ4ewrivIXovZKrqV0Iie5rcPC1wpbRjQuUaB\n1HVXbpA1Lm0hwa4ll5jRa1JeFtREJM3SjUO466MkMCIwIAYDVR0RBBkwF4IVdGVj\nbm9sb2dpYWVuc2ltcGxlLmNsMAoGCCqGSM49BAMCA0cAMEQCIGGaQwPGEpuc4xsx\nsOsgDcPsex3gPKUrvre7KD5rcPeTAiBWOP0aKkeaj0LLfIc0oAkHKs8gM4E89hNm\nzeMJno8BQg==\n-----END CERTIFICATE-----\n"
+}

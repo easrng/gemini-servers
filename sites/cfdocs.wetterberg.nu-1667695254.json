@@ -1,0 +1,20 @@
+{
+  "server": "cfdocs.wetterberg.nu",
+  "ip": "51.158.105.65",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.161",
+    "5": "154.54.39.149",
+    "6": "154.54.60.169",
+    "7": "154.54.38.66",
+    "8": "154.54.60.186",
+    "9": "149.6.164.42",
+    "10": "51.158.8.180",
+    "15": "51.158.105.65",
+    "16": "51.158.105.65"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBVjCB/qADAgECAhEAyuv89vsCZziIazkZo9ZvRjAKBggqhkjOPQQDAjAAMB4X\nDTIyMTEwNTIyMjYwOVoXDTIzMTEwNTIyMjYwOVowADBZMBMGByqGSM49AgEGCCqG\nSM49AwEHA0IABOy5S1JpxI1tm2pDZR++Qahe7ChqlXlOiMHHty1CdCeNnA4bAjbm\nl9uwcIrxTZ8Q3sJZuhyosbVcInaRDDW+IcOjWTBXMA4GA1UdDwEB/wQEAwIHgDAT\nBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMCIGA1UdEQEB/wQYMBaC\nFGNmZG9jcy53ZXR0ZXJiZXJnLm51MAoGCCqGSM49BAMCA0cAMEQCIG7+/YC4jVD5\nlXusmz40rfjobw0XEWJ2SBUjnDrFBHn+AiAK7ut7Q8lTcTE5oVGRspCDOtZJ5tkR\n0yurDD2o9rmC5w==\n-----END CERTIFICATE-----\n"
+}

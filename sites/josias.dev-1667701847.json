@@ -1,0 +1,16 @@
+{
+  "server": "josias.dev",
+  "ip": "67.5.17.209",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.209.82",
+    "5": "4.68.110.154",
+    "6": "67.14.46.30",
+    "8": "67.5.17.209",
+    "9": "67.5.17.209"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBMjCB2qADAgECAgEqMAoGCCqGSM49BAMCMBUxEzARBgNVBAMMCmpvc2lhcy5k\nZXYwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBUxEzARBgNVBAMM\nCmpvc2lhcy5kZXYwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAS6TtFVYJ3VfsM+\n0vKIlRTzMVkNLPMbCslsS2bciMthdIsF13fEvmXqCLHDpKawlu5om3OmOfIDzUzd\neTkcc2DioxkwFzAVBgNVHREEDjAMggpqb3NpYXMuZGV2MAoGCCqGSM49BAMCA0cA\nMEQCIHsD1oBp9dRoCX6pElGvJ3ORc/APnXG0eM45uCFt3bTsAiA2ZrGygVc3eWJo\nWXfhfL8du0msT2sP/MrdpDWZCbDhMQ==\n-----END CERTIFICATE-----\n"
+}

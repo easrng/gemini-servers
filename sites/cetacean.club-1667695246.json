@@ -1,0 +1,18 @@
+{
+  "server": "cetacean.club",
+  "ip": "135.181.162.99",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.161.98",
+    "5": "212.133.6.2",
+    "6": "213.239.224.38",
+    "7": "213.239.224.126",
+    "8": "135.181.162.99",
+    "9": "135.181.162.99",
+    "10": "135.181.162.99"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBXDCCAQKgAwIBAgIRAI29qZEIMzYbvi66WdYpdVAwCgYIKoZIzj0EAwIwGDEW\nMBQGA1UEAxMNY2V0YWNlYW4uY2x1YjAeFw0yMTA0MjQxMTIzMjhaFw0yNjA0MjQx\nMTIzMjhaMBgxFjAUBgNVBAMTDWNldGFjZWFuLmNsdWIwWTATBgcqhkjOPQIBBggq\nhkjOPQMBBwNCAARioqLwlp6pRKQ/khJGOOlxKFUYFqOCNVkQ0HU/1LnlpK8k0RtJ\nsQZ1OnAmeyQvHjir85ZLNrtkxILdUjd6Vdgioy0wKzApBgNVHREEIjAggg1jZXRh\nY2Vhbi5jbHVigg8qLmNldGFjZWFuLmNsdWIwCgYIKoZIzj0EAwIDSAAwRQIhAMz2\nwnxSn/Kr2VVX9a/5BD9dKYQm/2j1FouewLMYCw0kAiAFoHKNzz9kae+wiCmdRrGd\nJFARhhWPLRzxBKI/+avEYA==\n-----END CERTIFICATE-----\n"
+}

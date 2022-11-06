@@ -1,0 +1,19 @@
+{
+  "server": "dungeonhack.net",
+  "ip": "5.161.69.248",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.82.250",
+    "5": "154.54.47.138",
+    "6": "154.54.24.234",
+    "7": "38.32.186.234",
+    "8": "5.161.0.82",
+    "10": "5.161.10.142",
+    "11": "5.161.69.248",
+    "12": "5.161.69.248"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBSTCB8KADAgECAghfP9gcSLq4qzAKBggqhkjOPQQDAjAaMRgwFgYDVQQDDA9k\ndW5nZW9uaGFjay5uZXQwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBa\nMBoxGDAWBgNVBAMMD2R1bmdlb25oYWNrLm5ldDBZMBMGByqGSM49AgEGCCqGSM49\nAwEHA0IABBgUl7lqUuRAVwb18bzVuQGYn56RENQv4dbN34agMFvhoORYDAWbNvSX\nfU2ZIiGeuz5uMo+3t0pUBBPhQ5Ue8xmjHjAcMBoGA1UdEQQTMBGCD2R1bmdlb25o\nYWNrLm5ldDAKBggqhkjOPQQDAgNIADBFAiEA1KTP6UZ5UycH3cmqHlIzGcJyn0qy\neR06xJE4ArvIpWoCICTv74RFKBQujB0lHtVZaJcJzy8TthcKhDzrFMdoELVs\n-----END CERTIFICATE-----\n"
+}

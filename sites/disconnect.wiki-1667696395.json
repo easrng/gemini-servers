@@ -1,0 +1,11 @@
+{
+  "server": "disconnect.wiki",
+  "ip": "213.188.216.188",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "170.39.230.240",
+    "4": "213.188.216.188",
+    "5": "213.188.216.188"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBSjCB8aADAgECAgkAkChmGDv1kVEwCgYIKoZIzj0EAwIwGjEYMBYGA1UEAwwP\nZGlzY29ubmVjdC53aWtpMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAw\nWjAaMRgwFgYDVQQDDA9kaXNjb25uZWN0Lndpa2kwWTATBgcqhkjOPQIBBggqhkjO\nPQMBBwNCAAQv+iLEHINEY3Sf05Q9Zus882PNkC7yEq/hiEUzkH660UaGbgjF9fSc\n8669hyKKFCnKGCC5OqBxtqmn5hy3DkT2ox4wHDAaBgNVHREEEzARgg9kaXNjb25u\nZWN0Lndpa2kwCgYIKoZIzj0EAwIDSAAwRQIhAKuzH+vC/lJPlmuoxm0GYVPbYmWs\ng7nDw2H3c7XricgvAiAjXv/JTkCg1sXQNrOVHsAOq8asvhGrkaktRUBqe0I1sw==\n-----END CERTIFICATE-----\n"
+}

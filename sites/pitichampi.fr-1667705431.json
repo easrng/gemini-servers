@@ -1,0 +1,12 @@
+{
+  "server": "pitichampi.fr",
+  "ip": "142.4.208.108",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "170.39.230.240",
+    "3": "192.99.146.48",
+    "7": "142.4.208.108",
+    "8": "142.4.208.108"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBQzCB6qADAgECAghijuZR+CmLpzAKBggqhkjOPQQDAjAYMRYwFAYDVQQDDA1w\naXRpY2hhbXBpLmZyMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAY\nMRYwFAYDVQQDDA1waXRpY2hhbXBpLmZyMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcD\nQgAEmyoOQwMvxy3CacgMdaLIRuDEfrjYgCqUJDxemcLFjYA+4LFg287ghspREwwA\nydK2jPdJWMH+f66ISDy2RW+EIaMcMBowGAYDVR0RBBEwD4INcGl0aWNoYW1waS5m\ncjAKBggqhkjOPQQDAgNIADBFAiBa03LGfZs36m4kYghnxI9W5WY4sMHr/08i36iy\nz6IfsgIhAKB58Ne0KgjFv5vTqcDuDY8WNKmLO7gZgZDFr/zynr3W\n-----END CERTIFICATE-----\n"
+}

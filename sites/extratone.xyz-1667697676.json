@@ -1,0 +1,21 @@
+{
+  "server": "extratone.xyz",
+  "ip": "192.248.155.116",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.39.118",
+    "6": "154.54.60.13",
+    "7": "130.117.3.102",
+    "8": "149.6.146.66",
+    "9": "10.69.3.70",
+    "10": "10.69.5.25",
+    "11": "10.69.1.238",
+    "12": "192.248.155.116",
+    "13": "192.248.155.116"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBPDCB46ADAgECAgEqMAoGCCqGSM49BAMCMBgxFjAUBgNVBAMMDWV4dHJhdG9u\nZS54eXowIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBgxFjAUBgNV\nBAMMDWV4dHJhdG9uZS54eXowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAS7DgxZ\neWRdtXoomnyuzp1IB5hHHKObCroS60YbvIY4vG7MkAIr6pq0a/Rz7Ykpu9MeXaX2\ntWP92918rrP5ax0LoxwwGjAYBgNVHREEETAPgg1leHRyYXRvbmUueHl6MAoGCCqG\nSM49BAMCA0gAMEUCIGIC8hjM0BVimSQCD153nj6dd68mwhC5SZyzRSNzuCsCAiEA\nwv4m6ZVCqizL55X/3ZYsZ+7FjcOY3Swj+/i1m1vRUX0=\n-----END CERTIFICATE-----\n"
+}

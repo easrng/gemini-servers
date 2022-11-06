@@ -1,0 +1,19 @@
+{
+  "server": "gemini.barca.mi.it",
+  "ip": "2.229.236.190",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.82.250",
+    "5": "66.28.4.182",
+    "6": "195.22.206.52",
+    "7": "195.22.192.139",
+    "8": "195.22.205.79",
+    "11": "2.229.236.190",
+    "12": "2.229.236.190",
+    "13": "2.229.236.190"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBUzCB+aADAgECAgg4iR8V/mQAZjAKBggqhkjOPQQDAjAdMRswGQYDVQQDDBJn\nZW1pbmkuYmFyY2EubWkuaXQwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAw\nMDBaMB0xGzAZBgNVBAMMEmdlbWluaS5iYXJjYS5taS5pdDBZMBMGByqGSM49AgEG\nCCqGSM49AwEHA0IABIkE+01F7ChVuLXzRhnRBv07HuFgu5oUnX3NZuLKsDbdg0C4\n1eN5Y5biliUoBdeC+7OGSMP64SHuMabl+abvucOjITAfMB0GA1UdEQQWMBSCEmdl\nbWluaS5iYXJjYS5taS5pdDAKBggqhkjOPQQDAgNJADBGAiEAoBp/Wqxv3F/2GAEm\nId2E4eQQE/eMxaSdtMiToDbr5pQCIQDjjGnXFlH7m0+orztcXYk8hanbCXqC99pr\ntEqaXlTG5g==\n-----END CERTIFICATE-----\n"
+}

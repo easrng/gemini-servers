@@ -1,0 +1,22 @@
+{
+  "server": "git.sikmir.ru",
+  "ip": "84.38.182.230",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.58.70",
+    "6": "154.54.38.210",
+    "7": "154.54.61.230",
+    "8": "154.54.61.242",
+    "9": "154.54.36.90",
+    "10": "149.6.169.218",
+    "12": "92.53.93.180",
+    "13": "84.38.182.230",
+    "14": "84.38.182.230",
+    "15": "84.38.182.230"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBPDCB46ADAgECAgEqMAoGCCqGSM49BAMCMBgxFjAUBgNVBAMMDWdpdC5zaWtt\naXIucnUwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBgxFjAUBgNV\nBAMMDWdpdC5zaWttaXIucnUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARsAE0B\n57rJ8YUrshLxl11EoKIODDLIR9iN8RvHJyJLPFZnZESd1ncxaV5aBjeJa0+0Fa+c\nFvv2akdpDmdSxSk9oxwwGjAYBgNVHREEETAPgg1naXQuc2lrbWlyLnJ1MAoGCCqG\nSM49BAMCA0gAMEUCIQDOWiAsinq7Y3I8RqlP32Ml5tw3ZLnoi6wySEErbZ8nAgIg\nELvQLjf9r1wA4XXk1aN2mqIbiRNpJmY/d5qDBiG1NJk=\n-----END CERTIFICATE-----\n"
+}

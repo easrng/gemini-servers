@@ -1,0 +1,20 @@
+{
+  "server": "tom-marshall.uk",
+  "ip": "212.159.100.10",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.82.246",
+    "5": "154.54.30.66",
+    "6": "154.54.10.170",
+    "7": "166.49.208.93",
+    "8": "166.49.209.133",
+    "9": "109.159.252.145",
+    "11": "84.93.253.90",
+    "12": "212.159.100.10",
+    "13": "212.159.100.10"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBSTCB8aADAgECAgkAlcamTcD7UG8wCgYIKoZIzj0EAwIwGjEYMBYGA1UEAwwP\ndG9tLW1hcnNoYWxsLnVrMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAw\nWjAaMRgwFgYDVQQDDA90b20tbWFyc2hhbGwudWswWTATBgcqhkjOPQIBBggqhkjO\nPQMBBwNCAARK5fNhljAdupSTceI2fp/yc3/DjSQRf9jFEyVQaXuRchcPPFn/n8yV\n75oF0KvrqOk9mrE80tjSaJCnEx9xY5oDox4wHDAaBgNVHREEEzARgg90b20tbWFy\nc2hhbGwudWswCgYIKoZIzj0EAwIDRwAwRAIgcUsSyvFueM5kja4RQz7tjki/egh/\nliX5QkbPahZ6+NECIGiNthc6mb3RRQrPMo4oWsQYBqb9cSXf+al4OFPLfyc7\n-----END CERTIFICATE-----\n"
+}

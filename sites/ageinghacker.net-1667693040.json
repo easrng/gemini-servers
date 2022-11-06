@@ -1,0 +1,24 @@
+{
+  "server": "ageinghacker.net",
+  "ip": "82.221.139.216",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.47.50",
+    "5": "154.54.3.10",
+    "6": "38.104.72.202",
+    "7": "10.254.108.1",
+    "8": "80.95.144.152",
+    "9": "80.95.144.164",
+    "10": "80.95.144.147",
+    "11": "80.95.152.110",
+    "12": "82.221.168.228",
+    "13": "82.221.139.253",
+    "14": "82.221.139.216",
+    "15": "82.221.139.216",
+    "16": "82.221.139.216"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBsjCCATegAwIBAgIBATAKBggqhkjOPQQDAjAyMRUwEwYDVQQKDAxnbW5pc3J2\nIHVzZXIxGTAXBgNVBAMMEGFnZWluZ2hhY2tlci5uZXQwIBcNMjIwMTE2MTI0MjM2\nWhgPMjA5MDAyMDMxNTU2NDNaMDIxFTATBgNVBAoMDGdtbmlzcnYgdXNlcjEZMBcG\nA1UEAwwQYWdlaW5naGFja2VyLm5ldDB2MBAGByqGSM49AgEGBSuBBAAiA2IABHoD\nclu+SoStjMagKLdoddcqhsISCTXd97hswj05yecHtSIBwAsaHEpSDX2uml5H1tNF\nB3tUhnxOdcGoaaKWFpN4Ej4rWobT0719yyRA9qEgT+KBrQWlqaee44C8VbTKK6Mf\nMB0wGwYDVR0RBBQwEoIQYWdlaW5naGFja2VyLm5ldDAKBggqhkjOPQQDAgNpADBm\nAjEAq47Pj1Nrb5HB7eo/Wm/vQC1XNBvar+OpJdmstnRy4gg9RZ+3lE9vde3NTR1J\ncm23AjEAsKkbANOH7KC4gB3vWeWQRj67ljL+3W/TiVkM/SuPhoUrI8+3YPY1OjnD\nGmVm0PHI\n-----END CERTIFICATE-----\n"
+}

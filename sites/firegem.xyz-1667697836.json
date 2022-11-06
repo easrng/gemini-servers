@@ -1,0 +1,14 @@
+{
+  "server": "firegem.xyz",
+  "ip": "104.238.129.143",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "5": "65.59.14.18",
+    "9": "104.238.129.143",
+    "10": "104.238.129.143"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBNzCB3aADAgECAgEqMAoGCCqGSM49BAMCMBYxFDASBgNVBAMMC2ZpcmVnZW0u\neHl6MCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAWMRQwEgYDVQQD\nDAtmaXJlZ2VtLnh5ejBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABFld26UUdSPd\nmSKvrBmtv+VimuKM6XRIAOtR2hfySb7wHSJhhJzKSJobNjnU9tqcIOf8TQDMclA5\ndgihBsoFRGqjGjAYMBYGA1UdEQQPMA2CC2ZpcmVnZW0ueHl6MAoGCCqGSM49BAMC\nA0kAMEYCIQD1lYUi0fzwEDs/r46lgwABINx7CYJnlwbJnyXu6yjr0gIhAM0TSidt\neR8/z83Sgrhp2nMksvenzid9HWfpc5ohVq7z\n-----END CERTIFICATE-----\n"
+}

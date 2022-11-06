@@ -1,0 +1,26 @@
+{
+  "server": "azul.archipielago.uno",
+  "ip": "216.238.66.109",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.44.169",
+    "6": "154.54.3.213",
+    "7": "154.54.44.229",
+    "8": "154.54.47.46",
+    "9": "154.54.85.186",
+    "10": "38.104.249.138",
+    "11": "148.243.141.178",
+    "12": "189.206.11.142",
+    "13": "201.151.24.86",
+    "14": "189.206.187.149",
+    "15": "189.206.3.194",
+    "16": "201.149.97.50",
+    "20": "216.238.66.109",
+    "21": "216.238.66.109"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBmDCCAT6gAwIBAgIRAPDTYwxoK7BndyRRnl/z3skwCgYIKoZIzj0EAwIwIDEe\nMBwGA1UEAxMVYXp1bC5hcmNoaXBpZWxhZ28udW5vMCAXDTIyMDIyNDIwMDQyMVoY\nDzIxMjIwMTMxMjAwNDIxWjAgMR4wHAYDVQQDExVhenVsLmFyY2hpcGllbGFnby51\nbm8wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATpnD1OWryvTzdCLzlsG9end3ha\nmMTBBj7eco+nTBvMEtTrQ6ppcVZ73+vz4ZiJvqd8aCOzoS1G5ZQ5AbqanRI/o1cw\nVTAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/\nBAIwADAgBgNVHREEGTAXghVhenVsLmFyY2hpcGllbGFnby51bm8wCgYIKoZIzj0E\nAwIDSAAwRQIhANW+U8IXERgQ3YdbCiB3KzSESxno7p4srv9d/75QtDVxAiB47CDh\ntA8CcrehLIgRF8OBGKvvkD3qLpcGcr5iJ3K4Iw==\n-----END CERTIFICATE-----\n"
+}

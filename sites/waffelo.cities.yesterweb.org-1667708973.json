@@ -1,0 +1,15 @@
+{
+  "server": "waffelo.cities.yesterweb.org",
+  "ip": "68.133.1.71",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "170.39.230.240",
+    "2": "128.177.116.81",
+    "3": "64.125.23.119",
+    "6": "152.179.110.93",
+    "7": "100.41.26.91",
+    "8": "68.133.1.71",
+    "9": "68.133.1.71"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIICyzCCAbMCFHTy4xnTqghIsi3+EWiyRFXbGz4TMA0GCSqGSIb3DQEBCwUAMCEx\nHzAdBgNVBAMMFiouY2l0aWVzLnllc3RlcndlYi5vcmcwIBcNMjIwNDA2MjMyMDM4\nWhgPMjA4OTA2MjMyMzIwMzhaMCExHzAdBgNVBAMMFiouY2l0aWVzLnllc3Rlcndl\nYi5vcmcwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC/S3vj8wORDmim\nqruswhQtPRyaPwdUOujSJWZUaqXh2bZ1NZc1eTApg72ENlUSE14qm9dE15/DwB5f\nK0ZfKC+6iVPTw+dRp4g+rfhQMFKnWxMcZHMSWGkemrpjd65NeVO2K2yXJB8RRZjE\nvOUQPGTK8UNDsCPfCwVhVye0y9zzXYMMr+/q5LFtSFgDpH3nifnkUUzKYvlpSOpO\nG7whcZOnhRkiyq2e54KtTEYgNrEKROz4VnjUR7xJ+U5hs83lk8DUqZPeMoEhwWUb\n2PdFr6clVLL0TqjtneAQgPGyt5Zv4QtK3UJFYb4kKUt/iWDsKg1Daml1LyUgjqBc\nF3ng0lDxAgMBAAEwDQYJKoZIhvcNAQELBQADggEBAIzajeeWnHxNIDKnvdSvY1mR\nxBtP2ZuA48B2Og+2mWXYGkKytwvNV2WvmPqzaO9yLgWRgWkDIzVLrwfWkzV1/ZaD\nszfq1UGFLsJdWFZS1nRxCpnti66s27JfVmCenmDojKonHrlAl5uLYeird46joK1m\nPdG2RxrzxQ4bpYAaBV6sgzLB8KK7/tNCGcmSxAPcF0hmGtWVQP55KMo9ld7xtqai\nsDKaXYR3Ii/sNkHl+FDrdbCCCa+u4aCCV2FKZ0jO0/KApIuVFYZrbf5tx4QsowLm\nz26+8cTVAIRJDLAAc1MbRZze6iKQLuX4IrYAECgFeGGLBq+Xu7pMqAH4kHbHcuc=\n-----END CERTIFICATE-----\n"
+}

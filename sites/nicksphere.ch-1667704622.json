@@ -1,0 +1,25 @@
+{
+  "server": "nicksphere.ch",
+  "ip": "83.97.20.60",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.58.70",
+    "6": "130.117.0.142",
+    "7": "154.54.36.254",
+    "8": "154.54.59.181",
+    "9": "154.54.59.186",
+    "12": "154.54.59.206",
+    "13": "149.6.50.186",
+    "16": "91.195.98.36",
+    "17": "83.97.20.60",
+    "18": "83.97.20.60",
+    "19": "83.97.20.60",
+    "11": "154.54.38.246",
+    "10": "154.54.59.178"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBnTCCASSgAwIBAgIBATAKBggqhkjOPQQDAjAqMRAwDgYDVQQKDAdnbW5pc3J2\nMRYwFAYDVQQDDA1uaWNrc3BoZXJlLmNoMCAXDTIyMDIxMjAxMzUxMFoYDzIwOTAw\nMzAyMDQ0OTE3WjAqMRAwDgYDVQQKDAdnbW5pc3J2MRYwFAYDVQQDDA1uaWNrc3Bo\nZXJlLmNoMHYwEAYHKoZIzj0CAQYFK4EEACIDYgAEZiTW8v5ReM4fVBbXP/qz6QaS\nYWTlqcjhMKs2l3bf5pokMd1WikzOL98G1XSbjfiwOCVzUwYlQXLLkOFe8xiOSF1C\nGxWmvTfSNKgbza/dr4Zd+RsTKu3btx05t+SH9qFgoxwwGjAYBgNVHREEETAPgg1u\naWNrc3BoZXJlLmNoMAoGCCqGSM49BAMCA2cAMGQCMHnaNNtRuf+sJDZrACKTgw1x\nRD50Kk5igBsdD5rT2uj1de3p9yNJOPH8SmXy4g2MOgIwMFXL/6QeP768pSQrYGSx\nhjx4PpKtUvkTaZOcy5wFhm4tyG1J75mfPUkKVQXLoj96\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,21 @@
+{
+  "server": "tilde.pink",
+  "ip": "2.59.133.182",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.165",
+    "5": "154.54.58.70",
+    "6": "130.117.0.142",
+    "7": "149.6.43.114",
+    "8": "84.17.33.63",
+    "9": "45.135.200.15",
+    "10": "45.135.203.115",
+    "11": "2.59.133.182",
+    "12": "2.59.133.182",
+    "13": "2.59.133.182"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBTTCB9aADAgECAhAOP1CtI04f6ra4a9HblUbaMAoGCCqGSM49BAMCMBUxEzAR\nBgNVBAMTCnRpbGRlLnBpbmswHhcNMjEwMjA2MTU1OTEzWhcNMzEwMjA2MTU1OTEz\nWjAVMRMwEQYDVQQDEwp0aWxkZS5waW5rMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcD\nQgAEgs4LzNRQe6BHSXF1ZThM719qCtXsUcsIK1bEw5B7nWRy09ExDV6QolrXtdI7\noAWZdgJOrvuK5e5fvYGY3U30i6MnMCUwIwYDVR0RBBwwGoIKdGlsZGUucGlua4IM\nKi50aWxkZS5waW5rMAoGCCqGSM49BAMCA0cAMEQCIHTJsK3TN6AeZ+xZftsgaToe\nX7o6gryF/uy9vpkIBRw+AiA3LS74R4mL6fGtXtoaqyVbdkyuUtebttsfwKgi8qBf\ncA==\n-----END CERTIFICATE-----\n"
+}

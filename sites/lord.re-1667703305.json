@@ -1,0 +1,19 @@
+{
+  "server": "lord.re",
+  "ip": "90.1.83.155",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.6.221",
+    "5": "154.54.45.18",
+    "6": "154.54.11.182",
+    "7": "193.251.128.15",
+    "8": "193.251.151.34",
+    "14": "90.1.83.155",
+    "15": "90.1.83.155",
+    "16": "90.1.83.155"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBKjCB3aADAgECAhBdLiPXe+FgZNrw8zlK+mqQMAUGAytlcDASMRAwDgYDVQQD\nEwdsb3JkLnJlMB4XDTIyMDEyNDIwMzA0OVoXDTIzMDEyNDIwMzA0OVowEjEQMA4G\nA1UEAxMHbG9yZC5yZTAqMAUGAytlcAMhALp1LMaj4wN6BkN7EPaX/TkuDiaZllLk\nYFRJPSDOilHGo0kwRzAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUH\nAwEwDAYDVR0TAQH/BAIwADASBgNVHREECzAJggdsb3JkLnJlMAUGAytlcANBAM4l\nwTJTCFCfl2EHP7CKvU2B86CxFd0JI9NV5LRfEIiAf1L55Zrcy6qLHyrRyfclaRAM\nLXzbEP5T1eWp3ZEzrgQ=\n-----END CERTIFICATE-----\n"
+}

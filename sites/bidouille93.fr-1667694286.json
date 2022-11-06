@@ -1,0 +1,15 @@
+{
+  "server": "bidouille93.fr",
+  "ip": "51.178.86.38",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "170.39.230.240",
+    "3": "192.99.146.48",
+    "6": "54.36.50.241",
+    "7": "54.36.50.232",
+    "8": "91.121.215.196",
+    "16": "51.178.86.38",
+    "17": "51.178.86.38"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBRjCB7qADAgECAgkAoXyFDNFs7oQwCgYIKoZIzj0EAwIwGTEXMBUGA1UEAwwO\nYmlkb3VpbGxlOTMuZnIwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBa\nMBkxFzAVBgNVBAMMDmJpZG91aWxsZTkzLmZyMFkwEwYHKoZIzj0CAQYIKoZIzj0D\nAQcDQgAEWjgwgEZOOP4RsRSOsfFnC0Sk7k28XomPZKRieoAm854ix4mxmT/RKAfY\najKUeoTDvjnuej+nYzIoFNmV0zVrx6MdMBswGQYDVR0RBBIwEIIOYmlkb3VpbGxl\nOTMuZnIwCgYIKoZIzj0EAwIDRwAwRAIgC0CDy2+2phVzPCbfvSnUiObiTnjeMwiR\nzM9EylhslBgCIBa6sdYWe9sH911B+cK6ySqhDN2KGVuFF70ZUia3tZkC\n-----END CERTIFICATE-----\n"
+}

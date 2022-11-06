@@ -1,0 +1,23 @@
+{
+  "server": "gmi.derschwarzestrahler.at",
+  "ip": "37.252.188.21",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.165",
+    "5": "154.54.58.70",
+    "6": "130.117.0.142",
+    "7": "154.54.36.254",
+    "8": "154.54.59.181",
+    "9": "149.38.4.50",
+    "10": "92.60.1.245",
+    "11": "213.208.150.194",
+    "12": "185.119.116.4",
+    "13": "37.252.188.21",
+    "14": "37.252.188.21",
+    "15": "37.252.188.21"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBbDCCARKgAwIBAgIJAMXapCFDFPHeMAoGCCqGSM49BAMCMCUxIzAhBgNVBAMM\nGmdtaS5kZXJzY2h3YXJ6ZXN0cmFobGVyLmF0MCAXDTc1MDEwMTAwMDAwMFoYDzQw\nOTYwMTAxMDAwMDAwWjAlMSMwIQYDVQQDDBpnbWkuZGVyc2Nod2FyemVzdHJhaGxl\nci5hdDBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABI1uiO2Q4Cfwn7pMFVjBvtiN\nGqGQbg4xzmJTdD3doeAOPq33zDuRugv02fQM1NOizapTjNYp/SxKPhGU2XkDc12j\nKTAnMCUGA1UdEQQeMByCGmdtaS5kZXJzY2h3YXJ6ZXN0cmFobGVyLmF0MAoGCCqG\nSM49BAMCA0gAMEUCIQDvqwKg3HWokXpOL/oUxkI4RVnga1exXr3/71tQPJv3KQIg\nBBXEi166hVH57N8ebPaRECvVbitOGdvTfxoVreQvBEw=\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,17 @@
+{
+  "server": "gemini.exoticsilicon.com",
+  "ip": "46.23.90.242",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.9.18",
+    "4": "89.149.181.54",
+    "5": "154.14.67.30",
+    "6": "46.244.6.163",
+    "7": "46.23.91.18",
+    "8": "46.23.90.242",
+    "9": "46.23.90.242"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBoTCCASegAwIBAgIJAOTFEHmvS48eMAoGCCqGSM49BAMCMCMxITAfBgNVBAMM\nGGdlbWluaS5leG90aWNzaWxpY29uLmNvbTAeFw0yMjA5MTIyMTQ4MDRaFw0yMzA5\nMTIyMTQ4MDRaMCMxITAfBgNVBAMMGGdlbWluaS5leG90aWNzaWxpY29uLmNvbTB2\nMBAGByqGSM49AgEGBSuBBAAiA2IABNRpyNV0AUvYCwDKw9SEJisK+fwECScytEfK\nPHfJNiM2dGJTctAe+v+SgJYYDUpy1ti2VULlG8aBQYQjIIpxvsMYyUD2nEUpU5Hz\ny//LjxFOtzvfYB1lh8kN+Jehm7T0PaMnMCUwIwYDVR0RBBwwGoIYZ2VtaW5pLmV4\nb3RpY3NpbGljb24uY29tMAoGCCqGSM49BAMCA2gAMGUCMQC8Huc+6hdpkJpcmtiM\nI5M5tdyy56BeOkT2sA9naC/xiFxLWOO4/x/ulFuXyljYhhECMCXoCNtv1/Zx6NHJ\nQLOA3eTSG072vso92Gg8YHQGVaPu+rXhckoX+wdHm3LfOF2Z3g==\n-----END CERTIFICATE-----\n"
+}

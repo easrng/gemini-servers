@@ -1,0 +1,18 @@
+{
+  "server": "missbanal.net",
+  "ip": "82.66.55.247",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.161",
+    "5": "154.54.39.149",
+    "6": "154.54.60.169",
+    "7": "149.6.114.6",
+    "8": "194.149.166.169",
+    "13": "82.66.55.247",
+    "14": "82.66.55.247"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBpzCCAS6gAwIBAgIBATAKBggqhkjOPQQDAjAvMRUwEwYDVQQKDAxnbW5pc3J2\nIHVzZXIxFjAUBgNVBAMMDW1pc3NiYW5hbC5uZXQwIBcNMjExMjE5MjM1MzMzWhgP\nMjA5MDAxMDcwMzA3NDBaMC8xFTATBgNVBAoMDGdtbmlzcnYgdXNlcjEWMBQGA1UE\nAwwNbWlzc2JhbmFsLm5ldDB2MBAGByqGSM49AgEGBSuBBAAiA2IABD6gFM1CAK9o\nJGuMFyxRABQr4ne5ufR0DaLknplN7Txp7IKlwUA4MkCvs/dcWMZ3RgazI7Jld1QU\nusqQCoSTO3iIPNsVhpvEtOEqfGa2ZO5FwuKwR60VQAg8JL+9cW1dvKMcMBowGAYD\nVR0RBBEwD4INbWlzc2JhbmFsLm5ldDAKBggqhkjOPQQDAgNnADBkAjB6ngvEWX7C\nZKwQF6CDJYovn4lDslFoIR8xX7TV1dlm/VD9ZNBi5uoQGAVmBZP1oAoCMGcf+C7N\n5KMQIAPWISwG5irjcarZty/UUyLku9usXyxoAy1Ftf+K+kenNrHQ6Ca4bw==\n-----END CERTIFICATE-----\n"
+}

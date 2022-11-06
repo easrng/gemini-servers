@@ -1,0 +1,20 @@
+{
+  "server": "webdragon.mywire.org",
+  "ip": "89.200.77.2",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.6.221",
+    "5": "154.54.45.18",
+    "6": "213.46.190.157",
+    "7": "84.116.146.146",
+    "9": "84.116.139.126",
+    "15": "89.200.77.2",
+    "16": "89.200.77.2",
+    "17": "89.200.77.2",
+    "8": "84.116.130.65"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBdjCCAR2gAwIBAgIQf4ld6pOB9XidMcNLAeTmpTAKBggqhkjOPQQDAjAfMR0w\nGwYDVQQDExR3ZWJkcmFnb24ubXl3aXJlLm9yZzAeFw0yMjA4MDIxMzU2MzRaFw0y\nMzA4MDIxMzU2MzRaMB8xHTAbBgNVBAMTFHdlYmRyYWdvbi5teXdpcmUub3JnMFkw\nEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPkjyHZbTBf8DWYFGNXvk0PkCX4f/7cvR\nHXj1emNhAND4vuLuj6hkdSV3aa9OFPKPPm/GokC1UmxEjNaeMXQNvaM7MDkwNwYD\nVR0RBDAwLoIUd2ViZHJhZ29uLm15d2lyZS5vcmeCFioud2ViZHJhZ29uLm15d2ly\nZS5vcmcwCgYIKoZIzj0EAwIDRwAwRAIgHmZnUOi0CZoWM4Ncwf2dpGprwzfiHYRG\nAafU5MNJ8yoCIGyfI5F1kkvC0BLCnDIwQmrXi5ab9yByfuC/TMIZfhQw\n-----END CERTIFICATE-----\n"
+}

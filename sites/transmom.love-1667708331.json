@@ -1,0 +1,24 @@
+{
+  "server": "transmom.love",
+  "ip": "88.99.139.104",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.161",
+    "5": "154.54.77.245",
+    "6": "130.117.0.122",
+    "7": "154.54.36.54",
+    "8": "154.54.58.194",
+    "9": "154.25.14.46",
+    "10": "149.6.158.186",
+    "11": "213.239.245.10",
+    "12": "213.239.245.230",
+    "13": "88.99.139.92",
+    "14": "88.99.139.104",
+    "15": "88.99.139.104",
+    "16": "88.99.139.104"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBPDCB46ADAgECAgEqMAoGCCqGSM49BAMCMBgxFjAUBgNVBAMMDXRyYW5zbW9t\nLmxvdmUwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBgxFjAUBgNV\nBAMMDXRyYW5zbW9tLmxvdmUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATJoqrR\n2E+QcGGzfRInvBC2TejGnMikKJ9Qw4MXYQLfNG5cxzNQhwTrbUgx3KOdVOuMbxQe\nuU3ulqTlLZrggx3moxwwGjAYBgNVHREEETAPgg10cmFuc21vbS5sb3ZlMAoGCCqG\nSM49BAMCA0gAMEUCIQDYAWRZo3p6nCfVVjr9fZt2adY3I8AqqE6GZYqN1VlZkAIg\nUaAHNc5ClMmYyrqs2Ct3dUDj8W7Ju3i5cNiVpxpMJjE=\n-----END CERTIFICATE-----\n"
+}

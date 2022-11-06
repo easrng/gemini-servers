@@ -1,0 +1,18 @@
+{
+  "server": "hispagatos.org",
+  "ip": "173.195.146.139",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.47.50",
+    "5": "154.54.3.142",
+    "6": "154.24.50.86",
+    "7": "38.104.111.122",
+    "9": "173.195.146.139",
+    "8": "208.88.48.1",
+    "10": "173.195.146.139"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBZzCCAQ2gAwIBAgIQbVne9LjPZaiCowRqoc0+1TAKBggqhkjOPQQDAjAQMQ4w\nDAYDVQQDDAUqLm9yZzAgFw0yMTA0MjExNDU4MDNaGA8yMTIxMDMyODE0NTgwM1ow\nEDEOMAwGA1UEAwwFKi5vcmcwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATNpO+j\nHVclVY6XsmbJR/EGg5TR/L1sgnilL+pItZswRn2HCtP9+wZPxafDHOfk1zneSAO+\nLIOdJH5QOHyYcK7Mo0cwRTAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYIKwYB\nBQUHAwEwDAYDVR0TAQH/BAIwADAQBgNVHREECTAHggUqLm9yZzAKBggqhkjOPQQD\nAgNIADBFAiEA6EMvxKyyLFX+NEHjbxZyNp+VhQC3S/B1il3Gq9R3DkcCIGR46Xlg\ne37hrb1Lub8ucnAp4SW80VQavzjdxxTyfJso\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,14 @@
+{
+  "server": "gmi.msx.gay",
+  "ip": "142.93.204.141",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "5": "4.14.218.30",
+    "9": "142.93.204.141",
+    "10": "142.93.204.141"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBPTCB5aADAgECAgkAmgrQp2bOv5kwCgYIKoZIzj0EAwIwFjEUMBIGA1UEAwwL\nZ21pLm1zeC5nYXkwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBYx\nFDASBgNVBAMMC2dtaS5tc3guZ2F5MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE\nkU3fvQC6o/oShVzmdh6RSrolaQSNNaDDWcg7wofo4UqVH+R9Mttant/lsEGHu+6X\nCGy6ZgYFseD7lhvVUJLUXqMaMBgwFgYDVR0RBA8wDYILZ21pLm1zeC5nYXkwCgYI\nKoZIzj0EAwIDRwAwRAIgSfOj1C5cWdeKRpeffiLzbtsSKrNm21sn9RcwKau4qnMC\nIGdPnPLkl0aPa2rcOsuPPY7Ffjy/gWoqVSCExQPBnaLC\n-----END CERTIFICATE-----\n"
+}

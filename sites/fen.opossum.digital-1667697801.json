@@ -1,0 +1,17 @@
+{
+  "server": "fen.opossum.digital",
+  "ip": "75.36.191.82",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.6.221",
+    "5": "154.54.45.18",
+    "6": "154.54.12.86",
+    "14": "107.212.168.121",
+    "15": "75.36.191.82",
+    "16": "75.36.191.82"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBVzCB/aADAgECAgkAzDSazrKzhPAwCgYIKoZIzj0EAwIwHjEcMBoGA1UEAwwT\nZmVuLm9wb3NzdW0uZGlnaXRhbDAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAw\nMDAwMFowHjEcMBoGA1UEAwwTZmVuLm9wb3NzdW0uZGlnaXRhbDBZMBMGByqGSM49\nAgEGCCqGSM49AwEHA0IABNzn/RlCQEOyIgDSabqounqoYCsKFN/FsTz8RFmGc31l\nHXz/ejxuF35T+qaWJac7Kq8OlsLd9/fL/AJ6poq1jbWjIjAgMB4GA1UdEQQXMBWC\nE2Zlbi5vcG9zc3VtLmRpZ2l0YWwwCgYIKoZIzj0EAwIDSQAwRgIhAN1n8ZgJjthu\n0t+E2IejIU3lPuPAfyh0cTQL2BWAoneOAiEA8/4pbu+bGnGqrkxcVBmzAAzbVgwY\n/GiOy9QrdodrO+s=\n-----END CERTIFICATE-----\n"
+}

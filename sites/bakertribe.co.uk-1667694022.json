@@ -1,0 +1,21 @@
+{
+  "server": "bakertribe.co.uk",
+  "ip": "82.24.209.152",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.46.178",
+    "6": "213.46.190.157",
+    "7": "84.116.146.146",
+    "9": "84.116.130.97",
+    "11": "62.253.174.54",
+    "12": "81.100.32.42",
+    "13": "82.24.209.152",
+    "14": "82.24.209.152",
+    "15": "82.24.209.152"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBizCCATGgAwIBAgIUOT/BEQdwL6hrNMXjB409t360zJYwCgYIKoZIzj0EAwIw\nGzEZMBcGA1UEAwwQYmFrZXJ0cmliZS5jby51azAeFw0yMTAyMDgxNDUxMTlaFw0z\nMTAyMDYxNDUxMTlaMBsxGTAXBgNVBAMMEGJha2VydHJpYmUuY28udWswWTATBgcq\nhkjOPQIBBggqhkjOPQMBBwNCAAThdypZOpeOxx8b7BoBslfMlz5rBr+paG5JLsrM\niVMVxyBPnIqDmCFsqGFpn+cs29JnHqGlOgKrg95/hvyzbKZoo1MwUTAdBgNVHQ4E\nFgQUEdN4EwUOO15/h7KDO4//J2krIIQwHwYDVR0jBBgwFoAUEdN4EwUOO15/h7KD\nO4//J2krIIQwDwYDVR0TAQH/BAUwAwEB/zAKBggqhkjOPQQDAgNIADBFAiEArmzE\nFvDYkTUzlei4O2BgrJQ0GVF/MccYsUCHgMMT7z0CIBV66H3NyHxsvLaV/5GNChss\nlBnXQJRXOwR/6ZB/xhZO\n-----END CERTIFICATE-----\n"
+}

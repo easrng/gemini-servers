@@ -1,0 +1,19 @@
+{
+  "server": "tdem.in",
+  "ip": "193.33.194.118",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.161",
+    "5": "154.54.77.245",
+    "6": "130.117.49.30",
+    "7": "149.11.64.210",
+    "8": "185.15.209.55",
+    "9": "172.31.0.0",
+    "10": "193.33.194.118",
+    "11": "193.33.194.118"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBKjCB3aADAgECAhBQg+3XpOaEdCfjo3dvDZf3MAUGAytlcDASMRAwDgYDVQQD\nEwd0ZGVtLmluMB4XDTIyMDIwNDIxNTc1NloXDTIzMDIwNDIxNTc1NlowEjEQMA4G\nA1UEAxMHdGRlbS5pbjAqMAUGAytlcAMhABEazDcc6xZKwG9CHL0fQbTCnsMKDkRp\n8kxVyWQSByD1o0kwRzAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUH\nAwEwDAYDVR0TAQH/BAIwADASBgNVHREECzAJggd0ZGVtLmluMAUGAytlcANBAL4r\nG7EM13cOuBAKe4o30X2I+dPD21t6jYBXe1nSbjqCUkETt7HF0pLJhJNrHkrNV/Ey\nCXUUMV8zy0KLEWOtdgY=\n-----END CERTIFICATE-----\n"
+}

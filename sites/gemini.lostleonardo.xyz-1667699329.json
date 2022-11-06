@@ -1,0 +1,21 @@
+{
+  "server": "gemini.lostleonardo.xyz",
+  "ip": "139.162.135.78",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.161",
+    "5": "154.54.77.245",
+    "7": "154.54.39.178",
+    "8": "204.68.252.42",
+    "6": "130.117.0.122",
+    "9": "10.210.32.1",
+    "10": "10.210.35.1",
+    "11": "10.210.1.31",
+    "12": "139.162.135.78",
+    "13": "139.162.135.78"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBmjCCAT+gAwIBAgIUYVbs+VYnMvG7q/dYcUa4sdH51sYwCgYIKoZIzj0EAwIw\nIjEgMB4GA1UEAwwXZ2VtaW5pLmxvc3RsZW9uYXJkby54eXowHhcNMjEwMjA1MTMz\nNDEwWhcNMzEwMjAzMTMzNDEwWjAiMSAwHgYDVQQDDBdnZW1pbmkubG9zdGxlb25h\ncmRvLnh5ejBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABMiHGLKsduZgRYXaAehT\niVCFac6MeRny1alXXGul5vI/ePTOzsdjDJ3MXIl2elGPJiPog16uHxfmhrn7ggHg\nGxijUzBRMB0GA1UdDgQWBBSlMGNu8pzfxkAllO+Fvpgr9/rR5zAfBgNVHSMEGDAW\ngBSlMGNu8pzfxkAllO+Fvpgr9/rR5zAPBgNVHRMBAf8EBTADAQH/MAoGCCqGSM49\nBAMCA0kAMEYCIQDHT2lqIPcUWRPU0JsQb+u4VbP7+cypRDKAth9oUUOZOwIhAPXV\nlIPUSpLzZWwQ2OZHhOkReK9oJJ52EFS5nrrQaJMO\n-----END CERTIFICATE-----\n"
+}

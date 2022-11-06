@@ -1,0 +1,25 @@
+{
+  "server": "cumperativa.xyz",
+  "ip": "159.69.207.209",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.161",
+    "5": "154.54.77.245",
+    "7": "154.54.36.54",
+    "8": "154.54.58.194",
+    "9": "154.25.14.46",
+    "10": "149.6.158.186",
+    "11": "213.239.245.73",
+    "12": "213.133.112.70",
+    "13": "85.10.246.126",
+    "15": "168.119.217.23",
+    "16": "159.69.207.209",
+    "17": "159.69.207.209",
+    "18": "159.69.207.209",
+    "6": "130.117.0.122"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBSzCB8aADAgECAgkAhUtIZkPgGD4wCgYIKoZIzj0EAwIwGjEYMBYGA1UEAwwP\nY3VtcGVyYXRpdmEueHl6MCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAw\nWjAaMRgwFgYDVQQDDA9jdW1wZXJhdGl2YS54eXowWTATBgcqhkjOPQIBBggqhkjO\nPQMBBwNCAAQL9CuhA58X68ywjAdYS+gmiwmyD0XJxyufdPllQ/W+0M4RPytj+dtu\n/lxMQEftMR07Z7RzX4HE2yshx6VOsqyXox4wHDAaBgNVHREEEzARgg9jdW1wZXJh\ndGl2YS54eXowCgYIKoZIzj0EAwIDSQAwRgIhAL16iN4mqPAn8SuC5Ao5vJ473kZk\nb8vaY3dZtOikHRZEAiEAz7wI+fBedlge7RjgGK4RTl3qmKLGQH8i8qhFu22YwV8=\n-----END CERTIFICATE-----\n"
+}

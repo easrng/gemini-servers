@@ -1,0 +1,18 @@
+{
+  "server": "alchemi.dev",
+  "ip": "69.61.2.204",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.9.18",
+    "4": "89.149.185.2",
+    "5": "74.199.178.38",
+    "6": "23.92.92.106",
+    "7": "69.61.66.10",
+    "8": "69.61.110.118",
+    "9": "69.61.2.204",
+    "10": "69.61.2.204"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBWzCCAQGgAwIBAgIBKjAKBggqhkjOPQQDAjApMRQwEgYDVQQDDAthbGNoZW1p\nLmRldjERMA8GA1UECgwIQWxjaC1FbWkwHhcNMjAxMjEyMTc1NTM3WhcNMjUxMjEx\nMTc1NTM3WjApMRQwEgYDVQQDDAthbGNoZW1pLmRldjERMA8GA1UECgwIQWxjaC1F\nbWkwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAATdyGxApUL2HocD1C403UwGOBwG\nzVcIm4WHFt6ZkTOBx3kLzo+H+bK5S8/dbKJV0Se3Zpi6iWA9YJ2jzi4QahMCoxow\nGDAWBgNVHREEDzANggthbGNoZW1pLmRldjAKBggqhkjOPQQDAgNIADBFAiEA58e2\nImL2xcujq/I+sS9qjnAsNw9fFGuchIiC5hvaxhECICtHcd3oadhPS9lc15pzRhKZ\nHhsZVBIw/RDM33IjU4AM\n-----END CERTIFICATE-----\n"
+}

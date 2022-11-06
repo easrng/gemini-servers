@@ -1,0 +1,14 @@
+{
+  "server": "blube.club",
+  "ip": "140.82.62.246",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "5": "65.59.14.18",
+    "9": "140.82.62.246",
+    "10": "140.82.62.246"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBMjCB2qADAgECAgEqMAoGCCqGSM49BAMCMBUxEzARBgNVBAMMCmJsdWJlLmNs\ndWIwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBUxEzARBgNVBAMM\nCmJsdWJlLmNsdWIwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASK8ytA4I1YSXv4\nKvCVx0Jq7Ebp/moaxoWJw5CfnKNVczDk4MGm+91ixi/NdaEjTjdREzPR1huTYSIH\nDwUDKyDBoxkwFzAVBgNVHREEDjAMggpibHViZS5jbHViMAoGCCqGSM49BAMCA0cA\nMEQCICoS4JKDq2dRf32wIv4tyReew9l3BPq/3G1vdLKf9WRIAiAbGZcE9bT+cJot\nYohVEPUij3EW73xXcSKinO3CUVw7bA==\n-----END CERTIFICATE-----\n"
+}

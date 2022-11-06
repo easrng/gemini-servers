@@ -1,0 +1,26 @@
+{
+  "server": "kayt.dev",
+  "ip": "98.48.73.247",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "170.39.230.240",
+    "2": "128.177.116.81",
+    "3": "64.125.23.119",
+    "6": "50.242.151.213",
+    "7": "96.110.34.25",
+    "8": "96.110.35.122",
+    "9": "96.110.38.65",
+    "10": "96.110.35.25",
+    "13": "68.86.82.246",
+    "14": "96.110.37.146",
+    "15": "96.110.39.65",
+    "16": "96.110.44.30",
+    "17": "96.108.43.102",
+    "18": "68.85.65.90",
+    "19": "96.216.21.202",
+    "20": "98.48.73.247",
+    "21": "98.48.73.247",
+    "11": "96.110.35.6"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBNDCB26ADAgECAgg6QdkTViENsTAKBggqhkjOPQQDAjATMREwDwYDVQQDDAhr\nYXl0LmRldjAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFowEzERMA8G\nA1UEAwwIa2F5dC5kZXYwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASwnBLPNSi9\nHohHAbKoGmIP4syCtLMbF4DKICRPUQFEdGnWUXFrhuJ9vHi539FId+J3zpAfcsBM\nfyHdKt5Q8xWkoxcwFTATBgNVHREEDDAKgghrYXl0LmRldjAKBggqhkjOPQQDAgNI\nADBFAiEA5G/MxaOucsekZrqzcxeRfnr9tPfZ5M0yRDynLH7KZpkCIA/+Ds/n+F43\njunTcRVUOw7o3MCimiohiTAj42vHqJfL\n-----END CERTIFICATE-----\n"
+}

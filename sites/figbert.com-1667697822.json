@@ -1,0 +1,19 @@
+{
+  "server": "figbert.com",
+  "ip": "135.181.44.54",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.161.98",
+    "5": "212.133.6.2",
+    "6": "213.239.224.38",
+    "7": "88.198.249.90",
+    "9": "95.216.132.227",
+    "10": "135.181.44.54",
+    "11": "135.181.44.54",
+    "12": "135.181.44.54"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBNjCB3aADAgECAgEqMAoGCCqGSM49BAMCMBYxFDASBgNVBAMMC2ZpZ2JlcnQu\nY29tMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAWMRQwEgYDVQQD\nDAtmaWdiZXJ0LmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABPwKHCOYaWVF\npvSBxrXiH7Q/VyP+vgIt+sx0fSlTekQ9DnTr+m+1wazu9f8ylGy9oeZ1ysnGpwYi\n6a9+2qk4LPujGjAYMBYGA1UdEQQPMA2CC2ZpZ2JlcnQuY29tMAoGCCqGSM49BAMC\nA0gAMEUCIQC0r3aO7lmxwlyqe/R1VIoDh5se98r3iFRTgcWYEK3vEQIgKgpwcCew\nLCiFa1W/o9m8ORxRK3lHp797mHM9dtgVgLI=\n-----END CERTIFICATE-----\n"
+}

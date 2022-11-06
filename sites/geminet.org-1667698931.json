@@ -1,0 +1,19 @@
+{
+  "server": "geminet.org",
+  "ip": "135.181.153.189",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.161.98",
+    "5": "212.133.6.2",
+    "6": "213.239.224.38",
+    "7": "88.198.249.90",
+    "9": "95.216.128.225",
+    "10": "135.181.153.189",
+    "11": "135.181.153.189",
+    "12": "135.181.153.189"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBgDCCAQUCAQEwCgYIKoZIzj0EAwIwLTEVMBMGA1UECgwMZ21uaXNydiB1c2Vy\nMRQwEgYDVQQDDAtnZW1pbmV0Lm9yZzAeFw0yMjA3MzAwNzQ5NDVaFw0yMzA3MzAw\nNzQ5NDVaMC0xFTATBgNVBAoMDGdtbmlzcnYgdXNlcjEUMBIGA1UEAwwLZ2VtaW5l\ndC5vcmcwdjAQBgcqhkjOPQIBBgUrgQQAIgNiAASpVcQ6ZSb+ec64IWxn8Lfo/QW5\nV7Z5TT3qOveXjGtQ9XFXqlWckk7QCIFneh/K/k7jbCyt26CqD2R7Y1dHOKIvbp1a\nk+AxIif1vS/CQ8OVpQ1AJShIcndkYKBVC5PzJakwCgYIKoZIzj0EAwIDaQAwZgIx\nAIn2BLCHjzqRAuP8I42GCWkTnehk0OSLCtcDnKnDneM6oLveyGXBXrVPGGqbOFAk\nzwIxAI7BoYfPZ6DpQJPZrAXq3YU+DN2rBHQunmFjRHntLmfBCYGZtZIxS9nRgQqe\nIQz0HA==\n-----END CERTIFICATE-----\n"
+}

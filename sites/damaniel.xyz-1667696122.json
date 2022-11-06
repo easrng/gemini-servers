@@ -1,0 +1,22 @@
+{
+  "server": "damaniel.xyz",
+  "ip": "173.255.214.139",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.44.169",
+    "6": "154.54.31.89",
+    "7": "154.54.42.97",
+    "8": "154.54.44.141",
+    "9": "154.54.43.150",
+    "10": "154.54.3.138",
+    "11": "38.142.11.154",
+    "12": "173.230.159.83",
+    "13": "173.255.214.139",
+    "14": "173.255.214.139"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBQDCB6KADAgECAgkAul/GjPpm88IwCgYIKoZIzj0EAwIwFzEVMBMGA1UEAwwM\nZGFtYW5pZWwueHl6MCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAX\nMRUwEwYDVQQDDAxkYW1hbmllbC54eXowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNC\nAAT0IzSBIV7uc2MKEdkiKjicQfQ2/dBCAWZcXH/NImsCesKPerlsFXtGFbIW58if\nmsEAUJEQG2M4qnmurxh4HAfOoxswGTAXBgNVHREEEDAOggxkYW1hbmllbC54eXow\nCgYIKoZIzj0EAwIDRwAwRAIgHWPUCdokBHb4GyCQYRMRTCbawFjFZ88nK4B1CY9+\n81ACIGoQuvC8jBApTftefH+rPxX5UmaAxnxWIjSjcoequ93x\n-----END CERTIFICATE-----\n"
+}

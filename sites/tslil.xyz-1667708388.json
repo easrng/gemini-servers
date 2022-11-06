@@ -1,0 +1,25 @@
+{
+  "server": "tslil.xyz",
+  "ip": "116.203.45.198",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.161",
+    "5": "154.54.77.245",
+    "6": "130.117.0.122",
+    "7": "154.54.36.54",
+    "8": "154.54.58.194",
+    "9": "154.25.14.46",
+    "10": "149.6.158.186",
+    "11": "213.239.245.73",
+    "12": "213.133.112.86",
+    "13": "213.133.112.110",
+    "15": "49.12.141.39",
+    "16": "116.203.45.198",
+    "17": "116.203.45.198",
+    "18": "116.203.45.198"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBkzCCARigAwIBAgIBATAKBggqhkjOPQQDAjAmMRAwDgYDVQQKDAdnbW5pc3J2\nMRIwEAYDVQQDDAl0c2xpbC54eXowIBcNMjExMDA0MDEyNjE5WhgPMjA4OTEwMjIw\nNDQwMjZaMCYxEDAOBgNVBAoMB2dtbmlzcnYxEjAQBgNVBAMMCXRzbGlsLnh5ejB2\nMBAGByqGSM49AgEGBSuBBAAiA2IABDfQu12ceC3K9uixOjVuqnW2QbH20LVx5g4X\nhvxs4St6CDWePlf0GxeiyUFgp/rFqkxMGR/lRxWOJzZ2Dbj8+NmD2j/rkf+D31Nn\nQcGEsxI6hVK4N9LxWDrQgAHRR55CG6MYMBYwFAYDVR0RBA0wC4IJdHNsaWwueHl6\nMAoGCCqGSM49BAMCA2kAMGYCMQCGYPFkaJcjMgZu3O2jiKIVV7jQadzQBJKcN6Ki\n5rgJWxhK1eAmcvTjrgW/Qdeovq8CMQDkjzWc+zu1hfjSMsdZrp+gTq11U24sPG51\n77/lPtMwXlJ3ES2gClLgeqSo7NnxLhI=\n-----END CERTIFICATE-----\n"
+}

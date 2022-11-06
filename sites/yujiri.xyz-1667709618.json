@@ -1,0 +1,16 @@
+{
+  "server": "yujiri.xyz",
+  "ip": "45.79.141.146",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.209.82",
+    "5": "4.30.176.210",
+    "6": "23.203.156.17",
+    "10": "45.79.141.146",
+    "11": "45.79.141.146"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBDzCBwqADAgECAhEAtk1Yp07hULwH0r6g3aKAYDAFBgMrZXAwFTETMBEGA1UE\nAxMKeXVqaXJpLnh5ejAeFw0yMjAxMDExMTAyNTZaFw0yNzAxMDExMTAyNTZaMBUx\nEzARBgNVBAMTCnl1amlyaS54eXowKjAFBgMrZXADIQAfuzuoUGHJoqni1Hxk7Rhr\nLmb9GAX8hCivUr//J1eO4KMnMCUwIwYDVR0RBBwwGoIKeXVqaXJpLnh5eoIMKi55\ndWppcmkueHl6MAUGAytlcANBAONcCG3E0WLncGE/N2BH6QL50CvE6pC3AtUvu+AP\nror2/px0c0geH06gdEQo3iIgtxHhmpANluMVi8SKYw8Kvww=\n-----END CERTIFICATE-----\n"
+}

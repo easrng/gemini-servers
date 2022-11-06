@@ -1,0 +1,25 @@
+{
+  "server": "gemini.dluciv.name",
+  "ip": "93.100.193.5",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.161",
+    "5": "154.54.77.245",
+    "6": "130.117.0.122",
+    "7": "154.54.56.190",
+    "8": "149.11.84.74",
+    "9": "185.140.148.153",
+    "10": "5.143.250.114",
+    "12": "80.64.103.131",
+    "13": "185.37.128.163",
+    "14": "185.37.128.107",
+    "15": "93.100.0.133",
+    "16": "93.100.193.5",
+    "17": "93.100.193.5",
+    "18": "93.100.193.5"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBtzCCAT2gAwIBAgIBATAKBggqhkjOPQQDAjA0MRUwEwYDVQQKDAxEbWl0cnkg\nTHVjaXYxGzAZBgNVBAMMEmdlbWluaS5kbHVjaXYubmFtZTAgFw0yMTAzMDYyMDUw\nNDNaGA8yMjIxMDExNzIwNTA0M1owNDEVMBMGA1UECgwMRG1pdHJ5IEx1Y2l2MRsw\nGQYDVQQDDBJnZW1pbmkuZGx1Y2l2Lm5hbWUwdjAQBgcqhkjOPQIBBgUrgQQAIgNi\nAAS3h5fzcqAJDEFsyW19k8gkwp9yYXc1te9737K2TX0mVqMJ511mtRPQVSoU21Lk\nJOnTUjWbDGZl780lvB2s8zwzCjzysT7875cE0QAWopliD2lZ07Kc+YTS/PZOamd7\ntgejITAfMB0GA1UdEQQWMBSCEmdlbWluaS5kbHVjaXYubmFtZTAKBggqhkjOPQQD\nAgNoADBlAjBuOf9pvQkrEjk+WQhTkifrNiVqG3qa/TAHkKK9n7aqS3/k9YmCxsMk\n5sv9+dD7PUoCMQCz11IRMzRNfa6S7mXUktV/4FRFQwz6OCBYj2LJywoUUccxmb9z\nsguC/CUIZhqYs5I=\n-----END CERTIFICATE-----\n"
+}

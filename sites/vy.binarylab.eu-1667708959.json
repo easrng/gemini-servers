@@ -1,0 +1,27 @@
+{
+  "server": "vy.binarylab.eu",
+  "ip": "130.83.165.36",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "62.115.187.238",
+    "4": "62.115.117.229",
+    "5": "62.115.123.108",
+    "6": "62.115.113.21",
+    "7": "62.115.135.25",
+    "8": "62.115.123.12",
+    "9": "62.115.121.1",
+    "10": "62.115.10.71",
+    "11": "82.195.80.62",
+    "12": "82.195.67.76",
+    "13": "82.195.78.44",
+    "14": "130.83.193.29",
+    "17": "130.83.164.197",
+    "18": "130.83.165.36",
+    "16": "130.83.253.249",
+    "19": "130.83.165.36",
+    "20": "130.83.165.36"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBVjCB/aADAgECAhA0cuER6ZgmQF6wdfmADaEoMAoGCCqGSM49BAMCMBcxFTAT\nBgNVBAMTDGJpbmFyeWxhYi5ldTAeFw0yMTA3MjcxMTQyMjFaFw0yNjA3MjcxMTQy\nMjFaMBcxFTATBgNVBAMTDGJpbmFyeWxhYi5ldTBZMBMGByqGSM49AgEGCCqGSM49\nAwEHA0IABBEQFnaowV6kOW4J6WW5TE+cWxbw0FcKK9bnF+XkPmmvzqFk8/INrFXT\nHEQfyL8cXcqwQy3DwXHwvrqdzyBUw82jKzApMCcGA1UdEQQgMB6CDGJpbmFyeWxh\nYi5ldYIOKi5iaW5hcnlsYWIuZXUwCgYIKoZIzj0EAwIDSAAwRQIgLVmkl/wC6Qcv\n6Yv5WHLwMJhruMhyNiohSdOfreFHWqsCIQCvaz2pwxICVLDBT89TdaPuCtYsMX6c\nhZRgxWs/WqOu+w==\n-----END CERTIFICATE-----\n"
+}

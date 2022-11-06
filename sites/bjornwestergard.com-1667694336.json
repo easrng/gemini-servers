@@ -1,0 +1,15 @@
+{
+  "server": "bjornwestergard.com",
+  "ip": "34.205.145.149",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "170.39.230.240",
+    "2": "206.108.35.37",
+    "3": "52.93.3.102",
+    "4": "52.93.3.33",
+    "11": "52.93.29.42",
+    "18": "34.205.145.149",
+    "19": "34.205.145.149"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBVjCB/aADAgECAgkAoWJqwpLKo68wCgYIKoZIzj0EAwIwHjEcMBoGA1UEAwwT\nYmpvcm53ZXN0ZXJnYXJkLmNvbTAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAw\nMDAwMFowHjEcMBoGA1UEAwwTYmpvcm53ZXN0ZXJnYXJkLmNvbTBZMBMGByqGSM49\nAgEGCCqGSM49AwEHA0IABBBIWxTCfwTQqOLYjJJPyu30lawRKWaZfa8yvucnlNlj\nEe/NDljWhEbkBRyEpsBOkBmQxk4yc+P/LeD3MHQ/M7SjIjAgMB4GA1UdEQQXMBWC\nE2Jqb3Jud2VzdGVyZ2FyZC5jb20wCgYIKoZIzj0EAwIDSAAwRQIhAKewRnPdj4jP\n4jzzaHiIO0tmRyWIbzjtAIka3wO/2sMgAiA5pUhfXM+DDYPKe26bYS/sA+TaKlC0\nnd+kUXYrZblDig==\n-----END CERTIFICATE-----\n"
+}

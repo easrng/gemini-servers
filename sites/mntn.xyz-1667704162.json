@@ -1,0 +1,18 @@
+{
+  "server": "mntn.xyz",
+  "ip": "173.195.146.139",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.47.50",
+    "5": "154.54.3.142",
+    "6": "154.24.50.86",
+    "7": "38.104.111.122",
+    "8": "208.88.48.1",
+    "9": "173.195.146.139",
+    "10": "173.195.146.139"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBZzCCAQ2gAwIBAgIQBaRf5MRlPXidI7WslEB2yzAKBggqhkjOPQQDAjAQMQ4w\nDAYDVQQDDAUqLnh5ejAgFw0yMTA0MjAxNDU3NDNaGA8yMTIxMDMyNzE0NTc0M1ow\nEDEOMAwGA1UEAwwFKi54eXowWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASfIowK\nNWKoi+8sBm/+WdCA6/6ZO1HNir5a+735SmZbds93S/yidbwJwS9B0dImTvbaMJvI\nm/SPwi5mw1IDrd7xo0cwRTAOBgNVHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYIKwYB\nBQUHAwEwDAYDVR0TAQH/BAIwADAQBgNVHREECTAHggUqLnh5ejAKBggqhkjOPQQD\nAgNIADBFAiEAlJNr/5rqL1CuoxQ0yvbis4HBt252ut5SglZjeLyeuPsCIB6CPBZr\nvshJQLG/Z0RHQPkdAIS5LRuRMHxqrZj12Pfd\n-----END CERTIFICATE-----\n"
+}

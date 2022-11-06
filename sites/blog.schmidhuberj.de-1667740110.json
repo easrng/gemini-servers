@@ -1,0 +1,18 @@
+{
+  "server": "blog.schmidhuberj.de",
+  "ip": "173.195.146.139",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.47.50",
+    "5": "154.54.3.142",
+    "6": "154.24.50.86",
+    "7": "38.104.111.122",
+    "8": "208.88.48.1",
+    "9": "173.195.146.139",
+    "10": "173.195.146.139"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBjDCCATGgAwIBAgIQKilmwSAQV/cZB3reLccLkjAKBggqhkjOPQQDAjAcMRow\nGAYDVQQDDBEqLnNjaG1pZGh1YmVyai5kZTAgFw0yMTEyMTYxMzQ5MzVaGA8yMTIx\nMTEyMjEzNDkzNVowHDEaMBgGA1UEAwwRKi5zY2htaWRodWJlcmouZGUwWTATBgcq\nhkjOPQIBBggqhkjOPQMBBwNCAAQovqUBLaYg2XfOqrPd9+Q5LsiiBaWQLjVsb/N7\nNTh9NkhEU685rWymoeddDIP8I+hTHhmlH9p7EIzv0RdFH3Nzo1MwUTAOBgNVHQ8B\nAf8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAcBgNV\nHREEFTATghEqLnNjaG1pZGh1YmVyai5kZTAKBggqhkjOPQQDAgNJADBGAiEAyYP4\nJtbU9bY0RCWvyh+pFIP0clezbI9p9LhdZSEGT6YCIQDojVv+y5IRTGLD9FbqFzNt\nl/tje1P/ONjvJ05/x70jyg==\n-----END CERTIFICATE-----\n"
+}

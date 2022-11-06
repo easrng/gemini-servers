@@ -1,0 +1,25 @@
+{
+  "server": "tlgs.one",
+  "ip": "23.88.52.182",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.58.70",
+    "6": "130.117.0.142",
+    "7": "154.54.36.254",
+    "8": "154.54.59.194",
+    "9": "154.25.14.46",
+    "10": "149.6.158.186",
+    "11": "213.239.245.77",
+    "12": "213.133.112.78",
+    "13": "85.10.237.162",
+    "15": "116.203.160.88",
+    "16": "23.88.52.182",
+    "17": "23.88.52.182",
+    "18": "23.88.52.182"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBfjCCASOgAwIBAgIUUyX7veYhV0USqMz/VEdwlcBvjd4wCgYIKoZIzj0EAwIw\nEzERMA8GA1UEAwwIdGxncy5vbmUwIBcNMjExMTE3MTIxMDEzWhgPMjEyMTEwMjQx\nMjEwMTNaMBMxETAPBgNVBAMMCHRsZ3Mub25lMFkwEwYHKoZIzj0CAQYIKoZIzj0D\nAQcDQgAE9GF0azyLxwU0+CoqJ2cxnwC3DqfZbSsJ/WiLpevT8tWfIpgTEozgtVCw\n4orPkwmpL4ig24+NEVKpPnKEB35EnqNTMFEwHQYDVR0OBBYEFI/jdmQagqFFmKl9\nz8P3xlie8eacMB8GA1UdIwQYMBaAFI/jdmQagqFFmKl9z8P3xlie8eacMA8GA1Ud\nEwEB/wQFMAMBAf8wCgYIKoZIzj0EAwIDSQAwRgIhAOECzLdqk+UZOx6MQH3BnMX1\nQZg6nsiPlletCv/0YUFGAiEAo3GnR5kmBcYUioNX45/zajMnKEKCm4VsLo523BIU\ncss=\n-----END CERTIFICATE-----\n"
+}

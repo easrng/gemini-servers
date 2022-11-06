@@ -1,0 +1,14 @@
+{
+  "server": "gemchan.space",
+  "ip": "142.93.72.83",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "5": "4.14.218.22",
+    "11": "142.93.72.83",
+    "12": "142.93.72.83"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBWzCCAQGgAwIBAgIQVRhSNbMlA3lRfsUcgz6T3zAKBggqhkjOPQQDAjAYMRYw\nFAYDVQQDEw1nZW1jaGFuLnNwYWNlMB4XDTIxMDUyNjAzMDc1OVoXDTI2MDUyNjAz\nMDc1OVowGDEWMBQGA1UEAxMNZ2VtY2hhbi5zcGFjZTBZMBMGByqGSM49AgEGCCqG\nSM49AwEHA0IABLng9vb31huyegyYs6b6jJNecZbw3vGzJVs1ZQMVbrXpLgcak9TD\nbqgLsO+cGydZrzunvpsuS0hQzS5w1JFwPkujLTArMCkGA1UdEQQiMCCCDWdlbWNo\nYW4uc3BhY2WCDyouZ2VtY2hhbi5zcGFjZTAKBggqhkjOPQQDAgNIADBFAiAbJQ+K\nrvqXdda9k2+NKEoBW/YFYnqhp99wuyUVb09FLwIhAODgibZBKeFnv6aY9EDiojo8\nrjtxtgRxqC34ez+7Hd5X\n-----END CERTIFICATE-----\n"
+}

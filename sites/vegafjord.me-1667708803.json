@@ -1,0 +1,23 @@
+{
+  "server": "vegafjord.me",
+  "ip": "217.170.196.170",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.161",
+    "5": "154.54.77.245",
+    "6": "154.54.38.206",
+    "7": "154.54.73.74",
+    "8": "154.25.4.214",
+    "9": "149.6.117.50",
+    "10": "91.218.186.93",
+    "11": "91.189.177.246",
+    "12": "83.143.80.198",
+    "13": "217.170.196.170",
+    "14": "217.170.196.170",
+    "15": "217.170.196.170"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBOTCB4KADAgECAgEqMAoGCCqGSM49BAMCMBcxFTATBgNVBAMMDHZlZ2Fmam9y\nZC5tZTAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFowFzEVMBMGA1UE\nAwwMdmVnYWZqb3JkLm1lMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEutB6Z7h4\n8H99HxQ6Zogj3DMqQExxQW/OYzNrZDmA4/P6ATloVWEMxcHVYEfzp5gHT3YX9iD+\nxdFzfFAuCiAf8qMbMBkwFwYDVR0RBBAwDoIMdmVnYWZqb3JkLm1lMAoGCCqGSM49\nBAMCA0gAMEUCIB38WIhqGJcxzP7SQygTK5iNbEmPvMhmFZZiXY7onyH3AiEA5A9f\nr10xfDG91mEzgmXcyNm1C3hJWMdvxHOwG+Uca9Y=\n-----END CERTIFICATE-----\n"
+}

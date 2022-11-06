@@ -1,0 +1,14 @@
+{
+  "server": "galaxyhub.uk",
+  "ip": "198.244.149.9",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "170.39.230.240",
+    "3": "192.99.146.163",
+    "6": "213.186.32.253",
+    "14": "198.244.149.9",
+    "15": "198.244.149.9",
+    "4": "198.27.73.205"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBPzCB56ADAgECAgggFby1dzl8gTAKBggqhkjOPQQDAjAXMRUwEwYDVQQDDAxn\nYWxheHlodWIudWswIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBcx\nFTATBgNVBAMMDGdhbGF4eWh1Yi51azBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IA\nBClgcJQh0cSSh11V2RSVf3kvbocAGm7OiUZe1vWUW9uHPSar67+0oQ/7jrJxYYlu\nO6AQwwIg1GJ0Ql+ngJahLxCjGzAZMBcGA1UdEQQQMA6CDGdhbGF4eWh1Yi51azAK\nBggqhkjOPQQDAgNHADBEAiBJrEMXu9avaibr0kAw61y+6Vfua6BmVdBYbn0eSJiS\ndwIgBqlgogdXd/eJVL+pwfQDZQDSoR6tbbB0xKZlGPntYZs=\n-----END CERTIFICATE-----\n"
+}

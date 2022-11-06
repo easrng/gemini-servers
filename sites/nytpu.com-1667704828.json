@@ -1,0 +1,13 @@
+{
+  "server": "nytpu.com",
+  "ip": "71.19.144.221",
+  "route": {
+    "0": "170.39.230.241",
+    "7": "65.49.28.186",
+    "8": "71.19.144.221",
+    "9": "71.19.144.221",
+    "1": "198.32.181.52",
+    "6": "184.104.196.33"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBSzCB8qADAgECAhEA1x+71TtKL8vSjVv2z4qG2zAKBggqhkjOPQQDAjAUMRIw\nEAYDVQQDEwlueXRwdS5jb20wHhcNMjIwMjEwMTYyMzQyWhcNMjcwMjEwMTYyMzQy\nWjAUMRIwEAYDVQQDEwlueXRwdS5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNC\nAARh5kmBbtl1cEuIIIG2dcH7C8gqTES7MFqwmOYKV3+yNmZsW7FtdS5Zlc28+U7L\n3dw1RaMKoO1zO3g2P2Kyx4Y4oyUwIzAhBgNVHREEGjAYgglueXRwdS5jb22CCyou\nbnl0cHUuY29tMAoGCCqGSM49BAMCA0gAMEUCIDErh6RpqYUEirNk8flWD1W5FUXP\nU2UhJCHWoNTlXbiyAiEAr6NtH+lpNcbatFcpfxvIDRZaCut0D+ANBNxMjFKQaZI=\n-----END CERTIFICATE-----\n"
+}

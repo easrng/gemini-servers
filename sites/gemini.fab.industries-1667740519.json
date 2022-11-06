@@ -1,0 +1,18 @@
+{
+  "server": "gemini.fab.industries",
+  "ip": "173.195.146.139",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.47.50",
+    "5": "154.54.3.142",
+    "6": "154.24.50.86",
+    "7": "38.104.111.122",
+    "8": "208.88.48.1",
+    "9": "173.195.146.139",
+    "10": "173.195.146.139"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBiDCCAS6gAwIBAgIQUEVYaTdFyIhKjLes7nQ5PzAKBggqhkjOPQQDAjAbMRkw\nFwYDVQQDDBAqLmZhYi5pbmR1c3RyaWVzMCAXDTIxMDUwODEzMTEyNVoYDzIxMjEw\nNDE0MTMxMTI1WjAbMRkwFwYDVQQDDBAqLmZhYi5pbmR1c3RyaWVzMFkwEwYHKoZI\nzj0CAQYIKoZIzj0DAQcDQgAEZo4+Kc2rZZeTWWLaFQjSQBMHHecB9jdVjaVasEA8\nMRU9UbI5C+m1EWAW4xsdp5kl9DjHmfSt7Kr6oetNBceEU6NSMFAwDgYDVR0PAQH/\nBAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwGwYDVR0R\nBBQwEoIQKi5mYWIuaW5kdXN0cmllczAKBggqhkjOPQQDAgNIADBFAiEAjT3i98YU\nr9o3BIPETBztE5nzOoMtxLxvClCS1rrlqa0CIExEF1kFRbM0PkxvrzVuwSiN33fG\njZuAIikplNoT1x+l\n-----END CERTIFICATE-----\n"
+}

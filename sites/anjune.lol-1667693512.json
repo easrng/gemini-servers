@@ -1,0 +1,15 @@
+{
+  "server": "anjune.lol",
+  "ip": "157.245.38.173",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.143.246",
+    "5": "212.187.195.150",
+    "10": "157.245.38.173",
+    "11": "157.245.38.173"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBgDCCASWgAwIBAgIUdyVw/725G04cP4DiasC85L/IaZMwCgYIKoZIzj0EAwIw\nFTETMBEGA1UEAwwKYW5qdW5lLmxvbDAeFw0yMTAyMTExNzM1MzNaFw0zMTAyMDkx\nNzM1MzNaMBUxEzARBgNVBAMMCmFuanVuZS5sb2wwWTATBgcqhkjOPQIBBggqhkjO\nPQMBBwNCAATJYjg0Z2u1cywNtMa+Pu5Lj/EpAhgts2Yr68iJHsrFRGI7D9AEHsd4\n/zcohzzmE1Xp2FLFf3czzh7oSHb+nkFxo1MwUTAdBgNVHQ4EFgQUjv6irHHUNh/L\ngCCLqx2HWBq/JTAwHwYDVR0jBBgwFoAUjv6irHHUNh/LgCCLqx2HWBq/JTAwDwYD\nVR0TAQH/BAUwAwEB/zAKBggqhkjOPQQDAgNJADBGAiEAlqDyJLBqhuZctRh50XDS\nLcPx7sUIKsuAgpTwC+sdNsoCIQC9FuGaV4fESvcBExBFJye1DjrDgATH0C5h5mid\nd8Auqg==\n-----END CERTIFICATE-----\n"
+}

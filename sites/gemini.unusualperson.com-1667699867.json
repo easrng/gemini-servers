@@ -1,0 +1,15 @@
+{
+  "server": "gemini.unusualperson.com",
+  "ip": "52.203.17.198",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "170.39.230.240",
+    "2": "206.108.35.37",
+    "3": "52.93.3.70",
+    "4": "52.93.3.141",
+    "11": "52.93.28.196",
+    "18": "52.203.17.198",
+    "19": "52.203.17.198"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBZTCCAQugAwIBAgIIQWxsF5MIDZswCgYIKoZIzj0EAwIwIzEhMB8GA1UEAwwY\nZ2VtaW5pLnVudXN1YWxwZXJzb24uY29tMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYw\nMTAxMDAwMDAwWjAjMSEwHwYDVQQDDBhnZW1pbmkudW51c3VhbHBlcnNvbi5jb20w\nWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASxVpI+q2x86y//w6deNIrd8wSN286f\nOvaZEmlsj930kHUCRxZa9qtkiyWpIui68mStQ4ZW2vO4al4b/Hw7DYXnoycwJTAj\nBgNVHREEHDAaghhnZW1pbmkudW51c3VhbHBlcnNvbi5jb20wCgYIKoZIzj0EAwID\nSAAwRQIgdrevuPmn2eyN45vJc3ey56Rw9RVP/lmofXkBCoz+zkgCIQC7eUZ8BNgk\nk153vaMhmhKMRQSJVTIIoVPQ1UGPSFaiUg==\n-----END CERTIFICATE-----\n"
+}

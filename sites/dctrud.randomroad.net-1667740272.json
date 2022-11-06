@@ -1,0 +1,20 @@
+{
+  "server": "dctrud.randomroad.net",
+  "ip": "104.238.185.209",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.39.118",
+    "6": "154.54.60.13",
+    "7": "130.117.3.102",
+    "8": "149.6.146.66",
+    "9": "10.69.3.70",
+    "12": "104.238.185.209",
+    "13": "104.238.185.209",
+    "10": "10.69.2.154"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBYDCCAQagAwIBAgIRAM0dqCUFU4F/bXSUM1qzyrcwCgYIKoZIzj0EAwIwGTEX\nMBUGA1UEAxMOcmFuZG9tcm9hZC5uZXQwHhcNMjAwODMwMjIxMjE0WhcNMjUwODMw\nMjIxMjE0WjAZMRcwFQYDVQQDEw5yYW5kb21yb2FkLm5ldDBZMBMGByqGSM49AgEG\nCCqGSM49AwEHA0IABMJDxluPHznWgTpGDP6b8t2p0Zk0NpiKoZmY/0Jm8J/BRfW4\nudDLMQYjE4RFlR0n3093IAQ4N8uj69FsfQBAE9CjLzAtMCsGA1UdEQQkMCKCDnJh\nbmRvbXJvYWQubmV0ghAqLnJhbmRvbXJvYWQubmV0MAoGCCqGSM49BAMCA0gAMEUC\nIQDjEb9sEUaFeC06LPOlMclXMONGKmirR1W+TR4TItMkoQIgDxWcvTwZbBdTmmJa\nl2U7bd1k6tnA5Ynn8EyHp3n75BM=\n-----END CERTIFICATE-----\n"
+}

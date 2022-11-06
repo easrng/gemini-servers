@@ -1,0 +1,17 @@
+{
+  "server": "kennedy.gemi.dev",
+  "ip": "64.149.155.184",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.46.178",
+    "6": "154.54.12.86",
+    "14": "107.212.168.227",
+    "16": "64.149.155.184",
+    "17": "64.149.155.184"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBRzCB7qADAgECAhEA2nzStpNIkHUOjW0c1ZnfkDAKBggqhkjOPQQDAjATMREw\nDwYDVQQDEwhnZW1pLmRldjAeFw0yMjAzMjQxMzUzMzNaFw0zMjAzMjQxMzUzMzNa\nMBMxETAPBgNVBAMTCGdlbWkuZGV2MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE\nZkMvgWvsUKBNsZkblJiuoJWkTjAn3sbNOxb3znJh5ImmquydDviZ3Vcagszdi6jC\ngKf6Eaz6YbalSlVTzGx1+KMjMCEwHwYDVR0RBBgwFoIIZ2VtaS5kZXaCCiouZ2Vt\naS5kZXYwCgYIKoZIzj0EAwIDSAAwRQIgUJOczrQRFUm3U0QErNu2eCgFu2c5jGYl\nPdX+tEyN0OcCIQCuktEghwr0x16jkvifptEXVabSYqIGsmWUk5DjHMy5rA==\n-----END CERTIFICATE-----\n"
+}

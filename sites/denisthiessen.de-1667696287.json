@@ -1,0 +1,24 @@
+{
+  "server": "denisthiessen.de",
+  "ip": "202.61.196.252",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "62.115.187.238",
+    "4": "62.115.117.229",
+    "5": "62.115.123.108",
+    "6": "62.115.113.21",
+    "7": "62.115.120.75",
+    "8": "62.115.122.180",
+    "9": "62.115.118.62",
+    "10": "62.115.112.215",
+    "11": "62.115.46.183",
+    "12": "144.208.211.31",
+    "13": "46.38.252.33",
+    "14": "202.61.196.252",
+    "15": "202.61.196.252",
+    "16": "202.61.196.252"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBRTCB7KADAgECAgEqMAoGCCqGSM49BAMCMBsxGTAXBgNVBAMMEGRlbmlzdGhp\nZXNzZW4uZGUwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBsxGTAX\nBgNVBAMMEGRlbmlzdGhpZXNzZW4uZGUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNC\nAAS3bHishR26HZ71Tas+33xwGpARlHBTRPIJLCm/0hMhAgnmvVcH0LloUtoHiYGg\napjcup6PfHLrVcP7sJrWjvfDox8wHTAbBgNVHREEFDASghBkZW5pc3RoaWVzc2Vu\nLmRlMAoGCCqGSM49BAMCA0gAMEUCIQCGDjovaB7KzsUcPWKI0m9Z4sRuKHJn9c/7\nq/cZU7twGAIgBFp2jYCqGmnmtLMIyGwTMcUysKPLtBEQrobyfC5WB7E=\n-----END CERTIFICATE-----\n"
+}

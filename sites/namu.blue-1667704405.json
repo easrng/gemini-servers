@@ -1,0 +1,23 @@
+{
+  "server": "namu.blue",
+  "ip": "221.140.233.82",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.6.221",
+    "5": "154.54.45.18",
+    "10": "208.214.140.182",
+    "11": "58.229.4.174",
+    "12": "211.178.182.194",
+    "13": "10.222.25.95",
+    "14": "10.72.253.127",
+    "15": "100.85.194.70",
+    "16": "100.85.10.190",
+    "18": "221.140.233.82",
+    "19": "221.140.233.82",
+    "20": "221.140.233.82"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBTDCB8qADAgECAhEApGLMrSJX/fW1cEhMvql71DAKBggqhkjOPQQDAjAUMRIw\nEAYDVQQDEwluYW11LmJsdWUwHhcNMjAwOTI3MTQwMDEwWhcNMjUwOTI3MTQwMDEw\nWjAUMRIwEAYDVQQDEwluYW11LmJsdWUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNC\nAAQBSH7yMdyGjtW2Ht6opBG9OycMjUscFcYIaQ8KGS5cBBeSKKMKRx1PFdg7PmKV\n7wKwklD/Wi/DJivcfGLlaf/xoyUwIzAhBgNVHREEGjAYggluYW11LmJsdWWCCyou\nbmFtdS5ibHVlMAoGCCqGSM49BAMCA0kAMEYCIQDoKqhqKDTxcZ9sx7qS42vWWrPB\nvwU+R5VgS9SEwx3TSwIhANMuk8auPi4sONe6afgVn15V4WNWDwFlSUOXlMuu4k4F\n-----END CERTIFICATE-----\n"
+}

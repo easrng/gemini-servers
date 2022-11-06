@@ -1,0 +1,20 @@
+{
+  "server": "krauserd.xyz",
+  "ip": "45.33.29.18",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.44.169",
+    "6": "154.54.3.213",
+    "7": "154.54.3.106",
+    "8": "154.24.19.158",
+    "9": "204.68.252.171",
+    "10": "45.79.12.3",
+    "11": "45.33.29.18",
+    "12": "45.33.29.18"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBvDCCAUGgAwIBAgIBATAKBggqhkjOPQQDAjA5MSAwHgYDVQQKDBdEYXZpZCBL\ncmF1c2VyIChnbW5pc3J2KTEVMBMGA1UEAwwMa3JhdXNlcmQueHl6MCAXDTIxMDYx\nODE1MzAxMloYDzIwODkwNzA2MTg0NDE5WjA5MSAwHgYDVQQKDBdEYXZpZCBLcmF1\nc2VyIChnbW5pc3J2KTEVMBMGA1UEAwwMa3JhdXNlcmQueHl6MHYwEAYHKoZIzj0C\nAQYFK4EEACIDYgAEk1d78rVsP9U1z9jrlSH9sH+f+2j6Fyb2cLlslRbJdEhgxSvS\nNojGfpcOE/faA2L8ANgoNYEDn5g5y2eAf7wPl7YuNmU/Uxj1UIdJP33aq+tjVWSx\n+kgJwmN2En6b1dAwoxswGTAXBgNVHREEEDAOggxrcmF1c2VyZC54eXowCgYIKoZI\nzj0EAwIDaQAwZgIxANE7dIW/kABif3zaUfF519UArQsl0WbdNWTLLcxVmz33FvH+\nAHD75rVJMQn50bXWWQIxAPr0AAC+JdM5CZnRUMyUjGQwNc5ZA+2nUnxx/+FWCcVX\nd7nN1i4WDjXppg5nZdnAbQ==\n-----END CERTIFICATE-----\n"
+}

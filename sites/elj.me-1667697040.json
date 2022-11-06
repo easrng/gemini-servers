@@ -1,0 +1,15 @@
+{
+  "server": "elj.me",
+  "ip": "149.28.118.207",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.9.18",
+    "4": "213.254.230.162",
+    "5": "76.74.48.42",
+    "9": "149.28.118.207",
+    "10": "149.28.118.207"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBLjCB1aADAgECAggj1nNh7XUhvzAKBggqhkjOPQQDAjARMQ8wDQYDVQQDDAZl\nbGoubWUwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBExDzANBgNV\nBAMMBmVsai5tZTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABBtvsn5O62/yOhqA\n17slb6i+0Ye14UiKE8i28kVdW+ODXeRkGRCcSeLxfstTZiOWfHfTd8B2X6HblLQl\nGU65bTijFTATMBEGA1UdEQQKMAiCBmVsai5tZTAKBggqhkjOPQQDAgNIADBFAiBc\nehVgWh50Xm42vSNyXR3aWWkk1NnUy2YPu+HVD3RvmQIhAN3NUdvh8g+fY/HluwOF\nYTc5bSEQMs3CoDhVo+Ctru3M\n-----END CERTIFICATE-----\n"
+}

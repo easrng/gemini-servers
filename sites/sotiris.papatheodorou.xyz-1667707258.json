@@ -1,0 +1,18 @@
+{
+  "server": "sotiris.papatheodorou.xyz",
+  "ip": "173.195.146.139",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.47.50",
+    "5": "154.54.3.142",
+    "6": "154.24.50.86",
+    "7": "38.104.111.122",
+    "8": "208.88.48.1",
+    "9": "173.195.146.139",
+    "10": "173.195.146.139"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBkTCCATegAwIBAgIQU/mek/6TW8xh2/LdR6GkhjAKBggqhkjOPQQDAjAeMRww\nGgYDVQQDDBMqLnBhcGF0aGVvZG9yb3UueHl6MCAXDTIxMDcyNjE5NDQyM1oYDzIx\nMjEwNzAyMTk0NDIzWjAeMRwwGgYDVQQDDBMqLnBhcGF0aGVvZG9yb3UueHl6MFkw\nEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE7Ks50ynxM84McEDyyDtzUglXP2+IxVDL\nnAfzWAUD3JnEysm7Zu6jiOAhTU7mxMEQVm+B9G6txYXogrp/EWwLWqNVMFMwDgYD\nVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAw\nHgYDVR0RBBcwFYITKi5wYXBhdGhlb2Rvcm91Lnh5ejAKBggqhkjOPQQDAgNIADBF\nAiEA3ZP9Ex3IbLFHKrdqe7pHTsZsVntopO6PBPC80ctN2GwCIAE4zsyaL9umogbh\nci1elmu9zh9IHiG8s/Rzk8YAE/Nw\n-----END CERTIFICATE-----\n"
+}

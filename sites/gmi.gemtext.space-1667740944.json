@@ -1,0 +1,21 @@
+{
+  "server": "gmi.gemtext.space",
+  "ip": "104.245.33.223",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.44.169",
+    "6": "154.54.31.89",
+    "7": "154.54.42.97",
+    "8": "154.54.44.141",
+    "9": "154.54.43.150",
+    "10": "154.54.47.26",
+    "11": "38.104.134.122",
+    "13": "104.245.33.223",
+    "14": "104.245.33.223"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBUTCB96ADAgECAgkAkWn38xvvgMAwCgYIKoZIzj0EAwIwHDEaMBgGA1UEAwwR\nZ21pLmdlbXRleHQuc3BhY2UwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAw\nMDBaMBwxGjAYBgNVBAMMEWdtaS5nZW10ZXh0LnNwYWNlMFkwEwYHKoZIzj0CAQYI\nKoZIzj0DAQcDQgAEm1SZihZDUfbrrTt9fVu7uNdyM/azilGInIgk7khwxlReNzdu\nZIEAt2ia9/ATYQ+lEzCTUfEtlicuM+v//vcpQKMgMB4wHAYDVR0RBBUwE4IRZ21p\nLmdlbXRleHQuc3BhY2UwCgYIKoZIzj0EAwIDSQAwRgIhAL8H7mEXjulizyqI1sl6\nxmBgQkMI1Dku84sPHEtrvJ/WAiEA/CZ1TKuiBVB7vpmA6JLJZTDeGeGbUP+6HApG\n2Zz/cJQ=\n-----END CERTIFICATE-----\n"
+}

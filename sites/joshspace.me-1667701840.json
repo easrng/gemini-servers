@@ -1,0 +1,18 @@
+{
+  "server": "joshspace.me",
+  "ip": "50.96.245.6",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.9.18",
+    "4": "141.136.108.245",
+    "7": "40.128.248.70",
+    "8": "40.138.81.133",
+    "9": "40.138.80.121",
+    "10": "40.129.35.219",
+    "12": "50.96.245.6",
+    "13": "50.96.245.6"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBQDCB6KADAgECAgkA6mSVRTdEIP0wCgYIKoZIzj0EAwIwFzEVMBMGA1UEAwwM\nam9zaHNwYWNlLm1lMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAX\nMRUwEwYDVQQDDAxqb3Noc3BhY2UubWUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNC\nAASXxPe/Dok+DSJr87JMuiBmNMvqLgm4o/yFK/9bLQM2zpHFDQT46k9zUvBq5guG\niVHhbot/jdFkoiUiz6dAOiYAoxswGTAXBgNVHREEEDAOggxqb3Noc3BhY2UubWUw\nCgYIKoZIzj0EAwIDRwAwRAIgYd/DaJtxD/LZ5CDHVU7VilGqJv4qgZlswYf/sf2V\nUI4CIF6vB1VYtrR+5tDYCFLd+DczuuCkctaw8TF8wUVinzeG\n-----END CERTIFICATE-----\n"
+}

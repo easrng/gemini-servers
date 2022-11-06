@@ -1,0 +1,22 @@
+{
+  "server": "ruinous.space",
+  "ip": "66.175.223.63",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.44.169",
+    "6": "154.54.31.89",
+    "7": "154.54.42.97",
+    "8": "154.54.44.141",
+    "9": "154.54.43.150",
+    "10": "154.54.3.138",
+    "11": "38.142.11.154",
+    "12": "173.230.159.83",
+    "13": "66.175.223.63",
+    "14": "66.175.223.63"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBQzCB66ADAgECAgkA/M88xnvhZDMwCgYIKoZIzj0EAwIwGDEWMBQGA1UEAwwN\ncnVpbm91cy5zcGFjZTAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFow\nGDEWMBQGA1UEAwwNcnVpbm91cy5zcGFjZTBZMBMGByqGSM49AgEGCCqGSM49AwEH\nA0IABHG2odFxia/+6pSDoaHJO/MnFW8W+9tkhikTyl9dbBpmBkSV+WGaYU3fnISG\nO+G88ZZR+jM1ojjeLF7XeFRVYKCjHDAaMBgGA1UdEQQRMA+CDXJ1aW5vdXMuc3Bh\nY2UwCgYIKoZIzj0EAwIDRwAwRAIgPmK6PpdhaBilZJ230obuHgGu2uqzA3leQhnp\nYndjcU0CIAECEqEJpjo+7ms187GQCo/ZXhIrFbVTaB0oLqcA8OOg\n-----END CERTIFICATE-----\n"
+}

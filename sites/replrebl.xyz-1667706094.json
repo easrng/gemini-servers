@@ -1,0 +1,24 @@
+{
+  "server": "replrebl.xyz",
+  "ip": "142.132.191.153",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.58.70",
+    "6": "130.117.0.142",
+    "7": "154.54.36.254",
+    "8": "154.54.59.194",
+    "9": "154.25.14.46",
+    "10": "149.6.158.186",
+    "11": "213.239.245.54",
+    "12": "213.239.239.134",
+    "14": "162.55.114.68",
+    "15": "142.132.191.153",
+    "16": "142.132.191.153",
+    "17": "142.132.191.153"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBQDCB56ADAgECAghJ/5UKgk8oTTAKBggqhkjOPQQDAjAXMRUwEwYDVQQDDAxy\nZXBscmVibC54eXowIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBcx\nFTATBgNVBAMMDHJlcGxyZWJsLnh5ejBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IA\nBK2FMrp7pn23e9woDwUwvciKlQW7bQaWMvM4djtiy5sKrP2SRGFE0Z+Q8uB0vlao\nmFCb1ucKVd9Nd6ce7LCjAzqjGzAZMBcGA1UdEQQQMA6CDHJlcGxyZWJsLnh5ejAK\nBggqhkjOPQQDAgNIADBFAiEAktoeE+yfGvWMmZyuXZlwXdacbDPDvfSO+G6B5RR7\nY6QCICtv0ncvq7hR4Ajj5tehJj2mloZt6mH+LddHlGQ+M1PS\n-----END CERTIFICATE-----\n"
+}

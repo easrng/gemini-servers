@@ -1,0 +1,13 @@
+{
+  "server": "zozoandsqueak.ca",
+  "ip": "68.183.202.150",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "170.39.230.240",
+    "2": "206.108.35.15",
+    "3": "138.197.249.91",
+    "5": "68.183.202.150",
+    "6": "68.183.202.150"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBijCCATGgAwIBAgIUJRSiWYvm5e/23zV76oM2nx51SxUwCgYIKoZIzj0EAwIw\nGzEZMBcGA1UEAwwQem96b2FuZHNxdWVhay5jYTAeFw0yMTAyMTkwMDQzMjNaFw0y\nNjAyMTgwMDQzMjNaMBsxGTAXBgNVBAMMEHpvem9hbmRzcXVlYWsuY2EwWTATBgcq\nhkjOPQIBBggqhkjOPQMBBwNCAASL9hO1n30TUsp6ZUdtyVG5ZUuJOSk+wodNjU28\nJfqX9rElo5s1WZUK6Df/scVEaHqHgOVTlx3EZcC4fBeUyBxbo1MwUTAdBgNVHQ4E\nFgQUiDxDc+pYdAyqabK94zhi6ARWziQwHwYDVR0jBBgwFoAUiDxDc+pYdAyqabK9\n4zhi6ARWziQwDwYDVR0TAQH/BAUwAwEB/zAKBggqhkjOPQQDAgNHADBEAiALoorN\nqzwOwo89vRk+j8eetSdRI7OjIfGVqeh5/66EOAIgEsml1CA5u4FzDYaS8JrGAJPi\nhIKzVzFeV7qWYvKlQ+8=\n-----END CERTIFICATE-----\n"
+}

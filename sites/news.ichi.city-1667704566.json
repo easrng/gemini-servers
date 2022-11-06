@@ -1,0 +1,17 @@
+{
+  "server": "news.ichi.city",
+  "ip": "213.219.38.200",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.39.118",
+    "6": "154.54.60.254",
+    "7": "204.68.252.59",
+    "11": "213.219.38.200",
+    "12": "213.219.38.200"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBgjCCASigAwIBAgIQMtrHdS2eoPQOjscWT3cg5TAKBggqhkjOPQQDAjAZMRcw\nFQYDVQQDEw5uZXdzLmljaGkuY2l0eTAgFw0yMjAyMDkwMTE2MzZaGA8yMTIyMDEx\nNjAxMTYzNlowGTEXMBUGA1UEAxMObmV3cy5pY2hpLmNpdHkwWTATBgcqhkjOPQIB\nBggqhkjOPQMBBwNCAARBLtqMpwBjFOVuSbkBD8QgtU+pi3LCKb3XaedLGLYRYMTp\nMHshwYaUdIe1bppgEqVYt9fKJ0TLx+/noR8pqtcgo1AwTjAOBgNVHQ8BAf8EBAMC\nB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAZBgNVHREEEjAQ\ngg5uZXdzLmljaGkuY2l0eTAKBggqhkjOPQQDAgNIADBFAiEAnarNVPaG6e7lLbaB\necPfk/yX5EJu/5ckqzYOohMFmZ4CICZhxLVlQ79DeHzsSHaUZDCoSX3o7VtkpTYo\nN8nUn2lt\n-----END CERTIFICATE-----\n"
+}

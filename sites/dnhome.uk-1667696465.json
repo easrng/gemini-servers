@@ -1,0 +1,19 @@
+{
+  "server": "dnhome.uk",
+  "ip": "135.181.248.201",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.161.98",
+    "5": "212.133.6.2",
+    "6": "213.239.224.38",
+    "7": "88.198.249.90",
+    "9": "95.216.133.19",
+    "10": "135.181.248.201",
+    "11": "135.181.248.201",
+    "12": "135.181.248.201"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBNzCB3qADAgECAghhWGHXCNp71TAKBggqhkjOPQQDAjAUMRIwEAYDVQQDDAlk\nbmhvbWUudWswIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBQxEjAQ\nBgNVBAMMCWRuaG9tZS51azBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABLK4CQp+\nyn/fEAD43j7AhFasXePShKbC4e2bTg2x++Bg9j0GOBBAxg0ztMbTURG9sVcjqZkQ\nKP4Qw9+2ayFf9HyjGDAWMBQGA1UdEQQNMAuCCWRuaG9tZS51azAKBggqhkjOPQQD\nAgNIADBFAiEAnNGHXhcP0WUcNBjlOfDEyKmkR/HTDWhNH6MphfxjiPUCIHoiAcQ1\nqGjM1jAYsc+mPfZJM2XqtZQSgwz69BoJhztY\n-----END CERTIFICATE-----\n"
+}

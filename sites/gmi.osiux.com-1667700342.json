@@ -1,0 +1,20 @@
+{
+  "server": "gmi.osiux.com",
+  "ip": "190.245.119.164",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.82.254",
+    "5": "154.54.0.142",
+    "6": "195.22.206.52",
+    "7": "195.22.220.119",
+    "8": "195.22.220.59",
+    "10": "181.89.2.117",
+    "13": "190.245.119.164",
+    "14": "190.245.119.164",
+    "15": "190.245.119.164"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBPTCB46ADAgECAgEqMAoGCCqGSM49BAMCMBgxFjAUBgNVBAMMDWdtaS5vc2l1\neC5jb20wIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBgxFjAUBgNV\nBAMMDWdtaS5vc2l1eC5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAARu0DS/\nh+X+x5+0LEbtTBju1wMoibc1M2oKtIpzf/b9YfHaWIOaNqL7T47E7jl4sJlbdegB\nTNLYxTkLoF1e95LqoxwwGjAYBgNVHREEETAPgg1nbWkub3NpdXguY29tMAoGCCqG\nSM49BAMCA0kAMEYCIQDA9y07zvVasKEO8m1hAJkPNpX0HjFirYGqW+JoFlT+OAIh\nAO7gJrxO3X8FZeus1lDJ8dv2KQXCmtApW13VVMQ/+6GZ\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,20 @@
+{
+  "server": "thebird.nl",
+  "ip": "94.142.245.5",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.58.70",
+    "6": "130.117.50.6",
+    "7": "149.11.65.174",
+    "8": "87.255.32.130",
+    "9": "94.142.247.243",
+    "11": "94.142.245.5",
+    "10": "94.142.244.43",
+    "12": "94.142.245.5"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBczCCARqgAwIBAgIJAK5wfS6rdX6cMAoGCCqGSM49BAMCMBUxEzARBgNVBAMM\nCnRoZWJpcmQubmwwHhcNMjEwNzA0MTIyNTA5WhcNMjIwNzA0MTIyNTA5WjAVMRMw\nEQYDVQQDDAp0aGViaXJkLm5sMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJZ5h\nWUXxxOyjx1tXj7fiSHrxRxV1+Svf2TaSHrj8EeIIBC+hOmSHV7vzz8pmoLqrj72s\njGaWQQUgXu6+jcmw8aNTMFEwHQYDVR0OBBYEFNK4EaLGaPpKtZYCGefp8eOUKu+j\nMB8GA1UdIwQYMBaAFNK4EaLGaPpKtZYCGefp8eOUKu+jMA8GA1UdEwEB/wQFMAMB\nAf8wCgYIKoZIzj0EAwIDRwAwRAIgF/vL2PvjsihNzBCDyy6MQLS/pc5lAIieDPbH\nGYs3SmUCIHuN81cIPFw2959/5zEo6UX6l7fqmtSjPQR9vemru9qG\n-----END CERTIFICATE-----\n"
+}

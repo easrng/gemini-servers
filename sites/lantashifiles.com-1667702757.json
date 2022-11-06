@@ -1,0 +1,17 @@
+{
+  "server": "lantashifiles.com",
+  "ip": "172.105.155.19",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.82.254",
+    "5": "154.54.24.222",
+    "6": "154.54.6.118",
+    "7": "38.142.129.98",
+    "11": "172.105.155.19",
+    "12": "172.105.155.19"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBjjCCATOgAwIBAgIUUcQLeDufezG8FmXdnaa54dqzhrkwCgYIKoZIzj0EAwIw\nHDEaMBgGA1UEAwwRbGFudGFzaGlmaWxlcy5jb20wHhcNMjExMTIzMTY0MzU0WhcN\nMzExMTIxMTY0MzU0WjAcMRowGAYDVQQDDBFsYW50YXNoaWZpbGVzLmNvbTBZMBMG\nByqGSM49AgEGCCqGSM49AwEHA0IABB37I/RsykEmVxtPTDWAPtRO7uw2k4u6iAP7\nMfY9d4174mFIx3mRZjS4u3iFH9YM/Owz4awKHmgJfUGrrIpMZO6jUzBRMB0GA1Ud\nDgQWBBRdbMVvdn5/GqRzzmo2NoS/6yTgXDAfBgNVHSMEGDAWgBRdbMVvdn5/GqRz\nzmo2NoS/6yTgXDAPBgNVHRMBAf8EBTADAQH/MAoGCCqGSM49BAMCA0kAMEYCIQCc\nrxb2EP0atEUWzuXoyfhCsACfBSLezzEety3rl5Wh8gIhAMvq990yr8eLfonej02y\n3y2fNlM6iKJNIAZQhqdT8rjx\n-----END CERTIFICATE-----\n"
+}

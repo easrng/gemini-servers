@@ -1,0 +1,19 @@
+{
+  "server": "jacksontaylor.xyz",
+  "ip": "144.202.31.234",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.82.254",
+    "5": "154.54.24.222",
+    "6": "154.54.82.210",
+    "7": "38.140.47.10",
+    "8": "10.77.1.90",
+    "9": "10.77.0.26",
+    "11": "144.202.31.234",
+    "12": "144.202.31.234"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBSTCB76ADAgECAgEqMAoGCCqGSM49BAMCMBwxGjAYBgNVBAMMEWphY2tzb250\nYXlsb3IueHl6MCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAcMRow\nGAYDVQQDDBFqYWNrc29udGF5bG9yLnh5ejBZMBMGByqGSM49AgEGCCqGSM49AwEH\nA0IABJENgHVhhyl/fNf9YQtKiv1TfS4dMz4D8GgYr+DBMfDGMsZcr+2pZumVMEHW\nz1uSr7E0jseg9diKMndaGzA6/hGjIDAeMBwGA1UdEQQVMBOCEWphY2tzb250YXls\nb3IueHl6MAoGCCqGSM49BAMCA0kAMEYCIQD3Uul/ykomIzdJwLCefRzJEdTpGvGM\n+++lzljawlh3BQIhAI3UJCpi7jH6LOfwbqD49/yTLAUs2y9JiweUHZwGZcEk\n-----END CERTIFICATE-----\n"
+}

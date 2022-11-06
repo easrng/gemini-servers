@@ -1,0 +1,19 @@
+{
+  "server": "shakespeare.geminet.org",
+  "ip": "135.181.153.189",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.161.98",
+    "5": "212.133.6.2",
+    "6": "213.239.224.38",
+    "7": "88.198.249.90",
+    "9": "95.216.128.225",
+    "10": "135.181.153.189",
+    "11": "135.181.153.189",
+    "12": "135.181.153.189"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBljCCAR0CAQEwCgYIKoZIzj0EAwIwOTEVMBMGA1UECgwMZ21uaXNydiB1c2Vy\nMSAwHgYDVQQDDBdzaGFrZXNwZWFyZS5nZW1pbmV0Lm9yZzAeFw0yMjA3MzAwNzQ5\nNDVaFw0yMzA3MzAwNzQ5NDVaMDkxFTATBgNVBAoMDGdtbmlzcnYgdXNlcjEgMB4G\nA1UEAwwXc2hha2VzcGVhcmUuZ2VtaW5ldC5vcmcwdjAQBgcqhkjOPQIBBgUrgQQA\nIgNiAAT8y9ASAbECjLe/TAn9uze0mooInYZP5oN9eCB6jHQr8mDR06y/xXvJau5h\nFYZuquYC+LnvBrDoI0HwRUL/7HwtVpai1iHu+Ltykcscyjy69n2aFppEuji0js6g\nJmJ1FeIwCgYIKoZIzj0EAwIDZwAwZAIwaGZcjJvt+5Ce1kA9FYPXTnYb0hZQZlvD\nSaQ5U/Albge/34gerSrySf3MHCSyslXwAjAqyCG99rYYSmj44ljGnbHqS1WO36uu\nDk9tRwM1hpUyJlwa1YD7QZJtfd4YISASPPo=\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,17 @@
+{
+  "server": "takuroop.opossum.digital",
+  "ip": "75.36.191.82",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.6.221",
+    "5": "154.54.45.18",
+    "6": "154.54.12.86",
+    "14": "107.212.168.121",
+    "15": "75.36.191.82",
+    "16": "75.36.191.82"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBZjCCAQugAwIBAgIINk/lQIRlJKswCgYIKoZIzj0EAwIwIzEhMB8GA1UEAwwY\ndGFrdXJvb3Aub3Bvc3N1bS5kaWdpdGFsMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYw\nMTAxMDAwMDAwWjAjMSEwHwYDVQQDDBh0YWt1cm9vcC5vcG9zc3VtLmRpZ2l0YWww\nWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAS+0ZiMJuPhCxbXvPrkqORgyAOV8lcl\nwktPHoCX3AQOZdsUCI/cw3Mny+/qUcUZ19FfZNV5RLREqyz/8hxjD20RoycwJTAj\nBgNVHREEHDAaghh0YWt1cm9vcC5vcG9zc3VtLmRpZ2l0YWwwCgYIKoZIzj0EAwID\nSQAwRgIhAPEjBMvgQ5wxG76kglLTQd6AI/QBEiGSii/Us0g1Fa0OAiEA5HGkGS+L\naFEcC82R1UABn8I1raNqDR9LlJg/Ksaq1Uk=\n-----END CERTIFICATE-----\n"
+}

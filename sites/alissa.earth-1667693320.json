@@ -1,0 +1,26 @@
+{
+  "server": "alissa.earth",
+  "ip": "178.128.94.14",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.47.50",
+    "5": "154.54.47.218",
+    "6": "154.54.12.18",
+    "7": "63.243.128.17",
+    "9": "63.243.205.37",
+    "10": "209.58.86.201",
+    "14": "180.87.107.0",
+    "16": "120.29.214.142",
+    "8": "63.243.128.167",
+    "11": "63.243.250.57",
+    "22": "178.128.94.14",
+    "23": "178.128.94.14",
+    "13": "180.87.108.4",
+    "24": "178.128.94.14",
+    "25": "178.128.94.14"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBODCB4KADAgECAgEqMAoGCCqGSM49BAMCMBcxFTATBgNVBAMMDGFsaXNzYS5l\nYXJ0aDAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFowFzEVMBMGA1UE\nAwwMYWxpc3NhLmVhcnRoMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEGVrYV1+f\nw2MP4KGHqIFw7pseitFH/dNkr98V2OHv2b3WrRjTyqEvyCOPalLyE/11yOf5IKto\nGsDC9TuHamcfw6MbMBkwFwYDVR0RBBAwDoIMYWxpc3NhLmVhcnRoMAoGCCqGSM49\nBAMCA0cAMEQCIE4gXOS2drY3T1tU6cYiA+g+yVsBFvA3a3PYSlTUJQoRAiA7BQqc\nzV3HpuRnxqotZ9XtrAhusZjLGVQ1dASH/VYvBg==\n-----END CERTIFICATE-----\n"
+}

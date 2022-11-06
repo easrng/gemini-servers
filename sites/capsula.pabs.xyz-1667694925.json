@@ -1,0 +1,16 @@
+{
+  "server": "capsula.pabs.xyz",
+  "ip": "51.195.117.126",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "170.39.230.240",
+    "3": "192.99.146.163",
+    "6": "54.36.50.241",
+    "7": "54.36.50.232",
+    "4": "192.99.146.139",
+    "16": "51.195.117.126",
+    "17": "51.195.117.126",
+    "18": "51.195.117.126"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBijCCATGgAwIBAgIUUHYDUssoXuGz4U2XbpaSz7Z54OowCgYIKoZIzj0EAwIw\nGzEZMBcGA1UEAwwQY2Fwc3VsYS5wYWJzLnh5ejAeFw0yMjExMDQxNTQxMTVaFw0z\nMjExMDExNTQxMTVaMBsxGTAXBgNVBAMMEGNhcHN1bGEucGFicy54eXowWTATBgcq\nhkjOPQIBBggqhkjOPQMBBwNCAARrRmKBMvsW7vOxNJHGfMgWJDFfSzH2gLKDnPmg\nkVDhZvknfcORDEhGT3U05uWLzPo3N4xIlwQkQqBZQ8ycOvo/o1MwUTAdBgNVHQ4E\nFgQU8nGKLGK6ELZiXxEbNkC73HXJ/acwHwYDVR0jBBgwFoAU8nGKLGK6ELZiXxEb\nNkC73HXJ/acwDwYDVR0TAQH/BAUwAwEB/zAKBggqhkjOPQQDAgNHADBEAiBrLf1K\n93s+Ngck+k6Pp2N/+djxRyzp9hk1Rz8rtQm59wIgTZUtxbBHwflaOfJ6vw/g+Ez0\n3ft5Vupwa+M/uAMVync=\n-----END CERTIFICATE-----\n"
+}

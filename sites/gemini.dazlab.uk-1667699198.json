@@ -1,0 +1,14 @@
+{
+  "server": "gemini.dazlab.uk",
+  "ip": "198.244.149.9",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "170.39.230.240",
+    "3": "192.99.146.163",
+    "6": "213.186.32.253",
+    "4": "198.27.73.205",
+    "14": "198.244.149.9",
+    "15": "198.244.149.9"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBTDCB86ADAgECAghu1ykC9swzrTAKBggqhkjOPQQDAjAbMRkwFwYDVQQDDBBn\nZW1pbmkuZGF6bGFiLnVrMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAw\nWjAbMRkwFwYDVQQDDBBnZW1pbmkuZGF6bGFiLnVrMFkwEwYHKoZIzj0CAQYIKoZI\nzj0DAQcDQgAE1aP94/KzwzXNmreQzulowcEDY0VNBZ480PanOaqkrPTEEzbMy3Xq\nSxOFaIu0lBJzykjXGH8U/+X4OJrqC+CsdqMfMB0wGwYDVR0RBBQwEoIQZ2VtaW5p\nLmRhemxhYi51azAKBggqhkjOPQQDAgNIADBFAiEAkwk7HMl65sGiLxtxx1Mxs6fO\nbx9n7tOUiSEFKOVhkzMCIDiMFnl0lXMUKMYsk0VrodogorqQSS0Q1NZYM5BSi5FP\n-----END CERTIFICATE-----\n"
+}

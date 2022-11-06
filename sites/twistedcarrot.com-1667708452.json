@@ -1,0 +1,22 @@
+{
+  "server": "twistedcarrot.com",
+  "ip": "173.230.155.177",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.44.169",
+    "6": "154.54.31.89",
+    "7": "154.54.42.97",
+    "8": "154.54.44.141",
+    "9": "154.54.43.150",
+    "10": "154.54.3.138",
+    "11": "38.142.11.154",
+    "12": "173.230.159.67",
+    "13": "173.230.155.177",
+    "14": "173.230.155.177"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBazCCARKgAwIBAgIRAJzqvSoLmH3zNWJ5MLj+GeAwCgYIKoZIzj0EAwIwHDEa\nMBgGA1UEAxMRdHdpc3RlZGNhcnJvdC5jb20wHhcNMjEwNDE2MDMxNTU4WhcNMjYw\nNDE2MDMxNTU4WjAcMRowGAYDVQQDExF0d2lzdGVkY2Fycm90LmNvbTBZMBMGByqG\nSM49AgEGCCqGSM49AwEHA0IABMhlWuEt4mW+bgSkY1b/Lvb3Vqo37ENe+OVy4pMN\n2M0fO9xrvg58lHVLGCHTBzbgKfCuXo8xc70s1Gp7o50tJQ6jNTAzMDEGA1UdEQQq\nMCiCEXR3aXN0ZWRjYXJyb3QuY29tghMqLnR3aXN0ZWRjYXJyb3QuY29tMAoGCCqG\nSM49BAMCA0cAMEQCIHYArKtqJ1pxE+u9gIQaRq52cpMs4D7OGoZZsRa7HJnIAiA4\nDbF5nvaSKS0r1OQ6+4hcBHbRJvdY+zETCPPY34Px0A==\n-----END CERTIFICATE-----\n"
+}

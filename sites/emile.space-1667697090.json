@@ -1,0 +1,24 @@
+{
+  "server": "emile.space",
+  "ip": "138.201.190.65",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.58.70",
+    "6": "130.117.0.142",
+    "7": "154.54.36.254",
+    "8": "154.54.59.194",
+    "9": "154.25.14.46",
+    "10": "149.6.158.186",
+    "11": "213.239.245.10",
+    "12": "213.239.239.138",
+    "14": "162.55.112.26",
+    "15": "138.201.190.65",
+    "16": "138.201.190.65",
+    "17": "138.201.190.65"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBPTCB5KADAgECAghQQx8U0wVcCjAKBggqhkjOPQQDAjAWMRQwEgYDVQQDDAtl\nbWlsZS5zcGFjZTAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFowFjEU\nMBIGA1UEAwwLZW1pbGUuc3BhY2UwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASI\nJZP4GsHhnX0g62A1mzq0FzuHgkv1hUraEwiE93QRcOaglOC43dNRuedP4z9GccPC\nOpzeiOY855IkF/YRWoCfoxowGDAWBgNVHREEDzANggtlbWlsZS5zcGFjZTAKBggq\nhkjOPQQDAgNIADBFAiEA1uGqvTMG78P+qW/0wCWpcqMP9fBNJT8yHuXgLrKZNlwC\nIFNrRg5CEA+libn+y2aCXU1in+Zx2XsLMSp9PKrqodko\n-----END CERTIFICATE-----\n"
+}

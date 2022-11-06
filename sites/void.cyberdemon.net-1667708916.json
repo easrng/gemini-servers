@@ -1,0 +1,18 @@
+{
+  "server": "void.cyberdemon.net",
+  "ip": "44.233.251.56",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.44.169",
+    "6": "154.54.31.89",
+    "7": "154.54.42.97",
+    "8": "154.54.44.141",
+    "9": "154.54.43.14",
+    "10": "38.88.224.186"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBVjCB/aADAgECAgkAyjrvbHOrcEMwCgYIKoZIzj0EAwIwHjEcMBoGA1UEAwwT\ndm9pZC5jeWJlcmRlbW9uLm5ldDAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAw\nMDAwMFowHjEcMBoGA1UEAwwTdm9pZC5jeWJlcmRlbW9uLm5ldDBZMBMGByqGSM49\nAgEGCCqGSM49AwEHA0IABPbz75wJIxCRupEmVrqsCA8ew3KE5pGc6Ci/cmymt5WF\nYmSkhVPgBGwe3ThBJLXWfVKGdUCCck86K3kPzaUcRCejIjAgMB4GA1UdEQQXMBWC\nE3ZvaWQuY3liZXJkZW1vbi5uZXQwCgYIKoZIzj0EAwIDSAAwRQIhAO5JLCA0M39Z\n/0aXsjmp8ThivvAUcRO7xY/yQ42IuvxxAiB0OLReIYi2t7dVaPBO0seSvmSAUGw4\nuHpVgIjpz2GRqA==\n-----END CERTIFICATE-----\n"
+}

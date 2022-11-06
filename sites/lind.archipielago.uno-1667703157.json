@@ -1,0 +1,26 @@
+{
+  "server": "lind.archipielago.uno",
+  "ip": "216.238.66.109",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.44.169",
+    "6": "154.54.3.213",
+    "7": "154.54.44.229",
+    "8": "154.54.47.46",
+    "9": "154.54.85.186",
+    "10": "38.104.249.138",
+    "11": "148.243.141.178",
+    "12": "189.206.11.142",
+    "13": "201.151.24.86",
+    "14": "189.206.187.149",
+    "15": "189.206.3.194",
+    "16": "201.149.97.50",
+    "20": "216.238.66.109",
+    "21": "216.238.66.109"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBlzCCAT2gAwIBAgIQIYOqkDTrhz1xOylcxtPkNTAKBggqhkjOPQQDAjAgMR4w\nHAYDVQQDExVsaW5kLmFyY2hpcGllbGFnby51bm8wIBcNMjIwNTE5MDAxMzQxWhgP\nMjEyMjA0MjUwMDEzNDFaMCAxHjAcBgNVBAMTFWxpbmQuYXJjaGlwaWVsYWdvLnVu\nbzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABK7VPI5irGmQXA6qzPKE6TVRsfTt\nn7P8vXGHibt1uoiztffTg8aw/99Qg6/a6nD3VVUUgS2iVAQb89r3o+x1/3+jVzBV\nMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8E\nAjAAMCAGA1UdEQQZMBeCFWxpbmQuYXJjaGlwaWVsYWdvLnVubzAKBggqhkjOPQQD\nAgNIADBFAiAB4r4tU/u/Z3ePMoMcGojGzn2OX4ERbkfUc2qkgeR5JwIhAIBorW9w\n0IkWTZKSAGi6e9hckK/vcDsnyMj4gM1h/pqM\n-----END CERTIFICATE-----\n"
+}

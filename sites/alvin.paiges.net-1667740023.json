@@ -1,0 +1,23 @@
+{
+  "server": "alvin.paiges.net",
+  "ip": "103.29.71.146",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.44.169",
+    "6": "154.54.31.89",
+    "7": "154.54.42.97",
+    "8": "154.54.44.141",
+    "9": "154.54.43.14",
+    "10": "154.54.86.138",
+    "11": "204.68.252.109",
+    "12": "139.162.64.13",
+    "13": "103.29.71.146",
+    "14": "103.29.71.146",
+    "15": "103.29.71.146"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBRTCB7KADAgECAgEqMAoGCCqGSM49BAMCMBsxGTAXBgNVBAMMEGFsdmluLnBh\naWdlcy5uZXQwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBsxGTAX\nBgNVBAMMEGFsdmluLnBhaWdlcy5uZXQwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNC\nAAQgPQEzIUElzDkz9OG3O4NaMy1PWln7JuZn5XuQQQSk3GjMkx1E8nzufgzr/91E\nK2XJE3D76/dnwT2WRds1lNulox8wHTAbBgNVHREEFDASghBhbHZpbi5wYWlnZXMu\nbmV0MAoGCCqGSM49BAMCA0gAMEUCIGnv0rF2C+zu4JmkCTT/sFitg5tArY0fIOGz\n6h66hsRUAiEA9zjc58z21ugD3AJiKIZNtQuap/kJQiQUObQfqrA9TGQ=\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,17 @@
+{
+  "server": "pipem.co.uk",
+  "ip": "77.68.16.64",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.166.2",
+    "5": "212.187.201.230",
+    "6": "88.208.255.131",
+    "7": "109.228.63.139",
+    "8": "77.68.16.64",
+    "9": "77.68.16.64"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBgTCCASegAwIBAgIUO8Wm1T5JDd9iQYF+SIHVMbfutJowCgYIKoZIzj0EAwIw\nFjEUMBIGA1UEAwwLcGlwZW0uY28udWswHhcNMjEwMjA5MjIwNzE2WhcNMzEwMjA3\nMjIwNzE2WjAWMRQwEgYDVQQDDAtwaXBlbS5jby51azBZMBMGByqGSM49AgEGCCqG\nSM49AwEHA0IABEO1q7jkV7/xegxJpmI94eXDc6uWB7JYucZk3dK4J/1nMxVhjfR4\nekv5HhiT7Xgpq+6xpJhkGIFK8El0vkTOeIGjUzBRMB0GA1UdDgQWBBSSiEXi2iCc\nEVz93fxyb6HrcCYVJDAfBgNVHSMEGDAWgBSSiEXi2iCcEVz93fxyb6HrcCYVJDAP\nBgNVHRMBAf8EBTADAQH/MAoGCCqGSM49BAMCA0gAMEUCIC0Ccxk+ZFznt3BTjZJx\n31WUGZ5xl43jsmEKQElaigbEAiEA3xVePF+vCvuqlK+w14hkdiMG8ncavtexRJzz\nUP3gdsc=\n-----END CERTIFICATE-----\n"
+}

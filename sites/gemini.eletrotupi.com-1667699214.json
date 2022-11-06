@@ -1,0 +1,17 @@
+{
+  "server": "gemini.eletrotupi.com",
+  "ip": "45.79.223.40",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.82.254",
+    "5": "154.54.24.222",
+    "6": "154.54.6.118",
+    "7": "38.142.129.98",
+    "11": "45.79.223.40",
+    "12": "45.79.223.40"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBVTCCAQegAwIBAgIQXTg25rQpOysp+oQgi9vBPDAFBgMrZXAwIDEeMBwGA1UE\nAxMVZ2VtaW5pLmVsZXRyb3R1cGkuY29tMB4XDTIyMDYxODE1MzYwNFoXDTIzMDYx\nODE1MzYwNFowIDEeMBwGA1UEAxMVZ2VtaW5pLmVsZXRyb3R1cGkuY29tMCowBQYD\nK2VwAyEA5/9Y6/uxl+OZSX+lNU8Uu+RpIkjPdnGCuXB8bR5tdp2jVzBVMA4GA1Ud\nDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMCAG\nA1UdEQQZMBeCFWdlbWluaS5lbGV0cm90dXBpLmNvbTAFBgMrZXADQQDU4hbd8avV\nPB3PlQzoPhD/oE7XVWnQS/+HPGQXN5d95hUjVWzjyOGlbOdTztr76hA20ZPFABy2\nNbH05gqdpvcL\n-----END CERTIFICATE-----\n"
+}

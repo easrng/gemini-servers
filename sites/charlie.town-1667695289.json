@@ -1,0 +1,15 @@
+{
+  "server": "charlie.town",
+  "ip": "161.35.163.96",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.143.246",
+    "5": "212.187.195.86",
+    "10": "161.35.163.96",
+    "11": "161.35.163.96"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBOjCB4KADAgECAgEqMAoGCCqGSM49BAMCMBcxFTATBgNVBAMMDGNoYXJsaWUu\ndG93bjAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFowFzEVMBMGA1UE\nAwwMY2hhcmxpZS50b3duMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE3QwaUmDX\nFUKoL5/ytlhK02JNYXp8G2ZekczgNg1M8dnCdmalSe2lP+OlDd+u3/S4HS8tskhC\nfCkmiAIpq0WF56MbMBkwFwYDVR0RBBAwDoIMY2hhcmxpZS50b3duMAoGCCqGSM49\nBAMCA0kAMEYCIQDkGyU2+FDMXC7c1F0NCM6S0lkuGanDDeWlPRoo1r80XAIhAO6+\nMn2zfOewXS674wZvbNqlOm/Bxp05rPBhFXaLzFse\n-----END CERTIFICATE-----\n"
+}

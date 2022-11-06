@@ -1,0 +1,20 @@
+{
+  "server": "otrn.org",
+  "ip": "51.15.194.3",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.161",
+    "5": "154.54.39.149",
+    "6": "154.54.60.169",
+    "7": "154.54.38.66",
+    "8": "154.54.60.186",
+    "9": "149.6.164.42",
+    "10": "195.154.1.189",
+    "15": "51.15.194.3",
+    "16": "51.15.194.3"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBRzCB7aADAgECAhBttX+WSZnIHA9P2EYgLs7iMAoGCCqGSM49BAMCMBMxETAP\nBgNVBAMTCG90cm4ub3JnMB4XDTIwMDkwMTIxMTI0N1oXDTIzMDkwMTIxMTI0N1ow\nEzERMA8GA1UEAxMIb3Rybi5vcmcwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAR9\nv8Ho43C69nuupkzllOqvCrwHMLXE9EPiSHx5RzinPnM0PDhim2p7nufMVU6DqzeJ\nHJvJZqzg8bBHPWcDPI0WoyMwITAfBgNVHREEGDAWgghvdHJuLm9yZ4IKKi5vdHJu\nLm9yZzAKBggqhkjOPQQDAgNJADBGAiEAx2rH0imIZ2AL2DBzUugbJyKNEehL4dQ+\nPAIdnbEDFj4CIQDcMY5DD+Dbip1KfQ6HU9+qkJ9MtaIoEs/kHZHkUyowBA==\n-----END CERTIFICATE-----\n"
+}

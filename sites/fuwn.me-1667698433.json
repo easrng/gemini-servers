@@ -1,0 +1,24 @@
+{
+  "server": "fuwn.me",
+  "ip": "188.68.59.89",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "62.115.187.238",
+    "4": "62.115.117.229",
+    "5": "62.115.123.108",
+    "6": "62.115.113.21",
+    "7": "62.115.135.25",
+    "8": "62.115.118.59",
+    "10": "62.115.112.215",
+    "11": "62.115.46.183",
+    "12": "94.16.25.77",
+    "13": "46.38.252.41",
+    "14": "188.68.59.89",
+    "15": "188.68.59.89",
+    "16": "188.68.59.89",
+    "9": "62.115.133.239"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBeDCCAR+gAwIBAgIUQWJnSCZ2dlpJfe1Fmi8DgqJypOAwCgYIKoZIzj0EAwIw\nEjEQMA4GA1UEAwwHZnV3bi5tZTAeFw0yMjA5MTQwNjMyMTdaFw0yMzA5MTQwNjMy\nMTdaMBIxEDAOBgNVBAMMB2Z1d24ubWUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNC\nAASfl2T1bGA4T/52vT3Luk52ZACKzRMtTDpE6kQ8pWnS07sRA8fuDf4qwKpQC6RX\nfLuFxzSo2r+JMRRUogCdXkMNo1MwUTAdBgNVHQ4EFgQUWG4YIDnokgghfmb+G882\n2ENdLfAwHwYDVR0jBBgwFoAUWG4YIDnokgghfmb+G8822ENdLfAwDwYDVR0TAQH/\nBAUwAwEB/zAKBggqhkjOPQQDAgNHADBEAiAocxQd1M9eckKA7HkDWunEDb/42ftO\ncjQS42qJYdkeggIgGhusujw//jnQ0+XHEvp4s/phNKP0wZmfPNUJ0e84lQ0=\n-----END CERTIFICATE-----\n"
+}

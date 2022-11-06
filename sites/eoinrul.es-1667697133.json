@@ -1,0 +1,19 @@
+{
+  "server": "eoinrul.es",
+  "ip": "95.217.188.180",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.161.98",
+    "5": "212.133.6.2",
+    "6": "213.239.224.26",
+    "7": "88.198.249.94",
+    "9": "95.216.132.245",
+    "10": "95.217.188.180",
+    "11": "95.217.188.180",
+    "12": "95.217.188.180"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBMjCB2qADAgECAgEqMAoGCCqGSM49BAMCMBUxEzARBgNVBAMMCmVvaW5ydWwu\nZXMwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBUxEzARBgNVBAMM\nCmVvaW5ydWwuZXMwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAR/GQANKyOiF2Se\nKM2ypmW5vT80SGU8BWeL+E6/Ln5wdv0Ci8bUdX/m6ALzkwetIukfrPyGpOTkBBN9\nsiavduf0oxkwFzAVBgNVHREEDjAMggplb2lucnVsLmVzMAoGCCqGSM49BAMCA0cA\nMEQCIE7s/0ClVAPK+qBKgcyT8u+inuUGNi4v9qVTgAX00Go4AiBfCaGNDgwo8DFn\nAL+bAgctP1WZ2FVKv7sAYt90FS/s4w==\n-----END CERTIFICATE-----\n"
+}

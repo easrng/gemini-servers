@@ -1,0 +1,17 @@
+{
+  "server": "gemini.mjollna.org",
+  "ip": "217.182.252.56",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "170.39.230.240",
+    "3": "192.99.146.163",
+    "4": "198.27.73.205",
+    "6": "213.251.128.64",
+    "8": "37.187.232.77",
+    "9": "92.222.60.118",
+    "10": "92.222.60.3",
+    "12": "217.182.252.56",
+    "13": "217.182.252.56"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBSjCB8qADAgECAgEqMAoGCCqGSM49BAMCMB0xGzAZBgNVBAMMEmdlbWluaS5t\nam9sbG5hLm9yZzAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFowHTEb\nMBkGA1UEAwwSZ2VtaW5pLm1qb2xsbmEub3JnMFkwEwYHKoZIzj0CAQYIKoZIzj0D\nAQcDQgAEZBvyO7LJr+2mWOyuRjV7xb6NxFJutQcl/SyV+ZlrCowdwvAkQRUoITIT\nLUC0/2dDKyQMMzNF9qVE7boWWr9BvKMhMB8wHQYDVR0RBBYwFIISZ2VtaW5pLm1q\nb2xsbmEub3JnMAoGCCqGSM49BAMCA0cAMEQCIAwAxMZMzJQakwTYGwO+pia3bTfM\nYERG34hB6TxCeD2XAiBdrctqJO9qzUiZLF+5Q5tQahpxveIJI4lSpIK44nE9ew==\n-----END CERTIFICATE-----\n"
+}

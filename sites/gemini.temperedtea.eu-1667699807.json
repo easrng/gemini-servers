@@ -1,0 +1,20 @@
+{
+  "server": "gemini.temperedtea.eu",
+  "ip": "144.76.173.138",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.58.70",
+    "7": "154.54.36.254",
+    "8": "154.54.59.194",
+    "9": "154.25.14.46",
+    "10": "149.6.158.186",
+    "6": "130.117.0.142",
+    "11": "213.239.245.10",
+    "12": "213.239.203.146"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBUzCB+6ADAgECAgEqMAoGCCqGSM49BAMCMCAxHjAcBgNVBAMMFWdlbWluaS50\nZW1wZXJlZHRlYS5ldTAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFow\nIDEeMBwGA1UEAwwVZ2VtaW5pLnRlbXBlcmVkdGVhLmV1MFkwEwYHKoZIzj0CAQYI\nKoZIzj0DAQcDQgAEanwxPfI8O81K15Uxa+y8aqyN1zjS73zV1TprgnL56CAkbKQl\nddsRbmaVDny1XfJ2+gmAcHbOfH/GzrboLoThNaMkMCIwIAYDVR0RBBkwF4IVZ2Vt\naW5pLnRlbXBlcmVkdGVhLmV1MAoGCCqGSM49BAMCA0cAMEQCIGT4Nj+/v1F+uLM2\nXF0DkbsZKCOLvb9GoT9XYZwZD124AiB0lBI3jWlYZDJ1osmlOzmotJiyDPBExYxX\nReoOFwN4mw==\n-----END CERTIFICATE-----\n"
+}

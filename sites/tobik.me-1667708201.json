@@ -1,0 +1,20 @@
+{
+  "server": "tobik.me",
+  "ip": "20.52.145.140",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "170.39.230.240",
+    "2": "206.108.34.160",
+    "3": "104.44.237.151",
+    "4": "104.44.20.165",
+    "5": "104.44.16.153",
+    "6": "104.44.18.153",
+    "7": "104.44.31.1",
+    "8": "104.44.16.146",
+    "9": "104.44.17.224",
+    "11": "104.44.23.108",
+    "22": "20.52.145.140",
+    "23": "20.52.145.140"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBjDCCARGgAwIBAgIBATAKBggqhkjOPQQDAjAjMQ4wDAYDVQQKDAV0b2JpazER\nMA8GA1UEAwwIdG9iaWsubWUwIBcNMjIwMjA5MTcwOTQwWhgPMjA5MDAyMjcyMDIz\nNDdaMCMxDjAMBgNVBAoMBXRvYmlrMREwDwYDVQQDDAh0b2Jpay5tZTB2MBAGByqG\nSM49AgEGBSuBBAAiA2IABLuzduUP4ZkvX14ikc9LyxVaFxgYAY+IrE9ECT4Xx5pG\n1DxZbUnYYVVPpHJbvaSd7LhEfgnMHRKqtEgtdeCOL03OuQW6HZGOVj7/kPFQgxmz\npcL13aNHeGUjceeoDVK0/6MXMBUwEwYDVR0RBAwwCoIIdG9iaWsubWUwCgYIKoZI\nzj0EAwIDaQAwZgIxAICAbCXQbcBG21thvZV03hvLbkxzWoZe/XQ2UjAzLxq0DGrG\nSvloyh3xAYJLuERxRQIxAN+xSk/PtNPVndglRd2EAokCMnz+rBDNN66+g3hah47v\nlnT2+Ankr9ertE/ZYLDikg==\n-----END CERTIFICATE-----\n"
+}

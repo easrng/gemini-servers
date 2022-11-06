@@ -1,0 +1,18 @@
+{
+  "server": "sitio.bitsandlinux.com",
+  "ip": "46.183.114.67",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.82.250",
+    "5": "154.54.85.242",
+    "6": "154.54.61.130",
+    "7": "149.6.38.22",
+    "10": "46.183.114.67",
+    "11": "46.183.114.67",
+    "12": "46.183.114.67"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBVzCB/qADAgECAgEqMAoGCCqGSM49BAMCMCExHzAdBgNVBAMMFnNpdGlvLmJp\ndHNhbmRsaW51eC5jb20wIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBa\nMCExHzAdBgNVBAMMFnNpdGlvLmJpdHNhbmRsaW51eC5jb20wWTATBgcqhkjOPQIB\nBggqhkjOPQMBBwNCAATQRZknNrm7Yl+yeG6C2OIEzkma9DECta55tbTdyICPMteF\nAU/4yNhf009YA73Byea/qJJJ1Iyy2kGPa63kisgFoyUwIzAhBgNVHREEGjAYghZz\naXRpby5iaXRzYW5kbGludXguY29tMAoGCCqGSM49BAMCA0gAMEUCIQC38nNUxYm8\nTktGTFuUPKip/jGGGmg03ZMdbJrm/h98cQIgEqoMOzRxBJjFk/BDSkBtse0ytdty\ncwAYm6ogQnyhNcQ=\n-----END CERTIFICATE-----\n"
+}

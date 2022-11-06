@@ -1,0 +1,18 @@
+{
+  "server": "senioradmin.de",
+  "ip": "217.160.214.242",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "5": "62.67.23.38",
+    "6": "212.227.120.147",
+    "7": "212.227.122.28",
+    "8": "212.227.36.72",
+    "9": "217.160.214.242",
+    "10": "217.160.214.242",
+    "11": "217.160.214.242"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBrzCCATWgAwIBAgIBATAKBggqhkjOPQQDAjAyMRcwFQYDVQQKDA5zZW5pb3Jh\nZG1pbi5kZTEXMBUGA1UEAwwOc2VuaW9yYWRtaW4uZGUwIBcNMjEwMzA1MTEyNDMz\nWhgPMjIyMTAxMTYxMTI0MzNaMDIxFzAVBgNVBAoMDnNlbmlvcmFkbWluLmRlMRcw\nFQYDVQQDDA5zZW5pb3JhZG1pbi5kZTB2MBAGByqGSM49AgEGBSuBBAAiA2IABDDN\nydAJy6rWd/XkXn8KaE4+xHzPJAGSg7JPczhUuXliBLBnmvHMc0Vgd/cnWf+c9jXf\nTtY/6/Q1QX4/bddlKlYM2IAem07Eamxkj/jANHB2JU/zeA/fNerHd7+CoPeFUKMd\nMBswGQYDVR0RBBIwEIIOc2VuaW9yYWRtaW4uZGUwCgYIKoZIzj0EAwIDaAAwZQIx\nAMl1htVUWlId+5/4JpxEhpOtX3RsRnHBcqvQ4LuqUGQgg9cuNuq98nZbTgP7XNGu\nFAIwHHvMUaa23CYfizFq5G27VqeCwbseSTUphgo4u6pb30/Esx5kP+dIIdZzocVf\nW2pe\n-----END CERTIFICATE-----\n"
+}

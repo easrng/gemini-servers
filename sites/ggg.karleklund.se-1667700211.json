@@ -1,0 +1,20 @@
+{
+  "server": "ggg.karleklund.se",
+  "ip": "80.216.213.44",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.58.70",
+    "6": "154.54.38.210",
+    "7": "154.54.61.230",
+    "8": "154.54.57.114",
+    "9": "149.6.48.42",
+    "10": "80.216.213.44",
+    "11": "80.216.213.44",
+    "12": "80.216.213.44"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBTzCB96ADAgECAgkArjibAuCI5V0wCgYIKoZIzj0EAwIwHDEaMBgGA1UEAwwR\nZ2dnLmthcmxla2x1bmQuc2UwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAw\nMDBaMBwxGjAYBgNVBAMMEWdnZy5rYXJsZWtsdW5kLnNlMFkwEwYHKoZIzj0CAQYI\nKoZIzj0DAQcDQgAEm0haO3QtH/35djngnwxbmRjx2Xy3rRpkRTCOWvV3FSE2Jemd\nva0hHqflc1hkCtLuWTMRS3mflmyBtG+OsnxqrqMgMB4wHAYDVR0RBBUwE4IRZ2dn\nLmthcmxla2x1bmQuc2UwCgYIKoZIzj0EAwIDRwAwRAIgET035reRMC4H6aplWYKA\nNUclYqVOuDZkUhs8Ma7D854CIHVbOQxPoa3Fd44ZxiUqMg2rIE+uDLLhqXY+M2cs\nGEOr\n-----END CERTIFICATE-----\n"
+}

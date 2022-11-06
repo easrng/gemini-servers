@@ -1,0 +1,21 @@
+{
+  "server": "e-dt.xyz",
+  "ip": "3.22.62.133",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "170.39.230.240",
+    "2": "206.108.35.37",
+    "3": "52.93.3.102",
+    "4": "52.93.3.49",
+    "6": "52.93.239.23",
+    "7": "52.95.1.131",
+    "8": "52.95.2.192",
+    "9": "15.230.140.186",
+    "10": "15.230.134.216",
+    "11": "108.166.244.14",
+    "12": "108.166.244.22",
+    "17": "3.22.62.133",
+    "18": "3.22.62.133"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBNDCB3KADAgECAgkA/f3CTite43QwCgYIKoZIzj0EAwIwEzERMA8GA1UEAwwI\nZS1kdC54eXowIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBMxETAP\nBgNVBAMMCGUtZHQueHl6MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEG+ABWNyA\noMnqojPSKtTzgcKkddGNKiMlBb8TFZWX0zxioDSosTnPiRUpxS7Ort0oZqyx009N\nQaXEqzJFDAbiVaMXMBUwEwYDVR0RBAwwCoIIZS1kdC54eXowCgYIKoZIzj0EAwID\nRwAwRAIgEm6oK3oYUVJ4LqdNac1VtANnbc6NB6bZyWEWTfKLjncCIAreJ/A2Hymp\nFvcPpfEPZjgRzbrKcISpJeP/Kmq0lr4W\n-----END CERTIFICATE-----\n"
+}

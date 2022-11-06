@@ -1,0 +1,22 @@
+{
+  "server": "thingvellir.net",
+  "ip": "157.211.14.21",
+  "route": {
+    "0": "170.39.230.241",
+    "6": "184.104.195.46",
+    "7": "184.104.195.46",
+    "8": "184.104.195.146",
+    "1": "198.32.181.52",
+    "9": "202.77.88.56",
+    "10": "113.212.168.173",
+    "2": "184.105.80.5",
+    "11": "113.212.168.173",
+    "12": "157.211.14.21",
+    "13": "157.211.14.21",
+    "5": "184.104.194.21",
+    "14": "157.211.14.21",
+    "15": "157.211.14.21",
+    "3": "184.105.222.98"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBszCCATqgAwIBAgIBATAKBggqhkjOPQQDAjA0MRgwFgYDVQQKDA90aGluZ3Zl\nbGxpci5uZXQxGDAWBgNVBAMMD3RoaW5ndmVsbGlyLm5ldDAgFw0yMjA3MTcwNTM1\nMDZaGA8yMDkwMDgwNDA4NDkxM1owNDEYMBYGA1UECgwPdGhpbmd2ZWxsaXIubmV0\nMRgwFgYDVQQDDA90aGluZ3ZlbGxpci5uZXQwdjAQBgcqhkjOPQIBBgUrgQQAIgNi\nAAS+F9hHE4R4zR/tWewBj9nwYVwlvfrKDm4ncO1hyIKaMsmuTZjt+IsAl2CgSYYN\nAe0Ph3jAuOiRoAGIhywvwyd/dgPqf1J0Y20cSJs9HrP0769U1AOVmOlmN6JtcRW+\nVDmjHjAcMBoGA1UdEQQTMBGCD3RoaW5ndmVsbGlyLm5ldDAKBggqhkjOPQQDAgNn\nADBkAjAe8YHfSc077FoyFajK+BonAVMf8koCoeXd+a6Ynm+Ct+gDHJxaH9V8EFmW\ns3JrFLYCMAIJYFFEy7xaG+Zv5fDN2jJnjuzr0JrcmYRc+uSqWwSyzTPL1cAv4YOh\nL1QzjsS0lg==\n-----END CERTIFICATE-----\n"
+}

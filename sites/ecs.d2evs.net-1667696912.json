@@ -1,0 +1,16 @@
+{
+  "server": "ecs.d2evs.net",
+  "ip": "50.116.63.211",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.209.82",
+    "5": "4.30.176.210",
+    "6": "23.203.156.17",
+    "10": "50.116.63.211",
+    "11": "50.116.63.211"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBpzCCASygAwIBAgIBATAKBggqhkjOPQQDAjAuMRQwEgYDVQQKDAsyZGV2c2lu\nYWJveDEWMBQGA1UEAwwNZWNzLmQyZXZzLm5ldDAgFw0yMTEwMDcwNTQ4MjlaGA8y\nMDg5MTAyNTA5MDIzNlowLjEUMBIGA1UECgwLMmRldnNpbmFib3gxFjAUBgNVBAMM\nDWVjcy5kMmV2cy5uZXQwdjAQBgcqhkjOPQIBBgUrgQQAIgNiAASLKJ61WK/It8BY\nqWccfcYIMaR9EY1++d+7AdzRtuqOkyhSIINs4Fges5T8eXi36+MjKJSDv/akE3M+\nWU0T3e9ni15XBvuJz8ut1Mu3O6H08ysm5tAJsW9jgcRe0a+owPmjHDAaMBgGA1Ud\nEQQRMA+CDWVjcy5kMmV2cy5uZXQwCgYIKoZIzj0EAwIDaQAwZgIxAK+iDURKK0SU\nYhjqmgGrE1ermm6gN2fOsdMIc3RBmDdY06G1810ePBbEE/b4A4wgOQIxAOTZ9lwR\nYXhkxdfQ/prKIHeHZA/KMCT5JhLZS3YLtG9fjz1V6XaFS3RlXzNkhO+BFg==\n-----END CERTIFICATE-----\n"
+}

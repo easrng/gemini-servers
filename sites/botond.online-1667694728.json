@@ -1,0 +1,14 @@
+{
+  "server": "botond.online",
+  "ip": "199.247.22.10",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "5": "62.67.34.202",
+    "9": "199.247.22.10",
+    "10": "199.247.22.10"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBQzCB66ADAgECAgkA86WdSTJWnXMwCgYIKoZIzj0EAwIwGDEWMBQGA1UEAwwN\nYm90b25kLm9ubGluZTAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFow\nGDEWMBQGA1UEAwwNYm90b25kLm9ubGluZTBZMBMGByqGSM49AgEGCCqGSM49AwEH\nA0IABIC0F2zaxNYCSbaEYmOruPQyTYwsOEEbj+e+xCO4NbGj97eFcRgm+/hJQD7m\nFbFpdTwDamAzvdNEyzZy7QfzOU6jHDAaMBgGA1UdEQQRMA+CDWJvdG9uZC5vbmxp\nbmUwCgYIKoZIzj0EAwIDRwAwRAIgA/Tp0vgT0kqgbRPtgQkA3aTNcqEzds93wJcy\nwLnbRvkCIH6vHEG46iXf+JKb2n92bvrPW35Z/LMvPIoEEPTuKQaU\n-----END CERTIFICATE-----\n"
+}

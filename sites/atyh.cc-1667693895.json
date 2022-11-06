@@ -1,0 +1,19 @@
+{
+  "server": "atyh.cc",
+  "ip": "45.76.253.213",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.82.250",
+    "5": "154.54.7.158",
+    "6": "154.54.82.206",
+    "7": "38.140.47.10",
+    "8": "10.77.1.90",
+    "9": "10.77.0.90",
+    "11": "45.76.253.213",
+    "12": "45.76.253.213"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBKTCB0aADAgECAgEqMAoGCCqGSM49BAMCMBIxEDAOBgNVBAMMB2F0eWguY2Mw\nIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBIxEDAOBgNVBAMMB2F0\neWguY2MwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASxpbJ9c1dGzZV1K6SfXFdZ\noURfB9BWiS80EI3apt0Zt9iGWsoK7hpd/jBlXoNhriaXVjoH10tXTzhILUTXiaxS\noxYwFDASBgNVHREECzAJggdhdHloLmNjMAoGCCqGSM49BAMCA0cAMEQCIA7rFv5b\nTfSWPuAXOn5FjMlJI90tF4vRa7DAZ2PbZPA6AiBDDn1OAjgZitzS0j5waUEwSHSU\n2WBnzy34iAuAY0Mi1w==\n-----END CERTIFICATE-----\n"
+}

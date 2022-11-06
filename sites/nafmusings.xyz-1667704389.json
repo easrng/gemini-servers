@@ -1,0 +1,17 @@
+{
+  "server": "nafmusings.xyz",
+  "ip": "213.219.38.200",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.39.118",
+    "6": "154.54.60.254",
+    "7": "204.68.252.59",
+    "11": "213.219.38.200",
+    "12": "213.219.38.200"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBgTCCASigAwIBAgIQUqUGH7kIQzmabd2pa1KHEDAKBggqhkjOPQQDAjAZMRcw\nFQYDVQQDEw5uYWZtdXNpbmdzLnh5ejAgFw0yMjAyMjUxMzI1MzFaGA8yMTIyMDIw\nMTEzMjUzMVowGTEXMBUGA1UEAxMObmFmbXVzaW5ncy54eXowWTATBgcqhkjOPQIB\nBggqhkjOPQMBBwNCAAQc0uneRYqTTbfYRxpAOSb5OXpjMDUGOnymBgD1oaEcH5lB\nI4RNt02nSWBiffWsysoA1OH0J5HHr4eJXlpUwwUDo1AwTjAOBgNVHQ8BAf8EBAMC\nB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAZBgNVHREEEjAQ\ngg5uYWZtdXNpbmdzLnh5ejAKBggqhkjOPQQDAgNHADBEAiAZi9ky2/b+JskNU7cz\nRLcKDNxZ7l0XigjfxXqBfZS5dQIgQopIa7xif9k1ge5shzphY5d85ALI1ba9jdXO\nJgMRKiE=\n-----END CERTIFICATE-----\n"
+}

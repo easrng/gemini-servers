@@ -1,0 +1,21 @@
+{
+  "server": "sustance.net",
+  "ip": "104.245.33.223",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.44.169",
+    "6": "154.54.31.89",
+    "7": "154.54.42.97",
+    "8": "154.54.44.141",
+    "9": "154.54.43.150",
+    "10": "154.54.47.26",
+    "11": "38.104.134.122",
+    "13": "104.245.33.223",
+    "14": "104.245.33.223"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBPzCB56ADAgECAgh0DcKby/x0ETAKBggqhkjOPQQDAjAXMRUwEwYDVQQDDAxz\ndXN0YW5jZS5uZXQwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBcx\nFTATBgNVBAMMDHN1c3RhbmNlLm5ldDBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IA\nBHocTnqS5io2Qb6Gs5fR/Fq4ZIEX8mYKmqLocTtciIbGaPirRrTBf1ckTS3PuNRh\nPGWvF+jf/1zhbn8agTrgAJyjGzAZMBcGA1UdEQQQMA6CDHN1c3RhbmNlLm5ldDAK\nBggqhkjOPQQDAgNHADBEAiAeVf+j7TnBXTXkKJFXXPipxs/OmcyKMtKMFUQ40Sr9\nawIgbvWVKV6uxzWv2YCbxKxmYcZ2yO68Wd0pjp+Vi26Fw8E=\n-----END CERTIFICATE-----\n"
+}

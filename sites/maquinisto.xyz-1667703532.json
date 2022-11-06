@@ -1,0 +1,14 @@
+{
+  "server": "maquinisto.xyz",
+  "ip": "45.77.152.180",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "9": "45.77.152.180",
+    "10": "45.77.152.180",
+    "5": "65.59.14.18"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBRjCB7qADAgECAgkAyNR5jt0IXx0wCgYIKoZIzj0EAwIwGTEXMBUGA1UEAwwO\nbWFxdWluaXN0by54eXowIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBa\nMBkxFzAVBgNVBAMMDm1hcXVpbmlzdG8ueHl6MFkwEwYHKoZIzj0CAQYIKoZIzj0D\nAQcDQgAEKz6PjUkT1f+ywN/Sktgh39yHZhxA10rtGkNnNoPwYTwnmLy62MM5lbSw\nhwDX/sLtz9k+WPMaoUid0ROeXlm1w6MdMBswGQYDVR0RBBIwEIIObWFxdWluaXN0\nby54eXowCgYIKoZIzj0EAwIDRwAwRAIgLITqCstU6WrREDVGH2e1p/bzIBJLJCgg\nZ53A50WpahACIBGaSvbswi2wS9xjNLrV2/Ki90AL7qzaJ6kTBEI2DxWj\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,18 @@
+{
+  "server": "frrobert.net",
+  "ip": "75.60.146.161",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.6.221",
+    "5": "154.54.45.18",
+    "6": "154.54.12.86",
+    "9": "32.130.19.249",
+    "10": "75.52.16.31",
+    "11": "75.60.146.161",
+    "12": "75.60.146.161"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBgjCCASmgAwIBAgIUVoTpdvoFk8VpvmPRY5pGdQQbYZowCgYIKoZIzj0EAwIw\nFzEVMBMGA1UEAwwMZnJyb2JlcnQubmV0MB4XDTIxMDIxNDE5MzYzMVoXDTMxMDIx\nMjE5MzYzMVowFzEVMBMGA1UEAwwMZnJyb2JlcnQubmV0MFkwEwYHKoZIzj0CAQYI\nKoZIzj0DAQcDQgAEFoBkiiihEgl4SgqSjRRaKRRt8Jx07Gfc8+yW1K5bNOnXgYKw\nZhCyad5wM+Epy3iSUCiNYJDBmxmt0Rhb3kCScqNTMFEwHQYDVR0OBBYEFPf6nmrm\nJmORwkh1CXZAT2pa38xaMB8GA1UdIwQYMBaAFPf6nmrmJmORwkh1CXZAT2pa38xa\nMA8GA1UdEwEB/wQFMAMBAf8wCgYIKoZIzj0EAwIDRwAwRAIgO1bqIBhnWyZELxAe\nLxAevYn5InA/NH64CQ1+aXB0E3sCICrASIa91cDSRipF3Vf1pkQNd6i1QodcpGAU\n0L6WGUP/\n-----END CERTIFICATE-----\n"
+}

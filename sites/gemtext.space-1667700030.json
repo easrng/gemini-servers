@@ -1,0 +1,21 @@
+{
+  "server": "gemtext.space",
+  "ip": "104.245.33.223",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.44.169",
+    "6": "154.54.31.89",
+    "7": "154.54.42.97",
+    "8": "154.54.44.141",
+    "9": "154.54.43.150",
+    "10": "154.54.47.26",
+    "11": "38.104.134.122",
+    "13": "104.245.33.223",
+    "14": "104.245.33.223"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBRDCB66ADAgECAgkAxu0sShpSynUwCgYIKoZIzj0EAwIwGDEWMBQGA1UEAwwN\nZ2VtdGV4dC5zcGFjZTAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFow\nGDEWMBQGA1UEAwwNZ2VtdGV4dC5zcGFjZTBZMBMGByqGSM49AgEGCCqGSM49AwEH\nA0IABGyMsEBD8qBmxgAfXEdrxcxHFp05bC+Vmt3r0+kh5biRZKyX2PEkBes4RR9B\nbQFW2KCJyJKyKxn/71zX35db3lmjHDAaMBgGA1UdEQQRMA+CDWdlbXRleHQuc3Bh\nY2UwCgYIKoZIzj0EAwIDSAAwRQIgW4q+nPZfpVCGQV626hB+SXX1cFVYp3NM6nuc\n1wIhObMCIQDf3ZWfDXGa9lBTxQQer92dsm7u3lHAMVip5Ny9L67VVA==\n-----END CERTIFICATE-----\n"
+}

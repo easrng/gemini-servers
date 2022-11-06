@@ -1,0 +1,23 @@
+{
+  "server": "regrow.earth",
+  "ip": "176.9.44.231",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.161",
+    "5": "154.54.77.245",
+    "6": "130.117.0.122",
+    "7": "154.54.36.54",
+    "8": "154.54.58.194",
+    "9": "154.25.14.46",
+    "10": "149.6.158.186",
+    "11": "213.239.245.10",
+    "12": "213.239.229.94",
+    "13": "176.9.44.231",
+    "14": "176.9.44.231",
+    "15": "176.9.44.231"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBpDCCASugAwIBAgIBATAKBggqhkjOPQQDAjAuMRUwEwYDVQQKDAxSZWdyb3cu\nRWFydGgxFTATBgNVBAMMDHJlZ3Jvdy5lYXJ0aDAgFw0yMTA2MTYxODI3NTdaGA8y\nMDg5MDcwNDIxNDIwNFowLjEVMBMGA1UECgwMUmVncm93LkVhcnRoMRUwEwYDVQQD\nDAxyZWdyb3cuZWFydGgwdjAQBgcqhkjOPQIBBgUrgQQAIgNiAARdUMET6we6d6ps\nZOoUKkuDpoCUjnZBTgLFyTFzl8rVcS4xbfpErekCrh7ihToufWZqHWwwGFn8c+eG\nLXcdhT2xG9eocAcLL1J3uD2Ux6jWJWWWh+WHp9w6+s8hcrmU4AujGzAZMBcGA1Ud\nEQQQMA6CDHJlZ3Jvdy5lYXJ0aDAKBggqhkjOPQQDAgNnADBkAjAGjVZxoUTvxtWg\nR8wmfmKit9z/LeXWC9ZOpbRl8BKWkb4oz9pyMRDt7YGGMA47Q4gCMGwkj9OUFSzI\n0qytMgFC7E5ADAU0ORKu8cKJFSXfUbsDP+S4x7eA/nebCZK5jSyvoA==\n-----END CERTIFICATE-----\n"
+}

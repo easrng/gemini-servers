@@ -1,0 +1,15 @@
+{
+  "server": "seirdy.one",
+  "ip": "143.110.224.186",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.219.65",
+    "5": "4.7.18.10",
+    "9": "143.110.224.186",
+    "10": "143.110.224.186"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBMzCB2qADAgECAgEqMAoGCCqGSM49BAMCMBUxEzARBgNVBAMMCnNlaXJkeS5v\nbmUwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBUxEzARBgNVBAMM\nCnNlaXJkeS5vbmUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASN1xwLuNDnlkfA\nued/B3WCBEMuDnSG8qIkx1wPT9v0lz+i82NgiDhH8k2Idg5w3bA+WTIWPqBuLkUX\nq0lrVBrcoxkwFzAVBgNVHREEDjAMggpzZWlyZHkub25lMAoGCCqGSM49BAMCA0gA\nMEUCID20iO8W5jEPp5TCauxPVmEM975xpbKXB8YZJ9y9uUkqAiEAjyS5GnRGwNME\nWWSWgOs5LhFlFl0dEwRWKzMrgFGmYmw=\n-----END CERTIFICATE-----\n"
+}

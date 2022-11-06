@@ -1,0 +1,18 @@
+{
+  "server": "azq.geminet.org",
+  "ip": "193.46.243.69",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.161",
+    "5": "154.54.77.245",
+    "6": "130.117.2.241",
+    "7": "130.117.48.62",
+    "8": "149.6.139.226",
+    "9": "193.46.243.69",
+    "10": "193.46.243.69"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBrjCCATSgAwIBAgIBATAKBggqhkjOPQQDAjAxMRUwEwYDVQQKDAxnbW5pc3J2\nIHVzZXIxGDAWBgNVBAMMD2F6cS5nZW1pbmV0Lm9yZzAgFw0yMjA4MjAxNjU4MzZa\nGA8yMjIyMDcwMzE2NTgzNlowMTEVMBMGA1UECgwMZ21uaXNydiB1c2VyMRgwFgYD\nVQQDDA9henEuZ2VtaW5ldC5vcmcwdjAQBgcqhkjOPQIBBgUrgQQAIgNiAAQPC4bZ\nRlW9ninH1nupQeM8jVb0bCAdMK2J3Ga1zpqB1lxtUWD1cdXNwGnJDSc+5o/E4hxE\nEK5UVDKAV0sJnGIWPyE2sNesiV/yFL9h1/Qw9WBy8TlsMx9fy9nwpmwjjLqjHjAc\nMBoGA1UdEQQTMBGCD2F6cS5nZW1pbmV0Lm9yZzAKBggqhkjOPQQDAgNoADBlAjBn\nPWhRnOsZnOVCycxM2OMdSe8c1w8enfuSLKbdaNAs9ZOPysuerAI4/BsDuX88a3oC\nMQCpnPP16OtqMi+JmDubMWDk9a7vAcoMpIOOOqVPpOjOxcEajxdDpwkPBvnJqJFG\nSu0=\n-----END CERTIFICATE-----\n"
+}

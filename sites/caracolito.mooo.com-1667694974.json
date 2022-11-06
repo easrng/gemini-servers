@@ -1,0 +1,26 @@
+{
+  "server": "caracolito.mooo.com",
+  "ip": "216.238.66.109",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.44.169",
+    "6": "154.54.3.213",
+    "7": "154.54.44.229",
+    "8": "154.54.47.46",
+    "9": "154.54.85.186",
+    "10": "38.104.249.138",
+    "11": "148.243.141.178",
+    "12": "189.206.11.142",
+    "13": "201.151.24.86",
+    "14": "189.206.187.149",
+    "15": "189.206.3.194",
+    "16": "201.149.97.50",
+    "20": "216.238.66.109",
+    "21": "216.238.66.109"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIB1TCCAXugAwIBAgIUGL2rUW9e8pIi8j/u6p6A5leVcQMwCgYIKoZIzj0EAwIw\nHjEcMBoGA1UEAwwTY2FyYWNvbGl0by5tb29vLmNvbTAeFw0yMTEyMTEwMTMxMjla\nFw0yNjEyMTAwMTMxMjlaMB4xHDAaBgNVBAMME2NhcmFjb2xpdG8ubW9vby5jb20w\nWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQ7vv61vMZwFSkBUXVGLn7CSL9P+Leb\nevTLI8rdhQ+zCp5sRoBT4FzkLjrpMqgANN1K6QwqOpEwVcmdSW6+/Mfqo4GWMIGT\nMB0GA1UdDgQWBBTL5aX8BdVE1kxl5ybm4RrmFvoEhjAfBgNVHSMEGDAWgBTL5aX8\nBdVE1kxl5ybm4RrmFvoEhjAPBgNVHRMBAf8EBTADAQH/MEAGA1UdEQQ5MDeCE2Nh\ncmFjb2xpdG8ubW9vby5jb22CD2NvbXB1ZGFuemFzLm5ldIIPcGFjaGFwdW5rLnNw\nYWNlMAoGCCqGSM49BAMCA0gAMEUCIQCowFBjF0V7fOELUNOaTxcFDB8ZwTyIQlk7\neBwdNdO5QwIgOUGXJi141yAO2G5KkNGY20gVFrCQc5K2maSzwwrsTs4=\n-----END CERTIFICATE-----\n"
+}

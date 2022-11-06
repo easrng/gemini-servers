@@ -1,0 +1,18 @@
+{
+  "server": "gemini.nanao.moe",
+  "ip": "65.108.0.215",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.161.98",
+    "5": "212.133.6.2",
+    "6": "213.239.224.26",
+    "7": "213.239.252.198",
+    "8": "65.108.0.215",
+    "9": "65.108.0.215",
+    "10": "65.108.0.215"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIFFzCCAv+gAwIBAgIUGKFu2maIl9EUkUg/mqRpVsoVkFEwDQYJKoZIhvcNAQEL\nBQAwGzEZMBcGA1UEAwwQZ2VtaW5pLm5hbmFvLm1vZTAeFw0yMTAxMDgwNzEyMTda\nFw0zMTAxMDYwNzEyMTdaMBsxGTAXBgNVBAMMEGdlbWluaS5uYW5hby5tb2UwggIi\nMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDLsnS9wmEkwv7/z6cCCcONNkBY\nlKRjy32i7QEW/Ru+5glPGX9wed2GibiHpYtFdF1hZjr8AJzouru531SjG9IO/yLN\nwayuWULCLuonxaD6lljDSxEtzPG+mhJ+5GEQ8JkWOoQo0LpS4kOvpA1TQfiGkgGw\n0ktekywdkBwmd2l6xifRK6pPan+7j4DpiTzBAfsh2jb3vQydG6NJrd/dObbvdgQr\nhi2iz/2J5dmO/FangEmGNnOQ2wW3Ps7EKo0bkwikt1JSagiAnVPqzWr83BWN431Q\ntBxtg6fz0zdIeHOsnOD5fpx8ytHlLhHutC7E8Bfd/c4fGLahhoWP0Dni/bSYAlcN\nvMG99FLZiANWMF9pp8+A5V2h6+oAE373wfJQrsm9a6PKjdFMzLg82fFa5yDPa5eX\ni7l6iZwzUYUA8Te5b/EiJh/RNHWvhMzCRvpq9j5FUzyHwh83n9ksXboVdJfDqRju\nas7WqhLtZvrFCVmBL49Yx6iG4YZtQdf/0shAqZ4ZenW3mHCYbXtQBt0nUkGaes+F\nJoUz7uaSqEWLnvCy+sHISzrkPHf7YNm+65CgSOTqviMNiVnnG6ZS0odMjW1bX05g\nGr4vWRbs6BWg6q5Kkh1jAMz6rDmjG/KCCacqhOn9ZLwAdp0S9k2wZ4TNc7x8WSfT\n0ml5GTd1lQ32eMHKIwIDAQABo1MwUTAdBgNVHQ4EFgQULBzEF/x7MLftv/ea33/h\nqofnaw0wHwYDVR0jBBgwFoAULBzEF/x7MLftv/ea33/hqofnaw0wDwYDVR0TAQH/\nBAUwAwEB/zANBgkqhkiG9w0BAQsFAAOCAgEAbdVa4ew0Zo//2n2allzUdaf7PKJV\n+rYfH+/hVEPkbhNjlxxIc48JAwu+qZ53RuJIHGbQjC7KqN38vyvz5rm0XoSERxUO\nXEnn8jfqrBpyLSizD70P83VyC3Qbpk0Jo2JCyc8y+s0vOc+ELh2ev0KZBGaNZjCU\nqouuVv7Csjz5H9xzoLVqoMapuxYwkexljkIcdW9PV4FpAaPMluxx68C8uCuAzjr3\nSNSYW8rYVi3RDnRLizcCVLFlBEYLosScMrFEDmoSbcVk2WJhuQffUojCgnN9+IMk\n74HQhy1BWqGgT9Id6rvG6bChgVEGyzV6fMTQCSkdtymixrgJtfR0lS9cjNUIpVEX\ni2Bv6F1jD53qhNoI/OAIqi2RtSO/SRUHaOG5blFIEENkiIYENrUjkTgxwUwkGmMz\n47dG/EAKzqKhl+VtdJJty7pZpCYplig67yuuluMjNxCprbxg5KVCj+dU+yXcd49F\n2vmZunfGtCUn++TzMPeV8aV19v0e+xT7ssCm6sSxuzGHa3o0cCLA99Xhakkjh/UQ\n9v69gwQJatgxxnUzNnnurp7wUUEvhR23bARX/eHXjGJN9zz9/bAk2GAGfdsABBER\nykGEA9bL7L7Vo7wBFRT4W0sbPU5kas2IbubYQJ8L6XpVMUawjAIaBIumTUqLwP8i\n4qPvCwgbtIKz+LQ=\n-----END CERTIFICATE-----\n"
+}

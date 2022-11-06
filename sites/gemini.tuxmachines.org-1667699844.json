@@ -1,0 +1,16 @@
+{
+  "server": "gemini.tuxmachines.org",
+  "ip": "204.197.160.2",
+  "route": {
+    "0": "170.39.230.241",
+    "3": "184.104.198.34",
+    "7": "184.105.222.13",
+    "8": "216.218.185.170",
+    "9": "74.117.199.2",
+    "10": "74.117.199.10",
+    "11": "204.197.160.2",
+    "2": "184.105.80.5",
+    "12": "204.197.160.2"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBxDCCAUmgAwIBAgIBATAKBggqhkjOPQQDAjA4MRUwEwYDVQQKDAxnbW5pc3J2\nIHVzZXIxHzAdBgNVBAMMFmdlbWluaS50dXhtYWNoaW5lcy5vcmcwIBcNMjIwODAx\nMDAzNTM2WhgPMjA5MDA4MTkwMzQ5NDNaMDgxFTATBgNVBAoMDGdtbmlzcnYgdXNl\ncjEfMB0GA1UEAwwWZ2VtaW5pLnR1eG1hY2hpbmVzLm9yZzB2MBAGByqGSM49AgEG\nBSuBBAAiA2IABJnxxYxbHgDiED2xfKCv9UZgKf3GAz5vUROzKZTZtpNk+wrtm+xU\njTpwxZYBnKFx805jp+W40VamGWPdyNq1imasrMNqsc10ehrRKiBldIrDhXd3H7e4\njRuZlqOZDqsUsKMlMCMwIQYDVR0RBBowGIIWZ2VtaW5pLnR1eG1hY2hpbmVzLm9y\nZzAKBggqhkjOPQQDAgNpADBmAjEAlUpt2nKyNSDhSo8OfNrae7KA7ZT1hnaEgzEa\ncaY+f0pfUb97s1204YLeb+WLrzsGAjEAozqpHpT4LJJoJIrvmgIaNxpfomoAcAzq\nGuFec9ZsIDFOQbVenQoCTRGzbGJqDtT5\n-----END CERTIFICATE-----\n"
+}

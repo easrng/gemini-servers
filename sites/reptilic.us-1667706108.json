@@ -1,0 +1,14 @@
+{
+  "server": "reptilic.us",
+  "ip": "159.65.232.231",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "5": "4.14.218.22",
+    "9": "159.65.232.231",
+    "10": "159.65.232.231"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIH2MIGpoAMCAQICASowBQYDK2VwMBYxFDASBgNVBAMMC3JlcHRpbGljLnVzMCAX\nDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAWMRQwEgYDVQQDDAtyZXB0\naWxpYy51czAqMAUGAytlcAMhAEDsAF/62+DukdsGMBqBvfLvlJUoH2oQnnF2tbOI\npbnLoxowGDAWBgNVHREEDzANggtyZXB0aWxpYy51czAFBgMrZXADQQD/lkhyRBjW\nGMnDISQTwx95Kk7dlXlTwMmk6qOogAoSbPWhi80B9oISaxTcRFAlKxapVifPcu0f\nJ84aoGoLmuwK\n-----END CERTIFICATE-----\n"
+}

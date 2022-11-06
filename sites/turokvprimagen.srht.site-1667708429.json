@@ -1,0 +1,18 @@
+{
+  "server": "turokvprimagen.srht.site",
+  "ip": "173.195.146.139",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.47.50",
+    "5": "154.54.3.142",
+    "6": "154.24.50.86",
+    "7": "38.104.111.122",
+    "8": "208.88.48.1",
+    "9": "173.195.146.139",
+    "10": "173.195.146.139"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBejCCAR+gAwIBAgIQcA9Y6fhymBfjvklE3r7oOjAKBggqhkjOPQQDAjAWMRQw\nEgYDVQQDDAsqLnNyaHQuc2l0ZTAgFw0yMTA0MTMxMzQzMTBaGA8yMTIxMDMyMDEz\nNDMxMFowFjEUMBIGA1UEAwwLKi5zcmh0LnNpdGUwWTATBgcqhkjOPQIBBggqhkjO\nPQMBBwNCAAT2Wv0R1dZMybGOL2U+cMqAbFUVzLIAUkgH0FQ66nNY1DbQg+R0pqF5\nso//AOFsYcfnVsfrUW+Z63TNHkEmfQBqo00wSzAOBgNVHQ8BAf8EBAMCB4AwEwYD\nVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAWBgNVHREEDzANggsqLnNy\naHQuc2l0ZTAKBggqhkjOPQQDAgNJADBGAiEA+6fGjRTDnYU+sJNF5ovDQQmCtt3/\nW7S8/BAQXrM6JaMCIQCGdBtd/Rt8TOVq/cRLEZ4r1qeKDkknQDGNabz4O4I+DA==\n-----END CERTIFICATE-----\n"
+}

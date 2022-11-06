@@ -1,0 +1,14 @@
+{
+  "server": "kayvr.com",
+  "ip": "157.245.83.36",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "5": "4.14.218.22",
+    "9": "157.245.83.36",
+    "10": "157.245.83.36"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBODCB36ADAgECAgkAxZ+lHJ0c9NswCgYIKoZIzj0EAwIwFDESMBAGA1UEAwwJ\na2F5dnIuY29tMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAUMRIw\nEAYDVQQDDAlrYXl2ci5jb20wWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAASFXeUJ\n47R3wQA/GklD4LSdraB5rXvBi1k+NxNV8xNJK+F5iNk0Pljj0AyrOOpJGkywr+Gx\nCI0jbELZjDqiW3NooxgwFjAUBgNVHREEDTALgglrYXl2ci5jb20wCgYIKoZIzj0E\nAwIDSAAwRQIgcxGmhnqpyaqaVgRyLATRyxGD1oEl3xzh0Xm/nriaKD0CIQDgJtuH\ngmCM/ocUV2GU7yShAKJyckYU6Lm9lfCihni+gQ==\n-----END CERTIFICATE-----\n"
+}

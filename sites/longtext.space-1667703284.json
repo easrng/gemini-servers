@@ -1,0 +1,21 @@
+{
+  "server": "longtext.space",
+  "ip": "104.245.33.223",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.44.169",
+    "6": "154.54.31.89",
+    "7": "154.54.42.97",
+    "8": "154.54.44.141",
+    "9": "154.54.43.150",
+    "10": "154.54.47.26",
+    "11": "38.104.134.122",
+    "13": "104.245.33.223",
+    "14": "104.245.33.223"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBSDCB7qADAgECAgkA3yohP7X6UxMwCgYIKoZIzj0EAwIwGTEXMBUGA1UEAwwO\nbG9uZ3RleHQuc3BhY2UwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBa\nMBkxFzAVBgNVBAMMDmxvbmd0ZXh0LnNwYWNlMFkwEwYHKoZIzj0CAQYIKoZIzj0D\nAQcDQgAEX2fRUkPqcBuyrXTe5B0bT6W+8f08OX6vWz9wog3VVepE1tW0bH/GaEPW\nbjKcWVgTeAchN0QF9GB+gGLdBi+klaMdMBswGQYDVR0RBBIwEIIObG9uZ3RleHQu\nc3BhY2UwCgYIKoZIzj0EAwIDSQAwRgIhALzvdnnUcTueB7yOoXZgi7k5PDoqXVDH\nUI7qP5O9S/fNAiEAmQzJsFHV5uvXy3Ed0wz9A+iudz1/FoOO9DXL6RumqwU=\n-----END CERTIFICATE-----\n"
+}

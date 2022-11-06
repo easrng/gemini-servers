@@ -1,0 +1,21 @@
+{
+  "server": "chronowerks.de",
+  "ip": "195.42.115.194",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.161",
+    "5": "154.54.77.245",
+    "6": "130.117.0.122",
+    "7": "154.54.56.190",
+    "8": "149.14.210.66",
+    "9": "212.224.104.15",
+    "10": "84.200.2.18",
+    "11": "195.42.114.180",
+    "12": "195.42.115.194",
+    "13": "195.42.115.194"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBrDCCATGgAwIBAgIBATAKBggqhkjOPQQDAjAwMRUwEwYDVQQKDAxnbW5pc3J2\nIHVzZXIxFzAVBgNVBAMMDmNocm9ub3dlcmtzLmRlMCAXDTIxMDYxMTE5MjIzNFoY\nDzIwODkwNjI5MjIzNjQxWjAwMRUwEwYDVQQKDAxnbW5pc3J2IHVzZXIxFzAVBgNV\nBAMMDmNocm9ub3dlcmtzLmRlMHYwEAYHKoZIzj0CAQYFK4EEACIDYgAERXZkU4sb\nKvtncCDqMb9EW/FKEsr8rwnNM1Ec4aoVxPOETodmcoFalqRYev/+EPJEnevNugpi\nQMoSUoDG8fuGdcP9lkBh4EklLGB8k6mPa3g6iyVnpCKvT3CyvQumNtnEox0wGzAZ\nBgNVHREEEjAQgg5jaHJvbm93ZXJrcy5kZTAKBggqhkjOPQQDAgNpADBmAjEAzX9z\nsqwsWFVL3RtB4itbiHkLSkpCLqVqnyi8d+MU6iiP6rEcK0tYK7WWyCgWQ9H2AjEA\nqk4UmJPd4T1OxJPPE8bqdZ2l2TV2Q3gFt+Wr2YnVvZbstg6VOs8cObDv9UaPMiTh\n-----END CERTIFICATE-----\n"
+}

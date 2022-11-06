@@ -1,0 +1,21 @@
+{
+  "server": "tanso.net",
+  "ip": "81.166.85.226",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.161",
+    "5": "154.54.77.245",
+    "6": "154.54.38.206",
+    "7": "154.54.73.74",
+    "8": "149.6.116.18",
+    "9": "213.167.114.140",
+    "10": "213.167.114.138",
+    "11": "81.166.85.226",
+    "12": "81.166.85.226",
+    "13": "81.166.85.226"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBODCB36ADAgECAgkAqCi7DAxLlzAwCgYIKoZIzj0EAwIwFDESMBAGA1UEAwwJ\ndGFuc28ubmV0MCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAUMRIw\nEAYDVQQDDAl0YW5zby5uZXQwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQXlQho\nffIgQ6/Oergf+xf+MxjZhtQ4ty7mA1tagyeYoAtOuhgUorfkt2fTA2e85t15x3o6\nOvDY2JeAYkyOtl+ooxgwFjAUBgNVHREEDTALggl0YW5zby5uZXQwCgYIKoZIzj0E\nAwIDSAAwRQIgC3ZTr0dXbbsVqoOWCFQV4qG3phDaq/7L3uqeRH5LRScCIQDMu2Px\nrXuPyvsE9yE1OCJNryIl5/rCRpAYEpxAE+7pHg==\n-----END CERTIFICATE-----\n"
+}

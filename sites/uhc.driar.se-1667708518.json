@@ -1,0 +1,26 @@
+{
+  "server": "uhc.driar.se",
+  "ip": "90.231.159.79",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "62.115.187.238",
+    "4": "62.115.117.229",
+    "5": "62.115.123.108",
+    "6": "80.91.254.90",
+    "7": "62.115.139.172",
+    "8": "62.115.125.249",
+    "9": "62.115.123.167",
+    "10": "81.228.88.149",
+    "11": "81.228.94.243",
+    "12": "81.228.77.103",
+    "13": "81.228.78.232",
+    "14": "195.67.223.113",
+    "15": "81.228.94.243",
+    "16": "90.231.159.79",
+    "17": "90.231.159.79",
+    "18": "90.231.159.79"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBLDCB1KADAgECAgEqMAoGCCqGSM49BAMCMBMxETAPBgNVBAMMCGRyaWFyLnNl\nMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjATMREwDwYDVQQDDAhk\ncmlhci5zZTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABBcSGNSAmuNYRyRjNJWz\nnSwYThKJSj71PHsRYjSqspZVgb9WgQ3inaRi2WCTf+GI9wh4NJQAt9iwZA4U+Xmh\nS5ujFzAVMBMGA1UdEQQMMAqCCGRyaWFyLnNlMAoGCCqGSM49BAMCA0cAMEQCIHyC\nQVc82vhZmzTfcOK3Vf5sZDiuCKNvBeD2ATCrtFS6AiBDzIO6WddrB4yK7Oj/X3il\nAgnftKvKnfXmnuAdYpzEog==\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,17 @@
+{
+  "server": "ttrpgs.com",
+  "ip": "109.93.92.153",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.167.94",
+    "5": "212.133.7.158",
+    "6": "212.200.5.35",
+    "8": "109.93.92.153",
+    "9": "109.93.92.153",
+    "10": "109.93.92.153"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBOjCB4qADAgECAgkAyoQ1+xxiEJgwCgYIKoZIzj0EAwIwFTETMBEGA1UEAwwK\ndHRycGdzLmNvbTAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFowFTET\nMBEGA1UEAwwKdHRycGdzLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABATR\n3PZPVaZWdF+uP3AzMT1nJMcaFnesviKlzuxN+9p0msDUWLyT4DVzK4Hw+StTq/Iy\n1MfAHaeEDdPCLzEKWa+jGTAXMBUGA1UdEQQOMAyCCnR0cnBncy5jb20wCgYIKoZI\nzj0EAwIDRwAwRAIgIWUntZJlOwS9//2gpaLCrlwQg9KpBEF1aJS0t8Y6vQECIBrY\nN998EQj9RpAC32KtVxP7S+Ukh0c2OkQj60jaqH02\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,20 @@
+{
+  "server": "gmi.torresjrjr.com",
+  "ip": "78.141.233.10",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.39.118",
+    "6": "154.54.60.13",
+    "7": "130.117.3.102",
+    "8": "149.6.146.66",
+    "9": "10.69.3.74",
+    "10": "10.69.2.50",
+    "12": "78.141.233.10",
+    "13": "78.141.233.10"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBtjCCAT2gAwIBAgIBATAKBggqhkjOPQQDAjA0MRUwEwYDVQQKDAxnbW5pc3J2\nIHVzZXIxGzAZBgNVBAMMEmdtaS50b3JyZXNqcmpyLmNvbTAgFw0yMTA4MTgwMTU0\nMDhaGA8yMDg5MDkwNTA1MDgxNVowNDEVMBMGA1UECgwMZ21uaXNydiB1c2VyMRsw\nGQYDVQQDDBJnbWkudG9ycmVzanJqci5jb20wdjAQBgcqhkjOPQIBBgUrgQQAIgNi\nAASbJdNLUI8CZ9T5eKYDWcXk0QCaFV0yQ1MP5z8H0YNl5+pq1nOrHe/MI0yqTpPb\nsuBJF6SupIQF1/xdIeoF5rZz5fRxr75FntKFg5QkLsDKNUAiFNsVQDN8NSaAocAU\ntwKjITAfMB0GA1UdEQQWMBSCEmdtaS50b3JyZXNqcmpyLmNvbTAKBggqhkjOPQQD\nAgNnADBkAjAbbfA33rptWRyjVwCjwhhtZymeQz7WnmoVDZerq7JKgPXIFGZZkeJY\ne9j8uPjWs54CMBsFUqCgizRwG6iOk2B27W7/urGEMwfeaz0KyTNfOoP/mbPJEYdZ\n+aZCOME9XE1lDA==\n-----END CERTIFICATE-----\n"
+}

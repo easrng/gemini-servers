@@ -1,0 +1,14 @@
+{
+  "server": "skayvr.com",
+  "ip": "157.245.83.36",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "5": "4.14.218.22",
+    "9": "157.245.83.36",
+    "10": "157.245.83.36"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBOzCB4aADAgECAggXX/P94rIJUzAKBggqhkjOPQQDAjAVMRMwEQYDVQQDDApz\na2F5dnIuY29tMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAVMRMw\nEQYDVQQDDApza2F5dnIuY29tMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEswZ/\nOY7JOQfy1esXX3wmKn0qSgjqho5k77rnSaQFIMVQDAqxmm+f/awOXIaeiC/ikWkO\n17N3predgxONCR4NHqMZMBcwFQYDVR0RBA4wDIIKc2theXZyLmNvbTAKBggqhkjO\nPQQDAgNJADBGAiEA36xjA98Yp5ArbIR/SOdtsq58/sRGZA6J4HgBK5RBhC4CIQDI\no7EtJRs0TUqHb7laj1kMJX86uFckdADhYgoJMo2E2Q==\n-----END CERTIFICATE-----\n"
+}

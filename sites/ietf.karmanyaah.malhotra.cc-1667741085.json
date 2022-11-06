@@ -1,0 +1,16 @@
+{
+  "server": "ietf.karmanyaah.malhotra.cc",
+  "ip": "158.101.117.110",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.82.250",
+    "5": "154.54.30.54",
+    "6": "140.91.197.25",
+    "7": "158.101.117.110",
+    "8": "158.101.117.110"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIB+DCCAX6gAwIBAgIBATAKBggqhkjOPQQDAjBQMSgwJgYDVQQKDB9nbW5pc3J2\nIGthcm1hbnlhYWhtLm1hbGhvdHJhLmNjMSQwIgYDVQQDDBtpZXRmLmthcm1hbnlh\nYWgubWFsaG90cmEuY2MwIBcNMjEwNzIwMjMwNTQ1WhgPMjA4OTA4MDgwMjE5NTJa\nMFAxKDAmBgNVBAoMH2dtbmlzcnYga2FybWFueWFhaG0ubWFsaG90cmEuY2MxJDAi\nBgNVBAMMG2lldGYua2FybWFueWFhaC5tYWxob3RyYS5jYzB2MBAGByqGSM49AgEG\nBSuBBAAiA2IABAeEHk+/x/JM7DmaLh1xhCyG57q78iHvAtuWmXJqfbxhd/ID8VQm\nCnGYJiw+RYoKa1MKcbvR+y2asPaKAxSxgIlbX4h0LjwK3LiGEmBkmAvhZx3PMjFo\n2MOcjKQzQSChyqMqMCgwJgYDVR0RBB8wHYIbaWV0Zi5rYXJtYW55YWFoLm1hbGhv\ndHJhLmNjMAoGCCqGSM49BAMCA2gAMGUCMQDYLie+ik39vIdmcrqap1KmhvRUekyh\nnDhqKRO19s/nC9A/yLKBtXmvgfEcB+fZoAICMD00yv5sz1upr/5F4lUUszitQyMX\nbO9rz5oV5Z7wOmiHlzCBvQ8uec3Bkx0Kw3vy+g==\n-----END CERTIFICATE-----\n"
+}

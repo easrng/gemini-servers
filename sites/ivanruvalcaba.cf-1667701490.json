@@ -1,0 +1,18 @@
+{
+  "server": "ivanruvalcaba.cf",
+  "ip": "173.195.146.139",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.47.50",
+    "5": "154.54.3.142",
+    "6": "154.24.50.86",
+    "7": "38.104.111.122",
+    "8": "208.88.48.1",
+    "9": "173.195.146.139",
+    "10": "173.195.146.139"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBZDCCAQqgAwIBAgIQI4XgH1wf1SQ8bbQPlnXBjTAKBggqhkjOPQQDAjAPMQ0w\nCwYDVQQDDAQqLmNmMCAXDTIxMDQxMzEzMzEwOFoYDzIxMjEwMzIwMTMzMTA4WjAP\nMQ0wCwYDVQQDDAQqLmNmMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4/qblT9q\nugDQWVXjiQAnYaZ0g9jsIjf9UxXiaYtuHnzC8PkcQwxLUokcsdpPDP5J09gqguHc\nQbezcxM2j+tTj6NGMEQwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUF\nBwMBMAwGA1UdEwEB/wQCMAAwDwYDVR0RBAgwBoIEKi5jZjAKBggqhkjOPQQDAgNI\nADBFAiEA3Vs3YI5bk3uam8S7eLbUtJGIP2/rRAqqUTEfbD5nJGoCICd9hH2osMbQ\nFG6a2zn68urwzAjpsMi0lBdJ9XY4yINX\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,21 @@
+{
+  "server": "darkrtfm.duckdns.org",
+  "ip": "149.200.116.179",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.82.254",
+    "5": "154.54.3.126",
+    "6": "80.156.162.241",
+    "7": "217.239.46.86",
+    "8": "80.157.206.193",
+    "9": "81.183.3.158",
+    "10": "84.1.69.65",
+    "11": "149.200.116.179",
+    "12": "149.200.116.179",
+    "13": "149.200.116.179"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBVzCB/6ADAgECAggN5cs49eMu6DAKBggqhkjOPQQDAjAfMR0wGwYDVQQDDBRk\nYXJrcnRmbS5kdWNrZG5zLm9yZzAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAw\nMDAwMFowHzEdMBsGA1UEAwwUZGFya3J0Zm0uZHVja2Rucy5vcmcwWTATBgcqhkjO\nPQIBBggqhkjOPQMBBwNCAATngbAARFeYkuQbX5lfihR3yLCAkEmFBwH9C8eHffW1\n9zTKVTabmcSm61WMpwm7yGoQEpnehHRaGmb56m+f9fkvoyMwITAfBgNVHREEGDAW\nghRkYXJrcnRmbS5kdWNrZG5zLm9yZzAKBggqhkjOPQQDAgNHADBEAiA8XqmvqOaS\nVjvnkYm+XbiAArmwkqxgcKHt9B0g/ZEikwIgGEx9dPAIfngIsYV1NTTAVi6B+4GU\nDEq1PCuZAvDeM8I=\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,18 @@
+{
+  "server": "pennywhether.xyz",
+  "ip": "128.199.51.219",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "62.115.187.238",
+    "4": "62.115.117.229",
+    "5": "62.115.123.108",
+    "6": "62.115.113.21",
+    "7": "62.115.117.193",
+    "8": "62.115.44.250",
+    "14": "128.199.51.219",
+    "15": "128.199.51.219"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBizCCATGgAwIBAgIUC7cqlOVt72rWJk5173RfjQMbVAAwCgYIKoZIzj0EAwIw\nGzEZMBcGA1UEAwwQcGVubnl3aGV0aGVyLnh5ejAeFw0yMTAzMDkwNjA2MTRaFw0z\nMTAzMDcwNjA2MTRaMBsxGTAXBgNVBAMMEHBlbm55d2hldGhlci54eXowWTATBgcq\nhkjOPQIBBggqhkjOPQMBBwNCAAT7LcnqGRoXi2cI8ywRaHFsuz1ONDN4d6plsxv5\n7g9rfGX89ytw+vM04VLHXl7yIK6690g4SqjldbOiD1gxRtkIo1MwUTAdBgNVHQ4E\nFgQU1rSESIo+IPxRtYZpO/nzSqkbrskwHwYDVR0jBBgwFoAU1rSESIo+IPxRtYZp\nO/nzSqkbrskwDwYDVR0TAQH/BAUwAwEB/zAKBggqhkjOPQQDAgNIADBFAiB+ySmn\ns1PDVATUU/qxUfOoTe9aknXJq2MMqzKDc5rECQIhAPAqbRp5jwcyXOMoifb+mp4/\npPNhAY9WP7wfWqBaaNPv\n-----END CERTIFICATE-----\n"
+}

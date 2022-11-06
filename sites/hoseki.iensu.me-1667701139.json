@@ -1,0 +1,18 @@
+{
+  "server": "hoseki.iensu.me",
+  "ip": "173.195.146.139",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.47.50",
+    "5": "154.54.3.142",
+    "6": "154.24.50.86",
+    "7": "38.104.111.122",
+    "8": "208.88.48.1",
+    "9": "173.195.146.139",
+    "10": "173.195.146.139"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBdjCCARygAwIBAgIQIcB5usd+uJL+DR8pCtJy1zAKBggqhkjOPQQDAjAVMRMw\nEQYDVQQDDAoqLmllbnN1Lm1lMCAXDTIxMTIxMTEzMDQxNVoYDzIxMjExMTE3MTMw\nNDE1WjAVMRMwEQYDVQQDDAoqLmllbnN1Lm1lMFkwEwYHKoZIzj0CAQYIKoZIzj0D\nAQcDQgAEIvftTG4r/I7uQlugo7kMRBAvDLjnX9fp9fG/TctHt/3HSx/J7prtIr37\nNQQqdntv55wzSWPZ5WoJjmjBKPfIw6NMMEowDgYDVR0PAQH/BAQDAgeAMBMGA1Ud\nJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwFQYDVR0RBA4wDIIKKi5pZW5z\ndS5tZTAKBggqhkjOPQQDAgNIADBFAiEAxt4fB6H3RY7Mbk4xkOIRiXoJQmQcIfmv\n4w7eHyzPZecCIFjDb8FaxiYmxdvgronduv0z8tfaLMSfKAxE+X6kfAp8\n-----END CERTIFICATE-----\n"
+}

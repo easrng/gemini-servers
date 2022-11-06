@@ -1,0 +1,14 @@
+{
+  "server": "tomasino.org",
+  "ip": "45.32.233.141",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "5": "213.19.196.242",
+    "9": "45.32.233.141",
+    "10": "45.32.233.141"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIDDzCCAfegAwIBAgIUDLMVmEluDBR9YiZI0EFKsIpp0wkwDQYJKoZIhvcNAQEL\nBQAwFzEVMBMGA1UEAwwMdG9tYXNpbm8ub3JnMB4XDTIwMDgwNjEyMDIxMFoXDTI1\nMDgwNTEyMDIxMFowFzEVMBMGA1UEAwwMdG9tYXNpbm8ub3JnMIIBIjANBgkqhkiG\n9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz3msFvUE8Z1B2measBr9vP3hqii+kqS9eqpd\nAYpRInUdCS2pd0rSyVF+bd1tDgHmAOy/yLHC3bxPOLnbpWxFuxkyZLvQkry5a9R8\nENg2OjTuxMixRbsZWzax/NNhOiM2G2KfuG5Nh44X88dieIZ/VGrKzHxgKJqMt7vj\nQftX1KkLP08E5pi8q8zsU51l/Eez8Y8b4/C9t9abAmYfGg3ia/F2fQRctFdutvJd\noYL1iztc9bNXKzbXCqlfN3LAb+F3BgLqIojBLtu+Gu5VoiK7u4af6WNeZz4QYSIC\nnifkmCauxibOqTDbFp8tVGJC1cllKs4IUtFEt4vkg+kjNUiIvwIDAQABo1MwUTAd\nBgNVHQ4EFgQU7OPi1+H5ag1XeYt16WemzbNN/kowHwYDVR0jBBgwFoAU7OPi1+H5\nag1XeYt16WemzbNN/kowDwYDVR0TAQH/BAUwAwEB/zANBgkqhkiG9w0BAQsFAAOC\nAQEAUZiiafJWfe3qB8xUNACoOCmEegvlK/F9U7nv3t76fiDehpH9plsBZCNyOy/5\nlTqatH7DhqVHWSJqJsVcPxdXoe8rYUTKYxYYx6w2ypbs+s750XNajjs+1pDlvnH1\n/xVdIjpBG9piSb6690TGCtpHg64VNg4pRxdBl6TueWuhNiSzEDV47NBp42BlxkLX\n+AjGHj1qpDGni1bP+5KfzDVrgcZ49U3lWiPUA2sH0OMvLvuRG8P2huS2jcAWjsmg\nr7WIUdagpobw/dpyz7X02kHCb8P7JKg5gm84dq5IXRc4+mUmip8sJKH0uBh/fi5X\n0/npQqo8rszbEJnt2EmEgXcasg==\n-----END CERTIFICATE-----\n"
+}

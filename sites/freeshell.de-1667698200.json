@@ -1,0 +1,23 @@
+{
+  "server": "freeshell.de",
+  "ip": "116.202.128.144",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.161",
+    "5": "154.54.77.245",
+    "7": "154.54.36.54",
+    "8": "154.54.58.194",
+    "9": "154.25.14.46",
+    "6": "130.117.0.122",
+    "10": "149.6.158.186",
+    "11": "213.239.245.10",
+    "12": "213.239.245.122",
+    "13": "116.202.128.144",
+    "14": "116.202.128.144",
+    "15": "116.202.128.144"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBOTCB4KADAgECAgEqMAoGCCqGSM49BAMCMBcxFTATBgNVBAMMDGZyZWVzaGVs\nbC5kZTAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFowFzEVMBMGA1UE\nAwwMZnJlZXNoZWxsLmRlMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/UqZ8PjT\nL0bVZrJh69mFIZsRlF1AfVhTIX+qBl9CjwiGivoeshB9TUP0aoQDgNgGC67D+ZGu\nOyCjshbfOdc446MbMBkwFwYDVR0RBBAwDoIMZnJlZXNoZWxsLmRlMAoGCCqGSM49\nBAMCA0gAMEUCIQCv8R9WqPCyqzaSGYGvpJ9d5tMJC0lPd53u1P5TqTIEgQIgWBD+\n4snFdwAzw47mSG+sr2zF+5rgDwR5CSZ6DIo9Olc=\n-----END CERTIFICATE-----\n"
+}

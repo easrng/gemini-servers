@@ -1,0 +1,21 @@
+{
+  "server": "groundctrl.earth",
+  "ip": "94.199.208.18",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.58.70",
+    "6": "130.117.0.142",
+    "7": "130.117.1.117",
+    "8": "130.117.50.222",
+    "9": "149.11.20.190",
+    "10": "193.31.52.18",
+    "11": "85.208.244.1",
+    "12": "94.199.208.18",
+    "13": "94.199.208.18"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIDizCCAnOgAwIBAgIEeakjjTANBgkqhkiG9w0BAQsFADB1MRAwDgYDVQQGEwdV\nbmtub3duMRAwDgYDVQQIEwdVbmtub3duMRAwDgYDVQQHEwdVbmtub3duMRAwDgYD\nVQQKEwdVbmtub3duMRAwDgYDVQQLEwdVbmtub3duMRkwFwYDVQQDExBncm91bmRj\ndHJsLmVhcnRoMCAXDTIxMTExNjIwNTEzN1oYDzIxMjExMDIzMjA1MTM3WjB1MRAw\nDgYDVQQGEwdVbmtub3duMRAwDgYDVQQIEwdVbmtub3duMRAwDgYDVQQHEwdVbmtu\nb3duMRAwDgYDVQQKEwdVbmtub3duMRAwDgYDVQQLEwdVbmtub3duMRkwFwYDVQQD\nExBncm91bmRjdHJsLmVhcnRoMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC\nAQEAoc3IQEgyntYO0LGMGw8YCTQFE02crciVFqEJRaBn1tIBC8aAXooDOqfefG6g\nsEJmVBkX9cOoRWGZGFlwhCm37d7fO79keTzh/FeA0wGP3gPRGZxMb1mfpn3Knh2N\nvy9nUnd0tgSCQgJ/cD5W5+yrGv3i9MYe7lST0VV1nlxgneogy+ViFk3xVhLMWQow\nPPdFeNEjtmBhi8Th//otdLcRJqZKeJ6rETNsrpVFTu6wZ5v1Sqa8LiGSokkEEz1g\nw4hDi5/DyWqE04zzbSxhvbU35rqbqwEsEX+7zsehIZYSOcc8Uk0UZB8EA+NjWADN\nkKG21kfc12H44hA5RapNvnyEJQIDAQABoyEwHzAdBgNVHQ4EFgQU94zNuGQAnGzO\npc+1rGCQ2k3oH90wDQYJKoZIhvcNAQELBQADggEBABWdrSi3wGl1GTTCtwef+KW6\nBs7u+N23VM0dzlTzHo/a4tpWuvJmVH2iuiYavb+8G+y8yKMC7AszoT2/yS3BGpZe\nWeO10Y9kIxDI+j2Po82TBdvpyzRyIB1EENHmGU+xSNTOoPyDs7FnM0c2X+iuqY62\nliPygNATRxpnpROXM7d2MqfGfWGijcwvi6shRSxFXImWxXUrN3/DpEAAS1MQ09DO\n8wj+neENHOJ+Ehtvw3gzJi4+JEoN8oeIuCBAOvPIuMCo/H2WvRH55PTpiQ2n64LY\n/GMyyAGoaaOwWHYaY/jrVcxjpqOdNpHXJaB2J+VxfTaWEaYCXqMftdzKkmYLrxA=\n-----END CERTIFICATE-----\n"
+}

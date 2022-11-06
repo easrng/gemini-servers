@@ -1,0 +1,18 @@
+{
+  "server": "gemini.alexandrevicente.net",
+  "ip": "51.15.54.3",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.161",
+    "5": "154.54.77.245",
+    "6": "154.54.58.202",
+    "7": "149.14.92.210",
+    "8": "51.158.8.170",
+    "13": "51.15.54.3",
+    "14": "51.15.54.3"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBZzCCAQ2gAwIBAgIBKjAKBggqhkjOPQQDAjAmMSQwIgYDVQQDDBtnZW1pbmku\nYWxleGFuZHJldmljZW50ZS5uZXQwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEw\nMDAwMDBaMCYxJDAiBgNVBAMMG2dlbWluaS5hbGV4YW5kcmV2aWNlbnRlLm5ldDBZ\nMBMGByqGSM49AgEGCCqGSM49AwEHA0IABFliyBb9i6xY9O2oI+z8/5fv1Z4aqhcD\nlSYR8MVkCpvdKnL73LrHVz73E1QO/BrfD/nC9s7+ob8hVYryrbrZs6SjKjAoMCYG\nA1UdEQQfMB2CG2dlbWluaS5hbGV4YW5kcmV2aWNlbnRlLm5ldDAKBggqhkjOPQQD\nAgNIADBFAiAcvC+Gh35w5PRSo7UEgvjZF2Mhz3QVOLRIIJkTuR+XPgIhANgo4SHf\nyj6ma446geRMQAL8zGTdAZ89CvJFLEgZjCUU\n-----END CERTIFICATE-----\n"
+}

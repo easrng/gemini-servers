@@ -1,0 +1,19 @@
+{
+  "server": "maxwelljensen.no",
+  "ip": "88.89.232.179",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.143.58",
+    "5": "213.242.108.54",
+    "6": "146.172.105.65",
+    "7": "146.172.14.130",
+    "8": "146.172.101.138",
+    "10": "88.89.232.179",
+    "11": "88.89.232.179",
+    "12": "88.89.232.179"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBSzCB86ADAgECAghgJ86wreyWFTAKBggqhkjOPQQDAjAbMRkwFwYDVQQDDBBt\nYXh3ZWxsamVuc2VuLm5vMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAw\nWjAbMRkwFwYDVQQDDBBtYXh3ZWxsamVuc2VuLm5vMFkwEwYHKoZIzj0CAQYIKoZI\nzj0DAQcDQgAEVcVknrgIpuyfv2UI+aEw2tJPEmwLvSF/TagiMF2KJyL6qS3Coicq\n80OaYq1QPBMWGv7MQcw4Idm980q9AGu67KMfMB0wGwYDVR0RBBQwEoIQbWF4d2Vs\nbGplbnNlbi5ubzAKBggqhkjOPQQDAgNHADBEAiA4J53XMveZiYUP2PvxBN+SAHog\nhbafiQE6yCoJs8myCQIgGMyTynT0QJ07Eb4+Bw3+bvu8nZjLRshC0bAOdNl7Cc4=\n-----END CERTIFICATE-----\n"
+}

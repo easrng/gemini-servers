@@ -1,0 +1,14 @@
+{
+  "server": "geminiquickst.art",
+  "ip": "104.131.36.101",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "5": "4.14.218.30",
+    "11": "104.131.36.101",
+    "12": "104.131.36.101"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBbDCCARKgAwIBAgIRAIaod6vmNZoBzjsFx2etY6QwCgYIKoZIzj0EAwIwHDEa\nMBgGA1UEAxMRZ2VtaW5pcXVpY2tzdC5hcnQwHhcNMjEwNDE1MTMxOTA4WhcNMzEw\nNDE1MTMxOTA4WjAcMRowGAYDVQQDExFnZW1pbmlxdWlja3N0LmFydDBZMBMGByqG\nSM49AgEGCCqGSM49AwEHA0IABFUeF0BQrV0DZ7EnBX3ExuaBQ1ltq2082AEiONWL\nV8co4n5NWIOk1syz/yqa+DwT82EGJiOYwi8WtzS06+U9WFSjNTAzMDEGA1UdEQQq\nMCiCEWdlbWluaXF1aWNrc3QuYXJ0ghMqLmdlbWluaXF1aWNrc3QuYXJ0MAoGCCqG\nSM49BAMCA0gAMEUCIQCFw1p5AcwzQl+9stnyKsc1mojXXZKk45EKojb5EfL0VgIg\nV3Urx2qf2apeiy/8huTptAwWebFNAclVSn25k+QAojo=\n-----END CERTIFICATE-----\n"
+}

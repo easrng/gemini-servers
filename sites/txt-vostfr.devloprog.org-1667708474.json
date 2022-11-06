@@ -1,0 +1,18 @@
+{
+  "server": "txt-vostfr.devloprog.org",
+  "ip": "95.216.37.188",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.161.98",
+    "5": "212.133.6.2",
+    "6": "213.239.224.26",
+    "7": "213.239.224.138",
+    "8": "95.216.37.188",
+    "9": "95.216.37.188",
+    "10": "95.216.37.188"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBXjCCAQSgAwIBAgIBKjAKBggqhkjOPQQDAjAjMSEwHwYDVQQDDBh0eHQtdm9z\ndGZyLmRldmxvcHJvZy5vcmcwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAw\nMDBaMCMxITAfBgNVBAMMGHR4dC12b3N0ZnIuZGV2bG9wcm9nLm9yZzBZMBMGByqG\nSM49AgEGCCqGSM49AwEHA0IABAK0GxALzFyrXYDDoJSJHu05Ew1qy8SkcvGPnIjZ\nAAQfpO+AyKWdYRRLRW9hAimIvt3Ui9m7qe6SmuFoO8tbHMmjJzAlMCMGA1UdEQQc\nMBqCGHR4dC12b3N0ZnIuZGV2bG9wcm9nLm9yZzAKBggqhkjOPQQDAgNIADBFAiBA\nx0bnE2LctE2RliS09JHZFYLgQadG9QJ4OeRA2Pyg4AIhANfkALK0gKMAU3haWKSb\nD/DWHBiyIpBp5xlMTRS49pL5\n-----END CERTIFICATE-----\n"
+}

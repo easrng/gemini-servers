@@ -1,0 +1,21 @@
+{
+  "server": "libreserver.org",
+  "ip": "86.149.248.228",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.82.254",
+    "5": "154.54.3.126",
+    "6": "154.54.10.170",
+    "7": "166.49.195.87",
+    "8": "166.49.209.133",
+    "9": "195.99.127.33",
+    "10": "195.99.127.225",
+    "13": "86.149.248.228",
+    "14": "86.149.248.228",
+    "15": "86.149.248.228"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBjDCCATGgAwIBAgIUD6eF3FLisPj71eNoRN1M0xI2GWwwCgYIKoZIzj0EAwIw\nGjEYMBYGA1UEAwwPbGlicmVzZXJ2ZXIub3JnMCAXDTIxMDkwNTIxNDAxNFoYDzIy\nOTUwNjIwMjE0MDE0WjAaMRgwFgYDVQQDDA9saWJyZXNlcnZlci5vcmcwWTATBgcq\nhkjOPQIBBggqhkjOPQMBBwNCAARcTquHbXVMN1V0AUCb+vDH0kCSuwUgGRzw6F4R\ndvwJCPtIK7FnLzQ0kTmMtB4Pbxgawda9UJvbxLbw0Z9Hf8cPo1MwUTAdBgNVHQ4E\nFgQUjqdlW1jL1uTxWiEhtAfjUtJZrn8wHwYDVR0jBBgwFoAUjqdlW1jL1uTxWiEh\ntAfjUtJZrn8wDwYDVR0TAQH/BAUwAwEB/zAKBggqhkjOPQQDAgNJADBGAiEAs4gi\nf1kOCZSnkfoIa8qr89h0LvXaTVx/eAOXYUCpPqACIQCCUwI0XKXGpaezQFdJoXRh\ncO8svfpqzoMB1qt0zMAaYw==\n-----END CERTIFICATE-----\n"
+}

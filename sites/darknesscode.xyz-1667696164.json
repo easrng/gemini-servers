@@ -1,0 +1,15 @@
+{
+  "server": "darknesscode.xyz",
+  "ip": "149.248.1.174",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.9.18",
+    "4": "89.149.141.125",
+    "5": "76.74.41.90",
+    "9": "149.248.1.174",
+    "10": "149.248.1.174"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBijCCATGgAwIBAgIUXfvSjSyh8hhsyMKWdpy0DekogKIwCgYIKoZIzj0EAwIw\nGzEZMBcGA1UEAwwQZGFya25lc3Njb2RlLnh5ejAeFw0yMTAyMDkyMDE1NTVaFw0y\nNjAyMDgyMDE1NTVaMBsxGTAXBgNVBAMMEGRhcmtuZXNzY29kZS54eXowWTATBgcq\nhkjOPQIBBggqhkjOPQMBBwNCAAQXvqjoWxsPRCwj6GrI0b7NOgcc4Yiu/OU9/7fe\nGDhmnLSWA+f6cPro/1GNA5O67B2IvAOyR0xYP/GgL1vrFXhjo1MwUTAdBgNVHQ4E\nFgQUxV5RhYv6SfM6RTh3UvYpB6YAlc0wHwYDVR0jBBgwFoAUxV5RhYv6SfM6RTh3\nUvYpB6YAlc0wDwYDVR0TAQH/BAUwAwEB/zAKBggqhkjOPQQDAgNHADBEAiB6B1YZ\nhfhKvCtztULNkgRKxQFIAFM3MSrGSa08fp9bLwIgIHfx5Vd3pPudYqR5Kx9M2sKw\nvHQ+8gdhJvSv6XN7Kcs=\n-----END CERTIFICATE-----\n"
+}

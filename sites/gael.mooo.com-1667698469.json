@@ -1,0 +1,22 @@
+{
+  "server": "gael.mooo.com",
+  "ip": "109.78.142.100",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.82.254",
+    "5": "154.54.30.66",
+    "6": "154.54.10.150",
+    "7": "195.2.30.26",
+    "8": "195.2.28.170",
+    "9": "195.2.8.93",
+    "10": "195.2.21.14",
+    "11": "89.19.73.30",
+    "12": "109.78.142.100",
+    "13": "109.78.142.100",
+    "14": "109.78.142.100"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBQzCB66ADAgECAgkA2GFqH1f0QqcwCgYIKoZIzj0EAwIwGDEWMBQGA1UEAwwN\nZ2FlbC5tb29vLmNvbTAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFow\nGDEWMBQGA1UEAwwNZ2FlbC5tb29vLmNvbTBZMBMGByqGSM49AgEGCCqGSM49AwEH\nA0IABG+HLvdLx5Ag0zNGmhKXH3aqLrvPp6/WlRU42jhZx/LW4cg+Rgr8LFnSFC9A\nSXob9yrStz01cF495BR2tGQf/F6jHDAaMBgGA1UdEQQRMA+CDWdhZWwubW9vby5j\nb20wCgYIKoZIzj0EAwIDRwAwRAIgOnUMw0IvtytUT64YUnq5Tg0i6A4hxpSHvFhc\nqJh6SjoCIG+NeqyBiUQUjEdkou+FRwWU2Tqq69MgdMV2NciK02d+\n-----END CERTIFICATE-----\n"
+}

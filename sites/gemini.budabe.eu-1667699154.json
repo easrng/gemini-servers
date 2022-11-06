@@ -1,0 +1,20 @@
+{
+  "server": "gemini.budabe.eu",
+  "ip": "144.76.173.138",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.58.70",
+    "7": "154.54.36.254",
+    "8": "154.54.59.194",
+    "9": "154.25.14.46",
+    "6": "130.117.0.142",
+    "10": "149.6.158.186",
+    "11": "213.239.245.10",
+    "12": "213.239.203.146"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBRDCB7KADAgECAgEqMAoGCCqGSM49BAMCMBsxGTAXBgNVBAMMEGdlbWluaS5i\ndWRhYmUuZXUwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAwMDBaMBsxGTAX\nBgNVBAMMEGdlbWluaS5idWRhYmUuZXUwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNC\nAAS6F8XbnyqPzT+VDQ5olZLMCpHVuk3fC0CcSbql2Jx2ZhGAeOfL+WOOy3LVptqy\nBzvHW9brWrVUx1p+0hiQl70fox8wHTAbBgNVHREEFDASghBnZW1pbmkuYnVkYWJl\nLmV1MAoGCCqGSM49BAMCA0cAMEQCIAWj2SoMrvYruhtJmP0LWm8VZ0+61k7UuiZg\nZ+qvvwEAAiB92Yy941Ml/JmFYoXRlSwJW4hJIQCb05GqmKhPDkFI3g==\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,25 @@
+{
+  "server": "schettler.net",
+  "ip": "116.203.184.243",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.161",
+    "5": "154.54.77.245",
+    "6": "130.117.0.122",
+    "7": "154.54.36.54",
+    "8": "154.54.58.194",
+    "9": "154.25.14.46",
+    "10": "149.6.158.186",
+    "11": "213.239.245.73",
+    "12": "213.133.112.66",
+    "13": "213.133.112.42",
+    "15": "195.201.66.226",
+    "16": "116.203.184.243",
+    "17": "116.203.184.243",
+    "18": "116.203.184.243"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBgzCCAQkCAQEwCgYIKoZIzj0EAwIwLzEVMBMGA1UECgwMZ21uaXNydiB1c2Vy\nMRYwFAYDVQQDDA1zY2hldHRsZXIubmV0MB4XDTIxMTIxMjIxNTExM1oXDTIyMTIx\nMjIxNTExM1owLzEVMBMGA1UECgwMZ21uaXNydiB1c2VyMRYwFAYDVQQDDA1zY2hl\ndHRsZXIubmV0MHYwEAYHKoZIzj0CAQYFK4EEACIDYgAEKImVC8q/el+Io3vOYKUR\nfme4tUibyFSO7SXIIPqO6Go3Xiru6Eybx8dRAPGfu8NS9y2tMisd6HuNFRZtLRqJ\npB+iJBpbXPFlubKEOlfOW+L0GzzItwAsIPLjZ0JoBAx6MAoGCCqGSM49BAMCA2gA\nMGUCMQD85iJmBn4ynn7yOwGueIzZeq2ZC0CgA9Ii1JW7GFJndB3qBPR91WUobWsM\nHDqWwNgCMAXELXIHqtpd04mbRqzDkvh1JwzVcxind/meK4+V30NqlpfEWXTSM7kV\nyrLl3EYyFA==\n-----END CERTIFICATE-----\n"
+}

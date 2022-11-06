@@ -1,0 +1,23 @@
+{
+  "server": "review.treeblue.space",
+  "ip": "221.140.233.82",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.6.221",
+    "5": "154.54.45.18",
+    "10": "208.214.140.182",
+    "11": "58.229.4.174",
+    "12": "211.178.182.194",
+    "13": "10.222.25.95",
+    "14": "10.72.253.127",
+    "15": "100.85.194.70",
+    "16": "100.85.10.190",
+    "18": "221.140.233.82",
+    "19": "221.140.233.82",
+    "20": "221.140.233.82"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBYDCCAQagAwIBAgIRAM9gFSXaaJrQc3F6UxAIPIowCgYIKoZIzj0EAwIwGTEX\nMBUGA1UEAxMOdHJlZWJsdWUuc3BhY2UwHhcNMjAxMTI0MTMyODQyWhcNMjUxMTI0\nMTMyODQyWjAZMRcwFQYDVQQDEw50cmVlYmx1ZS5zcGFjZTBZMBMGByqGSM49AgEG\nCCqGSM49AwEHA0IABN5thaqiSSPh+Yrs4oj3Ii8A+XzIHmYSKU0A7ZDOTyDvA+7S\n2dIH9/ERnIJH8i15AEksgFovrFgCdyKofax7ZdejLzAtMCsGA1UdEQQkMCKCDnRy\nZWVibHVlLnNwYWNlghAqLnRyZWVibHVlLnNwYWNlMAoGCCqGSM49BAMCA0gAMEUC\nIF6HTmHm4mU7PgzQaMY5te9VSKoszBli4thpryvAbilfAiEAvWZ9D/yY53uzZiyq\nWjh/o4PaqlBwCcB2GzHsRG6/pl4=\n-----END CERTIFICATE-----\n"
+}

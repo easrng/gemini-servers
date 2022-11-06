@@ -1,0 +1,17 @@
+{
+  "server": "malinfreeborn.com",
+  "ip": "109.93.92.153",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.167.94",
+    "5": "212.133.7.158",
+    "6": "212.200.5.35",
+    "8": "109.93.92.153",
+    "9": "109.93.92.153",
+    "10": "109.93.92.153"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBUDCB96ADAgECAgkAto0DWLimrBwwCgYIKoZIzj0EAwIwHDEaMBgGA1UEAwwR\nbWFsaW5mcmVlYm9ybi5jb20wIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAw\nMDBaMBwxGjAYBgNVBAMMEW1hbGluZnJlZWJvcm4uY29tMFkwEwYHKoZIzj0CAQYI\nKoZIzj0DAQcDQgAEp6kI8n0pvEFSRUWm6H08ypimMPRIMGcK1aHf0JBFi3PCVOnw\nLWswgMnaeYBDxNAb3DrazVWoVeT1tmyaJNkOIqMgMB4wHAYDVR0RBBUwE4IRbWFs\naW5mcmVlYm9ybi5jb20wCgYIKoZIzj0EAwIDSAAwRQIhAKrdalxBfzdXHBsax+iy\nZeATZ5yEAnXeg0J4Bj644+T3AiAlSnRgrVH0RffH+3+E7eIq1Itp5jqKPXhxFoel\nC/yqCw==\n-----END CERTIFICATE-----\n"
+}

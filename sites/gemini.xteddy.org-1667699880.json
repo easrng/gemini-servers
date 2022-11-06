@@ -1,0 +1,15 @@
+{
+  "server": "gemini.xteddy.org",
+  "ip": "138.68.150.200",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.143.246",
+    "5": "212.187.195.86",
+    "10": "138.68.150.200",
+    "11": "138.68.150.200"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBTzCB9qADAgECAggQVH0pE0FQiDAKBggqhkjOPQQDAjAcMRowGAYDVQQDDBFn\nZW1pbmkueHRlZGR5Lm9yZzAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAw\nMFowHDEaMBgGA1UEAwwRZ2VtaW5pLnh0ZWRkeS5vcmcwWTATBgcqhkjOPQIBBggq\nhkjOPQMBBwNCAAT1RJdrtzLFTKOHW4cTRt+BriCihzOsbRuKBXW/LNOP6wMoeec8\nFrx6ZRgBXyIW+xiJAMEAyIOg8IqE7Yy2wN0poyAwHjAcBgNVHREEFTATghFnZW1p\nbmkueHRlZGR5Lm9yZzAKBggqhkjOPQQDAgNIADBFAiEAzvDEke4GsVr5DyKFKvRE\nbdmK9rLHytOHVu9yKa9FW7wCIGXEuB6sQh9L5/WHEVO6SCjgXwM+zIcuySg79UnN\n18r8\n-----END CERTIFICATE-----\n"
+}

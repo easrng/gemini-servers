@@ -1,0 +1,18 @@
+{
+  "server": "xn--sz8hf6d.ws",
+  "ip": "135.181.162.99",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.161.98",
+    "5": "212.133.6.2",
+    "6": "213.239.224.38",
+    "7": "213.239.224.126",
+    "8": "135.181.162.99",
+    "9": "135.181.162.99",
+    "10": "135.181.162.99"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBYTCCAQagAwIBAgIRAJ9S+Il9pSylzCXCCvWWQPcwCgYIKoZIzj0EAwIwGTEX\nMBUGA1UEAxMOeG4tLXN6OGhmNmQud3MwHhcNMjEwNDE4MTkzNjMyWhcNMjYwNDE4\nMTkzNjMyWjAZMRcwFQYDVQQDEw54bi0tc3o4aGY2ZC53czBZMBMGByqGSM49AgEG\nCCqGSM49AwEHA0IABJaDGl97fn1twxFxEOYgujJ2Ybl6HBv6y/jUr9rHBW2u/XMg\nCjDiWHX79hrJj0sxTq4hLbnooSUFTQEa1Vky9MqjLzAtMCsGA1UdEQQkMCKCDnhu\nLS1zejhoZjZkLndzghAqLnhuLS1zejhoZjZkLndzMAoGCCqGSM49BAMCA0kAMEYC\nIQDoDw0XBevjaAbDXktwpdgY7CORWJM5L/CTCuc/vlSjeQIhAOTU+sxMt8qRXldg\nP/+N8ELUV0meZlZm9csB+i1iG880\n-----END CERTIFICATE-----\n"
+}

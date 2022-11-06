@@ -1,0 +1,28 @@
+{
+  "server": "blekksprut.net",
+  "ip": "150.95.157.68",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.6.221",
+    "5": "154.54.42.165",
+    "6": "154.54.5.89",
+    "7": "154.54.41.145",
+    "8": "154.54.44.137",
+    "9": "154.54.43.10",
+    "10": "38.88.224.178",
+    "11": "111.87.3.117",
+    "12": "106.187.13.45",
+    "13": "27.85.224.154",
+    "14": "125.29.26.58",
+    "15": "133.208.191.39",
+    "16": "133.208.55.218",
+    "17": "150.95.5.62",
+    "21": "150.95.157.68",
+    "22": "150.95.157.68",
+    "23": "150.95.157.68"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIC7jCCAdagAwIBAgIJAJ5MJXMDzYQ0MA0GCSqGSIb3DQEBCwUAMCYxCzAJBgNV\nBAYTAkpQMRcwFQYDVQQDDA5ibGVra3NwcnV0Lm5ldDAgFw0yMjAzMTcwNzAwNTJa\nGA83NDk4MDEwODA3MDA1MlowJjELMAkGA1UEBhMCSlAxFzAVBgNVBAMMDmJsZWtr\nc3BydXQubmV0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw5PkctPF\nVfS1Cm1oBchZ3pkkxsVfCFpL0duuFRZbxvGVWeBF5ZHOycDpWtAAGztdx7qp1/ze\nZAzBtAFK8QNIYctYKqzTnNvmcjnwGwN+KbcAgYJjB1HpaxZk7AvGT64l9KcUC0EP\nUOr8u3zRUMZyM8aqTmG4YGWuPyJhup5bhx5Teto4QC5QjzFaQfRonVBfsozbLeT/\nUO/mqln5iaP7VAI6CV3paxDNyCxE7FQouxEmfNVR71ws1sG2Jcpz7pXkZmxvTCOe\nSbe8w9oY8OLDtwKiXPT0KuM3do5Ij+pHKcQDJz/+IO75hXrAmMK90Tohl5V1rWSr\n4pzf8M48pA2HUQIDAQABox0wGzAZBgNVHREEEjAQgg5ibGVra3NwcnV0Lm5ldDAN\nBgkqhkiG9w0BAQsFAAOCAQEAIi4ubtZQMDzbBy5XJsjiDJ5vTByNJd25GSPlhqPc\nm/RzfgRdI2flJrXl3navrYoVGfd8CBG1UQTViRQj+uucjGFblQELp4onCkQv/FpN\n+g2KAjAFdclsH54UUdrxgKjcH94coHIGEFMj3PVm1gkHoU6nskDBvPBWRFzMiIni\nxo0W0fIqyOAdntVhxCwIR15vN1ofg3PuLPbU2LGruy8iQrHx1FIamLaU2il23iHJ\nxz0013hNKhMRS7Zr+JuBsqQeMVf8KWxJbrcyNwlDIp0bCFqPVKXvGSqQNK+XRWVc\nvTX++UytVEtVWQNVhmkDNCRlfVqCfP4ykIhHJTCEsYFsUw==\n-----END CERTIFICATE-----\n"
+}

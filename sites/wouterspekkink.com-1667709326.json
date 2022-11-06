@@ -1,0 +1,25 @@
+{
+  "server": "wouterspekkink.com",
+  "ip": "157.90.124.118",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.58.70",
+    "6": "130.117.0.142",
+    "7": "154.54.36.254",
+    "8": "154.54.59.194",
+    "9": "154.25.14.46",
+    "10": "149.6.158.186",
+    "11": "213.239.245.73",
+    "12": "213.239.239.122",
+    "13": "213.133.114.6",
+    "15": "168.119.218.7",
+    "16": "157.90.124.118",
+    "17": "157.90.124.118",
+    "18": "157.90.124.118"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBjjCCATWgAwIBAgIUEXKLD6raFbU+E8MzETBsU2IU9PYwCgYIKoZIzj0EAwIw\nHTEbMBkGA1UEAwwSd291dGVyc3Bla2tpbmsuY29tMB4XDTIxMDIwOTIwMjI1N1oX\nDTMxMDIwNzIwMjI1N1owHTEbMBkGA1UEAwwSd291dGVyc3Bla2tpbmsuY29tMFkw\nEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEvrfyGuRtip1Ckjb5VgRQHkjSY7QQmK49\nEYA3sLXK+60/IKWJe0PZLnbOLbrGV+NTJ9SzOpyDXRQIm27qFynzDaNTMFEwHQYD\nVR0OBBYEFJs3sq0AsysDv0ZPznTm2EFPCt7+MB8GA1UdIwQYMBaAFJs3sq0AsysD\nv0ZPznTm2EFPCt7+MA8GA1UdEwEB/wQFMAMBAf8wCgYIKoZIzj0EAwIDRwAwRAIg\nMsJY9SZcP2LTFtcTPRK3FcRsG0wvDlIA5niL7XSmrp4CIFnwB0bBV3mIOw/PzR8G\n6R9NQ+5c5LK4fuw+1nbvGiAp\n-----END CERTIFICATE-----\n"
+}

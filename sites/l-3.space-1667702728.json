@@ -1,0 +1,25 @@
+{
+  "server": "l-3.space",
+  "ip": "116.203.45.198",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.42.90",
+    "4": "154.54.44.161",
+    "5": "154.54.77.245",
+    "7": "154.54.36.54",
+    "8": "154.54.58.194",
+    "9": "154.25.14.46",
+    "10": "149.6.158.186",
+    "11": "213.239.245.73",
+    "12": "213.133.112.86",
+    "13": "213.133.112.110",
+    "15": "49.12.141.39",
+    "16": "116.203.45.198",
+    "17": "116.203.45.198",
+    "18": "116.203.45.198",
+    "6": "130.117.0.122"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBkjCCARigAwIBAgIBATAKBggqhkjOPQQDAjAmMRAwDgYDVQQKDAdnbW5pc3J2\nMRIwEAYDVQQDDAlsLTMuc3BhY2UwIBcNMjExMDA0MDEyNDQ1WhgPMjA4OTEwMjIw\nNDM4NTJaMCYxEDAOBgNVBAoMB2dtbmlzcnYxEjAQBgNVBAMMCWwtMy5zcGFjZTB2\nMBAGByqGSM49AgEGBSuBBAAiA2IABKb6y+zQF7sy2l4aXhxxgK5Kwo9QlTpSJWnO\nIk6sKf4SHoQk9JgZq8Hqrhbbx/ivyes024iHIb9Z/PH2zT9UwaBGEhKpDJgqqVwS\nuwCtU1w3BaCUoXJyNZazK1hw4tyjjqMYMBYwFAYDVR0RBA0wC4IJbC0zLnNwYWNl\nMAoGCCqGSM49BAMCA2gAMGUCMQDYk5YR/GTPyOdXiuSaV+t4Ho5Sk/hGlKJ2Wl0S\n1IL0Oj3gltuoB2iiZj+up4r/hg8CMEXAc4le9FwCbFXKZ9HbzVf9/Gln4dEKqFPp\nCIj9DNV1WKRdCDWQ/tx2NmysWjOWBQ==\n-----END CERTIFICATE-----\n"
+}

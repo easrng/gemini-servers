@@ -1,0 +1,14 @@
+{
+  "server": "anachronauts.club",
+  "ip": "165.227.110.157",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "5": "4.14.218.30",
+    "11": "165.227.110.157",
+    "12": "165.227.110.157"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBbDCCARGgAwIBAgIQL3WfE/F6nUhcmlFjKoB2BDAKBggqhkjOPQQDAjAcMRow\nGAYDVQQDExFhbmFjaHJvbmF1dHMuY2x1YjAeFw0yMTAxMjYwNDE3MzNaFw0yNjAx\nMjYwNDE3MzNaMBwxGjAYBgNVBAMTEWFuYWNocm9uYXV0cy5jbHViMFkwEwYHKoZI\nzj0CAQYIKoZIzj0DAQcDQgAE0MOdCPMENXf8hn8qUc1XDWMKLKa+tD/iW8gUxIkJ\nfN2mkqK1YSQ7HX/XJd74IC+B2Mo5XpmiVl3ZriAu9aGkk6M1MDMwMQYDVR0RBCow\nKIIRYW5hY2hyb25hdXRzLmNsdWKCEyouYW5hY2hyb25hdXRzLmNsdWIwCgYIKoZI\nzj0EAwIDSQAwRgIhANcZ6AmPiZ7Fb3lLulL4b41KaogcH8PuxS6lEeNqcgUmAiEA\no5sBeMQMMk5F6/yHeu4MS/qkT9JzZeL7cFxir0JM3uk=\n-----END CERTIFICATE-----\n"
+}

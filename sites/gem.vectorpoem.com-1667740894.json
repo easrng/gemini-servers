@@ -1,0 +1,22 @@
+{
+  "server": "gem.vectorpoem.com",
+  "ip": "173.230.145.243",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.44.169",
+    "6": "154.54.31.89",
+    "7": "154.54.42.97",
+    "8": "154.54.44.141",
+    "9": "154.54.43.150",
+    "10": "154.54.3.138",
+    "11": "38.142.11.154",
+    "12": "173.230.159.67",
+    "13": "173.230.145.243",
+    "14": "173.230.145.243"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBjzCCATWgAwIBAgIRAIEw3M2YLE+Cutb8z3Y8HacwCgYIKoZIzj0EAwIwHTEb\nMBkGA1UEAxMSZ2VtLnZlY3RvcnBvZW0uY29tMCAXDTIxMDEyNjA1NTEwMVoYDzIx\nMjEwMTAyMDU1MTAxWjAdMRswGQYDVQQDExJnZW0udmVjdG9ycG9lbS5jb20wWTAT\nBgcqhkjOPQIBBggqhkjOPQMBBwNCAAR3V5FBkUAYH5j7l4WtZT/s558+KpxymZin\ngKVS5ovdS2/tV2+dN9LC5lPHTp1HHG4f8RN2hlAZX0Hif5wgH//xo1QwUjAOBgNV\nHQ8BAf8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAd\nBgNVHREEFjAUghJnZW0udmVjdG9ycG9lbS5jb20wCgYIKoZIzj0EAwIDSAAwRQIh\nAJ2cZGyacuOXR9R1aQNPBCeIq5jiKSKKK/piee3qiIG3AiAIyXlb7sVfbjfoamDI\nJm/H2d3GKUcREO2JwN8hHHKriA==\n-----END CERTIFICATE-----\n"
+}

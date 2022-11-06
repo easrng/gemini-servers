@@ -1,0 +1,16 @@
+{
+  "server": "benaaron.dev",
+  "ip": "96.126.111.52",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.209.82",
+    "5": "4.30.176.210",
+    "6": "23.203.156.17",
+    "10": "96.126.111.52",
+    "11": "96.126.111.52"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBVTCB/KADAgECAgEqMAoGCCqGSM49BAMCMCUxIzAhBgNVBAMMGnN0YXJnYXpl\nciBzZWxmIHNpZ25lZCBjZXJ0MCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAw\nMDAwWjAlMSMwIQYDVQQDDBpzdGFyZ2F6ZXIgc2VsZiBzaWduZWQgY2VydDBZMBMG\nByqGSM49AgEGCCqGSM49AwEHA0IABFlxHiIAQHuoK6y0WTuTDX8Z1pqs+mzfp0aX\nlNaNWNOGoUNYFIYjaFr7gqONU99aebCpa51sDVqwJNrr3+/Gs8ejGzAZMBcGA1Ud\nEQQQMA6CDGJlbmFhcm9uLmRldjAKBggqhkjOPQQDAgNIADBFAiEA4vYZCWIAgu2m\nRqgsvReXUAGgovWdURkktVZsHOafswACIAbTlUSxB1JvogearXFarL5c+t5irFHA\nxCIZnhEnUfZE\n-----END CERTIFICATE-----\n"
+}

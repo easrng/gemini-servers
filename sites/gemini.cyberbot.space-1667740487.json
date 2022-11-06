@@ -1,0 +1,21 @@
+{
+  "server": "gemini.cyberbot.space",
+  "ip": "47.200.181.207",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.82.250",
+    "5": "154.54.7.158",
+    "6": "154.54.24.146",
+    "7": "154.54.88.226",
+    "8": "38.88.57.98",
+    "9": "45.52.201.154",
+    "10": "74.40.3.70",
+    "11": "172.99.50.183",
+    "12": "47.200.181.207",
+    "13": "47.200.181.207"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBxTCCAUqgAwIBAgIBATAKBggqhkjOPQQDAjA5MRcwFQYDVQQKDA5jeWJlcmJv\ndC5zcGFjZTEeMBwGA1UEAwwVZ2VtaW5pLmN5YmVyYm90LnNwYWNlMCAXDTIyMDMw\nMzE1MzMwM1oYDzIwOTAwMzIxMTg0NzEwWjA5MRcwFQYDVQQKDA5jeWJlcmJvdC5z\ncGFjZTEeMBwGA1UEAwwVZ2VtaW5pLmN5YmVyYm90LnNwYWNlMHYwEAYHKoZIzj0C\nAQYFK4EEACIDYgAEB2JPm9tB7Z3ze+0ksjhJElX9/4IDprznt860iLWqCXsUAZ7H\nz1mlHz/mFDtMlCFyabSc/I2E/+/ZCdJje5F7j5Lggf2eV10hEbJpfAZIu/SlU47G\nU9DN3D50PX0wHN5doyQwIjAgBgNVHREEGTAXghVnZW1pbmkuY3liZXJib3Quc3Bh\nY2UwCgYIKoZIzj0EAwIDaQAwZgIxAIhGX+/bEKrCxsF91WhmMLnpTV1amZUJdTZH\nzZsk3a4AfLrCrliGpqtT1IgpBvM4uQIxANDs2IY4bpU57ViapuONR8nPxvastUNl\ng/ycuayY2QY4y4i597QNfh1rDPe6mY6BrQ==\n-----END CERTIFICATE-----\n"
+}

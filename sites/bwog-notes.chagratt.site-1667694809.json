@@ -1,0 +1,19 @@
+{
+  "server": "bwog-notes.chagratt.site",
+  "ip": "95.217.18.142",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "4": "4.69.161.98",
+    "5": "212.133.6.2",
+    "6": "213.239.224.26",
+    "7": "88.198.245.254",
+    "9": "65.108.113.58",
+    "10": "95.217.18.142",
+    "11": "95.217.18.142",
+    "12": "95.217.18.142"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBizCCATGgAwIBAgIIJK+PNJYO8rswCgYIKoZIzj0EAwIwNzEhMB8GA1UEAwwY\nYndvZy1ub3Rlcy5jaGFncmF0dC5zaXRlMRIwEAYDVQQKDAlzdGFyZ2F6ZXIwHhcN\nMjIwMzE1MTgzNjAwWhcNMjcwMzE0MTgzNjAwWjA3MSEwHwYDVQQDDBhid29nLW5v\ndGVzLmNoYWdyYXR0LnNpdGUxEjAQBgNVBAoMCXN0YXJnYXplcjBZMBMGByqGSM49\nAgEGCCqGSM49AwEHA0IABFviYBd+KBuhKZvCOUQLe2JR0Xt3PDCdd4Ij60Ydr04a\nuSBcwg9L1gP+stpSDA+3WKKDZ5YyRv9Gd0A7EQ/BYO6jJzAlMCMGA1UdEQQcMBqC\nGGJ3b2ctbm90ZXMuY2hhZ3JhdHQuc2l0ZTAKBggqhkjOPQQDAgNIADBFAiEAmu4W\n8252bnudDrxrU/Hdc7Q+gEFjx38sL+UNpj55mhcCIAJ3cBFao6xMXLjWwOcqQYCP\nSCUf21titQPcTFzT/grO\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,25 @@
+{
+  "server": "warmedal.se",
+  "ip": "194.132.186.68",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.58.70",
+    "6": "154.54.38.210",
+    "7": "154.54.61.230",
+    "8": "154.54.61.242",
+    "9": "154.54.38.38",
+    "10": "149.11.77.98",
+    "11": "31.12.82.123",
+    "12": "31.12.80.135",
+    "13": "31.12.81.207",
+    "14": "31.12.81.33",
+    "15": "194.132.186.68",
+    "16": "194.132.186.68",
+    "17": "194.132.186.68"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBgzCCASmgAwIBAgIUKxjPuv+k5u94kV7wxtXkOZCSV4QwCgYIKoZIzj0EAwIw\nFjEUMBIGA1UEAwwLd2FybWVkYWwuc2UwIBcNMjAxMjE4MTIzNjAyWhgPMjEyMDEx\nMjQxMjM2MDJaMBYxFDASBgNVBAMMC3dhcm1lZGFsLnNlMFkwEwYHKoZIzj0CAQYI\nKoZIzj0DAQcDQgAEFwz+b47TyQdMybk9LmR6UKEq2hYIR2HwP91/lnJ/lwRpN9lx\nYBIi/iE6hMhtBGP9l2lpIoGeyha69+FcA1/ebqNTMFEwHQYDVR0OBBYEFEIQds0y\niIaSJpeuTdQkVkCOGRT6MB8GA1UdIwQYMBaAFEIQds0yiIaSJpeuTdQkVkCOGRT6\nMA8GA1UdEwEB/wQFMAMBAf8wCgYIKoZIzj0EAwIDSAAwRQIgTcAdPVzj+wt/PtSm\nk/SrZS7KsMgjRGNm14o0P4kCwywCIQCu/sGEDWI1HrvV3Kjp0F5ryT0p5EmLbore\nJGqVLXq9OA==\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,18 @@
+{
+  "server": "vath.click",
+  "ip": "188.166.104.65",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "62.115.187.238",
+    "4": "62.115.117.229",
+    "5": "62.115.123.108",
+    "6": "62.115.113.21",
+    "7": "62.115.117.193",
+    "8": "62.115.44.250",
+    "14": "188.166.104.65",
+    "15": "188.166.104.65"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBOzCB4aADAgECAggNEITEEMkC6DAKBggqhkjOPQQDAjAVMRMwEQYDVQQDDAp2\nYXRoLmNsaWNrMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAVMRMw\nEQYDVQQDDAp2YXRoLmNsaWNrMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEb7a+\n/GBwvNAMBMocriL6WECHmdSMuQzxlNVj+W11jbg/aQGu9t/dox5ZsIxpGw1QA4Fs\nUo5nGyLC4KPE35Hd2qMZMBcwFQYDVR0RBA4wDIIKdmF0aC5jbGljazAKBggqhkjO\nPQQDAgNJADBGAiEA5M7uiJnh64oZ6h2frf3rlfLYYis2HdnXQkY9Lb2swB8CIQDu\n/girtoUKBl2ZTV+KeRbxHNyCpVdfG0YLe9JgKIHkBA==\n-----END CERTIFICATE-----\n"
+}

@@ -1,0 +1,22 @@
+{
+  "server": "carcosa.net",
+  "ip": "76.213.113.84",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.46.178",
+    "7": "12.122.133.34",
+    "8": "12.122.28.206",
+    "10": "12.122.2.189",
+    "11": "12.122.30.89",
+    "12": "12.122.154.173",
+    "6": "154.54.12.86",
+    "17": "76.213.113.84",
+    "18": "76.213.113.84",
+    "9": "12.122.2.33"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBUjCB+qADAgECAhEA5CcxQ1N7FgspLf0cRcK06zAKBggqhkjOPQQDAjAWMRQw\nEgYDVQQDEwtjYXJjb3NhLm5ldDAeFw0yMTAxMjUxNjMzMjZaFw0yNjAxMjUxNjMz\nMjZaMBYxFDASBgNVBAMTC2NhcmNvc2EubmV0MFkwEwYHKoZIzj0CAQYIKoZIzj0D\nAQcDQgAEQWDkcw66S8O9JQZ9JQYEw+J0tuQBEHpjJl0BQhaSD17iRvlNCX6SWC+F\nTFr60QayOUkhqw2vk5NDZd/NFTaWxaMpMCcwJQYDVR0RBB4wHIILY2FyY29zYS5u\nZXSCDSouY2FyY29zYS5uZXQwCgYIKoZIzj0EAwIDRwAwRAIgcYsfaf/zddjNgou6\n8s15fu9vCw/JaezEt8ryZUOgOGICIGnGNYuHv8azt1zc864Rs67r+TO2nsJITume\nbTkoyzvT\n-----END CERTIFICATE-----\n"
+}

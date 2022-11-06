@@ -1,0 +1,14 @@
+{
+  "server": "deuchnord.fr",
+  "ip": "5.196.66.31",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "170.39.230.240",
+    "3": "192.99.146.163",
+    "4": "192.99.146.139",
+    "6": "213.251.128.64",
+    "10": "5.196.66.31",
+    "11": "5.196.66.31"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBQTCB6KADAgECAgkA2Kf0eLsq2vYwCgYIKoZIzj0EAwIwFzEVMBMGA1UEAwwM\nZGV1Y2hub3JkLmZyMCAXDTc1MDEwMTAwMDAwMFoYDzQwOTYwMTAxMDAwMDAwWjAX\nMRUwEwYDVQQDDAxkZXVjaG5vcmQuZnIwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNC\nAAQJ7cm29IMahEeepFEtR0tgmsmCF5hJCqDTR44M62KDwp1rDprXLmj/ooxd6+/T\nCPwOq7FvPwRVcTo7WU6ZkbvFoxswGTAXBgNVHREEEDAOggxkZXVjaG5vcmQuZnIw\nCgYIKoZIzj0EAwIDSAAwRQIgLa9bcPi9QixaSp5Ui8iUjVuYiv4B3SEFgvfOOa2M\ngScCIQDruD9ihfbtHu8TcT+Pqb9Nr6rU+tUqcVJ8JggEdIRfBg==\n-----END CERTIFICATE-----\n"
+}

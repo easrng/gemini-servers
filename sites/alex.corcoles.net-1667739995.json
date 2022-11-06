@@ -1,0 +1,23 @@
+{
+  "server": "alex.corcoles.net",
+  "ip": "88.198.34.84",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.41.206",
+    "4": "154.54.44.165",
+    "5": "154.54.58.70",
+    "6": "130.117.0.142",
+    "7": "154.54.36.254",
+    "8": "154.54.59.194",
+    "9": "154.25.14.46",
+    "10": "149.6.158.186",
+    "11": "213.239.245.77",
+    "12": "213.239.203.226",
+    "13": "88.198.34.84",
+    "14": "88.198.34.84",
+    "15": "88.198.34.84"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBUDCB96ADAgECAgkAvlkDDdMWNvcwCgYIKoZIzj0EAwIwHDEaMBgGA1UEAwwR\nYWxleC5jb3Jjb2xlcy5uZXQwIBcNNzUwMTAxMDAwMDAwWhgPNDA5NjAxMDEwMDAw\nMDBaMBwxGjAYBgNVBAMMEWFsZXguY29yY29sZXMubmV0MFkwEwYHKoZIzj0CAQYI\nKoZIzj0DAQcDQgAEW2LkrbIF8j1UpyJRrGQmYGF5iBwbo/VvTb1DKDlk7c3y8zOB\nGaop6epNKG1RjDG5OeSNoc8OUZS9phX0TtGGxqMgMB4wHAYDVR0RBBUwE4IRYWxl\neC5jb3Jjb2xlcy5uZXQwCgYIKoZIzj0EAwIDSAAwRQIgRLa1msPITJYu8/7RhBs9\nihJocQiCOwoaeAy+/R5rRbYCIQCgecycYsJZzK6/dYAZvvZRbgi1FlOAxsDum+6Q\nbBYQwg==\n-----END CERTIFICATE-----\n"
+}

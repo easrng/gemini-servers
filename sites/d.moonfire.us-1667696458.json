@@ -1,0 +1,14 @@
+{
+  "server": "d.moonfire.us",
+  "ip": "167.71.191.124",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "4.68.38.245",
+    "5": "4.14.218.30",
+    "11": "167.71.191.124",
+    "12": "167.71.191.124"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBRTCB66ADAgECAgkAlTbRBW6UkbwwCgYIKoZIzj0EAwIwGDEWMBQGA1UEAwwN\nZC5tb29uZmlyZS51czAgFw03NTAxMDEwMDAwMDBaGA80MDk2MDEwMTAwMDAwMFow\nGDEWMBQGA1UEAwwNZC5tb29uZmlyZS51czBZMBMGByqGSM49AgEGCCqGSM49AwEH\nA0IABM6mDfG/MfHxaLL+DcGZzc3FnFzxXE9Gw76rYQHu+NcVIjldl7GOQt1DlqDX\nadgqYP1e+Mgk+/Hnbp8ZG8NGrB2jHDAaMBgGA1UdEQQRMA+CDWQubW9vbmZpcmUu\ndXMwCgYIKoZIzj0EAwIDSQAwRgIhALFRR8SIaJVkhxDkNOSiMyjekwzSrkLbNL3M\n1QQmDILsAiEA+BzlvjViI7d9B8Bdc+qB/L6VGFGtkyyc+Mvi6oapQDE=\n-----END CERTIFICATE-----\n"
+}

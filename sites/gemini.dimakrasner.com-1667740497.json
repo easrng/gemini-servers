@@ -1,0 +1,18 @@
+{
+  "server": "gemini.dimakrasner.com",
+  "ip": "46.120.18.219",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.82.246",
+    "5": "154.54.80.2",
+    "6": "154.54.12.18",
+    "8": "80.231.62.58",
+    "9": "195.219.175.4",
+    "14": "176.230.241.72",
+    "7": "63.243.216.23"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBljCCARugAwIBAgIBATAKBggqhkjOPQQDAjAhMR8wHQYDVQQDDBZnZW1pbmku\nZGltYWtyYXNuZXIuY29tMCAXDTIyMDQxOTE2MTU1OVoYDzIwOTAwNTA3MTkzMDA2\nWjAhMR8wHQYDVQQDDBZnZW1pbmkuZGltYWtyYXNuZXIuY29tMHYwEAYHKoZIzj0C\nAQYFK4EEACIDYgAEDMAv5QKBybKA1572CJm5rNFALCMb6xB3O3kr3t2hR7aUamyN\n5BJ2GFw2j7eiLhEs5el58pEv68JxJX5Y93LGIXxa+oqJnMbyRU+gZYqKk+xwkAUw\nZ+bXAPfOUMIFll7YoyUwIzAhBgNVHREEGjAYghZnZW1pbmkuZGltYWtyYXNuZXIu\nY29tMAoGCCqGSM49BAMCA2kAMGYCMQCjjbEe67wujKy2oMBkJj42Klo/fEbmVjrd\nJ6QDBxzcyOgVZZiRxsqhYRHvyJI9hNUCMQDHFsSOfNArmhtTVsdElKM/tSK8b+vw\nR/VXroF2DmalhkGNqrmyCoQSJiKHwC0PKr0=\n-----END CERTIFICATE-----\n"
+}

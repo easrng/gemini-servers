@@ -1,0 +1,22 @@
+{
+  "server": "szczezuja.space",
+  "ip": "173.230.145.243",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.44.169",
+    "6": "154.54.31.89",
+    "7": "154.54.42.97",
+    "8": "154.54.44.141",
+    "9": "154.54.43.150",
+    "10": "154.54.3.138",
+    "11": "38.142.11.154",
+    "12": "173.230.159.67",
+    "13": "173.230.145.243",
+    "14": "173.230.145.243"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBhjCCASygAwIBAgIRAInzoA5uBvUBGf/geVhxIIAwCgYIKoZIzj0EAwIwGjEY\nMBYGA1UEAxMPc3pjemV6dWphLnNwYWNlMCAXDTIxMDUxOTIyMjAzOFoYDzIxMjEw\nNDI1MjIyMDM4WjAaMRgwFgYDVQQDEw9zemN6ZXp1amEuc3BhY2UwWTATBgcqhkjO\nPQIBBggqhkjOPQMBBwNCAATQ8BUkLMWjH/VSNzzeC5Ji/pKguznOXuKd9lPuo+xC\nHp4+szuEWigkKkfuu/jjPWdlCLkibDaCi6SduQMAz4hxo1EwTzAOBgNVHQ8BAf8E\nBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwEwDAYDVR0TAQH/BAIwADAaBgNVHREE\nEzARgg9zemN6ZXp1amEuc3BhY2UwCgYIKoZIzj0EAwIDSAAwRQIgEplIPiOOjrkg\nu1fp8u6k3YBzk9hXeQtt8p/A/Nt0b1kCIQDs0BzKv7zu7iwg4bqOGXsiN0RcL3bS\nFPIhZVbtJUxq0Q==\n-----END CERTIFICATE-----\n"
+}

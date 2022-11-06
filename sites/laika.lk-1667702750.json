@@ -1,0 +1,24 @@
+{
+  "server": "laika.lk",
+  "ip": "201.76.43.6",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "154.54.24.193",
+    "3": "154.54.31.233",
+    "4": "154.54.82.250",
+    "5": "154.54.30.54",
+    "6": "38.32.184.34",
+    "7": "68.142.82.3",
+    "8": "156.154.213.153",
+    "10": "156.154.225.0",
+    "11": "156.154.255.123",
+    "12": "179.188.31.4",
+    "13": "179.188.32.89",
+    "14": "179.188.8.124",
+    "15": "201.76.43.6",
+    "16": "201.76.43.6",
+    "17": "201.76.43.6"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIICsjCCAZqgAwIBAgIUT1ck3G/VwxPlYcqO0bbSShtA9QYwDQYJKoZIhvcNAQEL\nBQAwEzERMA8GA1UEAwwIbGFpa2EubGswHhcNMjIwNzE4MTQxODM2WhcNMjMwNzE4\nMTQxODM2WjATMREwDwYDVQQDDAhsYWlrYS5sazCCASIwDQYJKoZIhvcNAQEBBQAD\nggEPADCCAQoCggEBANIM6doqyPN82t8cL2/uhjxb9heF/oD+aQAKSYpxkb9cLohU\nxSDoZGNt8ZWrf6CaLAmz+0IHNMUMkakT0k6gR7bLnqFHWcmTzMxu87yF1YXu7Gkm\n1vzkyX31kZTV+zxs8rHl7KLVHTcx/dMPGXqFbtx3cgOhcoOPtOscTy2nztsNbYUn\n4c1wK5PKnvGyhxE4VfmfsQTJFFuY85b+y30Dgd6OCNGq4HQOALKfz7Jq93p5IGVS\nOpC3Kn9BmpuB1UaRClfhgfKQLmhHWwQ0Z+AJzwYIbfKck+iWBuyTWSmzvnmgNcP2\n9aH364g0r5fXZTW4g8F+PsJBa7FK9r0HjhiBf8kCAwEAATANBgkqhkiG9w0BAQsF\nAAOCAQEAKpEB/+KE9AAqmIMsa4IERkFzLIaqleH69LpBzv2I8hcDwbZf4QYZkPkt\nJxltExNSi+W328Woa7PgM3SSadQ/A4/UBN4wGa/bA1wQD9DdCSdSuPmepwZ7KcqL\npeLoshaBrMdxN/wOLxgTemh6DD50E7IM8M5BHhfpkgeV3CiQInelzT+w5u+q2GcB\n0agGOEhDLFRpXZGmP2MQOjdhf8mLRi/Zv33Sc67iIIkuP+IVgg1mYwNzSzh/y1vA\nr0/1O6HfFJMorz42/84xz6S3tfpVUBKMOkHNU5nd/91y+zWQCox0leJRmQsYpGMI\n072ao2pYKM3YrrlX0zzkNCDIiGUAgw==\n-----END CERTIFICATE-----\n"
+}

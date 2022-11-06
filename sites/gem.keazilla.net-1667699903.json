@@ -1,0 +1,22 @@
+{
+  "server": "gem.keazilla.net",
+  "ip": "211.27.67.82",
+  "route": {
+    "0": "170.39.230.241",
+    "3": "184.104.198.34",
+    "8": "114.31.199.42",
+    "1": "198.32.181.52",
+    "9": "114.31.192.67",
+    "11": "175.45.103.110",
+    "12": "203.134.52.161",
+    "13": "202.138.24.35",
+    "14": "211.27.67.82",
+    "15": "211.27.67.82",
+    "7": "64.71.184.46",
+    "16": "211.27.67.82",
+    "17": "211.27.67.82",
+    "10": "114.31.192.65",
+    "2": "184.105.80.5"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBVjCB/aADAgECAhAg85lHTbY/6PlgWQVhVrBSMAoGCCqGSM49BAMCMBcxFTAT\nBgNVBAMTDGtlYXppbGxhLm5ldDAeFw0yMjAyMTYwOTMyMzdaFw0yNzAyMTYwOTMy\nMzdaMBcxFTATBgNVBAMTDGtlYXppbGxhLm5ldDBZMBMGByqGSM49AgEGCCqGSM49\nAwEHA0IABOV4DQeOQwzuqwtH+eKVoMQ5r9WeXUVQoZLbIl/VGgFbDpuh80Y7qFRL\nTpXnwnm+YxKhI2uPloouNQ/6Vyl4je6jKzApMCcGA1UdEQQgMB6CDGtlYXppbGxh\nLm5ldIIOKi5rZWF6aWxsYS5uZXQwCgYIKoZIzj0EAwIDSAAwRQIgLcC0yq7JulAn\nJ2NtI6FVO00t/OXTyDdH2wAnrQfdOkICIQCsf7Y0uqq0/qRBowK7PmS6uWY7hF2D\nod0iGm/IlC5NeQ==\n-----END CERTIFICATE-----\n"
+}

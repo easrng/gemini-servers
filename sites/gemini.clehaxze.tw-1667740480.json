@@ -1,0 +1,23 @@
+{
+  "server": "gemini.clehaxze.tw",
+  "ip": "61.61.239.115",
+  "route": {
+    "0": "170.39.230.241",
+    "1": "38.32.59.33",
+    "2": "66.28.4.245",
+    "3": "154.54.31.225",
+    "4": "154.54.7.129",
+    "5": "154.54.46.178",
+    "6": "63.218.5.65",
+    "7": "63.223.19.238",
+    "8": "63.222.54.34",
+    "9": "60.199.17.41",
+    "10": "60.199.47.226",
+    "11": "61.31.51.150",
+    "16": "61.61.239.115",
+    "17": "61.61.239.115",
+    "18": "61.61.239.115",
+    "19": "61.61.239.115"
+  },
+  "certs": "-----BEGIN CERTIFICATE-----\nMIIBtzCCAT2gAwIBAgIBATAKBggqhkjOPQQDAjA0MRUwEwYDVQQKDAxnbW5pc3J2\nIHVzZXIxGzAZBgNVBAMMEmdlbWluaS5jbGVoYXh6ZS50dzAgFw0yMTExMTcwMDQ3\nMjlaGA8yMDg5MTIwNTA0MDEzNlowNDEVMBMGA1UECgwMZ21uaXNydiB1c2VyMRsw\nGQYDVQQDDBJnZW1pbmkuY2xlaGF4emUudHcwdjAQBgcqhkjOPQIBBgUrgQQAIgNi\nAATvNWCaOC6jE5RSNVGyGWPm0P04qThZePsSJ+eQQwNhh8nGSqUZUbmfQ5fbk8fp\nQx5UwlWzOc65+CIemRDAIUjV2eoEwk+WVuFDBB6i6QPIkL1Acu7SucOOzft0VCDw\nrYKjITAfMB0GA1UdEQQWMBSCEmdlbWluaS5jbGVoYXh6ZS50dzAKBggqhkjOPQQD\nAgNoADBlAjAubojonp5Ftv14mvjhBMHBJ4DOYH1N/uPotFDvJKcRAgqo3hz3bRTn\nVsNPQu8sOy8CMQDquXkiSFMHRvxmY3WoNGaHlg1JrZZmLYszk4cY3n++eYP9z4Vp\ngY2dNZwLkJaZ7Kk=\n-----END CERTIFICATE-----\n"
+}
